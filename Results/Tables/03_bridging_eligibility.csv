@@ -1,0 +1,4 @@
+Airline,All airports,Eligible (degree >= 2),Excluded (degree 1),Excluded share (%),Highest-degree airport
+AA,230,175,55,23.91304347826087,DFW
+DL,212,142,70,33.0188679245283,ATL
+WN,104,102,2,1.9230769230769231,DEN

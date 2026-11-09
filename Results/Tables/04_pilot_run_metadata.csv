@@ -1,0 +1,2 @@
+Python,NetworkX,NumPy,pandas,SciPy,Matplotlib,Master seed,Pilot chains per airline and null model,Stability rule,Minimum successful swaps
+3.14.5,3.6.1,2.4.6,3.0.5,1.18.1,3.11.1,20250401,300,"max(0.25 x SD(reference), 0.001); reference 200 x U",10 x U

@@ -1,0 +1,10 @@
+Airline,Network set,Networks,Paired random trials,Pairing
+AA,directed,200,100,Trial t uses the same saved airport order on every network of the airline
+AA,observed,1,100,Trial t uses the same saved airport order on every network of the airline
+AA,reciprocal,100,100,Trial t uses the same saved airport order on every network of the airline
+DL,directed,200,100,Trial t uses the same saved airport order on every network of the airline
+DL,observed,1,100,Trial t uses the same saved airport order on every network of the airline
+DL,reciprocal,100,100,Trial t uses the same saved airport order on every network of the airline
+WN,directed,200,100,Trial t uses the same saved airport order on every network of the airline
+WN,observed,1,100,Trial t uses the same saved airport order on every network of the airline
+WN,reciprocal,100,100,Trial t uses the same saved airport order on every network of the airline

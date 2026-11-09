@@ -1,0 +1,4 @@
+Airline,Status,Single-run median Gain: minimum,Median,Maximum,Runs with median Gain at least 0.02,Runs
+AA,Algorithmic variation across Louvain runs; not a confidence interval,0.005264245603052942,0.03899500003811823,0.0481099253189774,82,100
+DL,Algorithmic variation across Louvain runs; not a confidence interval,0.0030230981974724846,0.02077907140916721,0.03263698615872984,54,100
+WN,Algorithmic variation across Louvain runs; not a confidence interval,-0.001702622831863343,0.002535929150437488,0.007643905214593905,0,100

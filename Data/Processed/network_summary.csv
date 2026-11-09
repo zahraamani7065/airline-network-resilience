@@ -1,0 +1,4 @@
+Airline,Airports,Directed routes,Density,Total scheduled flights,Strongly connected components
+AA,230,1808,0.034326941332827036,514206.0,1
+DL,212,1506,0.033667173388178484,418790.0,1
+WN,104,1792,0.1672890216579537,359789.0,1

@@ -1,0 +1,77 @@
+Check,Result,Detail
+AA: one row per airport,PASS,230
+AA: intact efficiency matches Step 6,PASS,
+AA: decomposition identity holds for every airport,PASS,230
+AA: surviving-airport damage is non-negative,PASS,
+AA: zero-betweenness airports have zero surviving-airport damage,PASS,192
+AA: eligible airport count,PASS,175
+AA: degree matches the network,PASS,
+AA airport index 0: efficiency after removal matches NetworkX,PASS,
+AA airport index 32: efficiency after removal matches NetworkX,PASS,
+AA airport index 65: efficiency after removal matches NetworkX,PASS,
+AA airport index 98: efficiency after removal matches NetworkX,PASS,
+AA airport index 130: efficiency after removal matches NetworkX,PASS,
+AA airport index 163: efficiency after removal matches NetworkX,PASS,
+AA airport index 196: efficiency after removal matches NetworkX,PASS,
+AA airport index 229: efficiency after removal matches NetworkX,PASS,
+AA airport index 59: efficiency after removal matches NetworkX,PASS,
+AA airport index 46: efficiency after removal matches NetworkX,PASS,
+AA airport index 161: efficiency after removal matches NetworkX,PASS,
+DL: one row per airport,PASS,212
+DL: intact efficiency matches Step 6,PASS,
+DL: decomposition identity holds for every airport,PASS,212
+DL: surviving-airport damage is non-negative,PASS,
+DL: zero-betweenness airports have zero surviving-airport damage,PASS,161
+DL: eligible airport count,PASS,142
+DL: degree matches the network,PASS,
+DL airport index 0: efficiency after removal matches NetworkX,PASS,
+DL airport index 30: efficiency after removal matches NetworkX,PASS,
+DL airport index 60: efficiency after removal matches NetworkX,PASS,
+DL airport index 90: efficiency after removal matches NetworkX,PASS,
+DL airport index 120: efficiency after removal matches NetworkX,PASS,
+DL airport index 150: efficiency after removal matches NetworkX,PASS,
+DL airport index 180: efficiency after removal matches NetworkX,PASS,
+DL airport index 211: efficiency after removal matches NetworkX,PASS,
+DL airport index 11: efficiency after removal matches NetworkX,PASS,
+DL airport index 142: efficiency after removal matches NetworkX,PASS,
+DL airport index 60: efficiency after removal matches NetworkX,PASS,
+WN: one row per airport,PASS,104
+WN: intact efficiency matches Step 6,PASS,
+WN: decomposition identity holds for every airport,PASS,104
+WN: surviving-airport damage is non-negative,PASS,
+WN: zero-betweenness airports have zero surviving-airport damage,PASS,33
+WN: eligible airport count,PASS,102
+WN: degree matches the network,PASS,
+WN airport index 0: efficiency after removal matches NetworkX,PASS,
+WN airport index 14: efficiency after removal matches NetworkX,PASS,
+WN airport index 29: efficiency after removal matches NetworkX,PASS,
+WN airport index 44: efficiency after removal matches NetworkX,PASS,
+WN airport index 58: efficiency after removal matches NetworkX,PASS,
+WN airport index 73: efficiency after removal matches NetworkX,PASS,
+WN airport index 88: efficiency after removal matches NetworkX,PASS,
+WN airport index 103: efficiency after removal matches NetworkX,PASS,
+WN airport index 23: efficiency after removal matches NetworkX,PASS,
+WN airport index 21: efficiency after removal matches NetworkX,PASS,
+WN airport index 56: efficiency after removal matches NetworkX,PASS,
+All airports retained in descriptive output,PASS,546
+AA: bootstrap count and size,PASS,"(2000, 175)"
+AA: every bootstrap has out-of-bag airports,PASS,
+AA: bootstrap samples reproduce from the recorded seed,PASS,
+AA: training ranks do not depend on out-of-bag values,PASS,
+AA: rank function stays in 0 to 1,PASS,
+AA: rank function matches its definition,PASS,
+DL: bootstrap count and size,PASS,"(2000, 142)"
+DL: every bootstrap has out-of-bag airports,PASS,
+DL: bootstrap samples reproduce from the recorded seed,PASS,
+DL: training ranks do not depend on out-of-bag values,PASS,
+DL: rank function stays in 0 to 1,PASS,
+DL: rank function matches its definition,PASS,
+WN: bootstrap count and size,PASS,"(2000, 102)"
+WN: every bootstrap has out-of-bag airports,PASS,
+WN: bootstrap samples reproduce from the recorded seed,PASS,
+WN: training ranks do not depend on out-of-bag values,PASS,
+WN: rank function stays in 0 to 1,PASS,
+WN: rank function matches its definition,PASS,
+AA: mean of single-run participation equals the accepted Step 3 value,PASS,
+DL: mean of single-run participation equals the accepted Step 3 value,PASS,
+WN: mean of single-run participation equals the accepted Step 3 value,PASS,

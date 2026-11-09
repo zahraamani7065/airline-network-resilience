@@ -1,0 +1,61 @@
+Airline,Population,Measure,k,Airports in both top k,Overlap share
+AA,Eligible (degree >= 2),Degree,10,9,0.9
+AA,Eligible (degree >= 2),Degree,20,20,1.0
+AA,Eligible (degree >= 2),Betweenness,10,10,1.0
+AA,Eligible (degree >= 2),Betweenness,20,19,0.95
+AA,Eligible (degree >= 2),Core number,10,6,0.6
+AA,Eligible (degree >= 2),Core number,20,20,1.0
+AA,Eligible (degree >= 2),Mean participation,10,2,0.2
+AA,Eligible (degree >= 2),Mean participation,20,7,0.35
+AA,Eligible (degree >= 2),Total strength (supplementary),10,9,0.9
+AA,Eligible (degree >= 2),Total strength (supplementary),20,16,0.8
+AA,All airports,Degree,10,9,0.9
+AA,All airports,Degree,20,20,1.0
+AA,All airports,Betweenness,10,10,1.0
+AA,All airports,Betweenness,20,19,0.95
+AA,All airports,Core number,10,6,0.6
+AA,All airports,Core number,20,20,1.0
+AA,All airports,Mean participation,10,2,0.2
+AA,All airports,Mean participation,20,7,0.35
+AA,All airports,Total strength (supplementary),10,9,0.9
+AA,All airports,Total strength (supplementary),20,16,0.8
+DL,Eligible (degree >= 2),Degree,10,10,1.0
+DL,Eligible (degree >= 2),Degree,20,20,1.0
+DL,Eligible (degree >= 2),Betweenness,10,10,1.0
+DL,Eligible (degree >= 2),Betweenness,20,18,0.9
+DL,Eligible (degree >= 2),Core number,10,7,0.7
+DL,Eligible (degree >= 2),Core number,20,20,1.0
+DL,Eligible (degree >= 2),Mean participation,10,0,0.0
+DL,Eligible (degree >= 2),Mean participation,20,13,0.65
+DL,Eligible (degree >= 2),Total strength (supplementary),10,9,0.9
+DL,Eligible (degree >= 2),Total strength (supplementary),20,18,0.9
+DL,All airports,Degree,10,10,1.0
+DL,All airports,Degree,20,20,1.0
+DL,All airports,Betweenness,10,10,1.0
+DL,All airports,Betweenness,20,18,0.9
+DL,All airports,Core number,10,7,0.7
+DL,All airports,Core number,20,20,1.0
+DL,All airports,Mean participation,10,0,0.0
+DL,All airports,Mean participation,20,13,0.65
+DL,All airports,Total strength (supplementary),10,9,0.9
+DL,All airports,Total strength (supplementary),20,18,0.9
+WN,Eligible (degree >= 2),Degree,10,9,0.9
+WN,Eligible (degree >= 2),Degree,20,19,0.95
+WN,Eligible (degree >= 2),Betweenness,10,9,0.9
+WN,Eligible (degree >= 2),Betweenness,20,19,0.95
+WN,Eligible (degree >= 2),Core number,10,4,0.4
+WN,Eligible (degree >= 2),Core number,20,14,0.7
+WN,Eligible (degree >= 2),Mean participation,10,5,0.5
+WN,Eligible (degree >= 2),Mean participation,20,10,0.5
+WN,Eligible (degree >= 2),Total strength (supplementary),10,9,0.9
+WN,Eligible (degree >= 2),Total strength (supplementary),20,18,0.9
+WN,All airports,Degree,10,9,0.9
+WN,All airports,Degree,20,19,0.95
+WN,All airports,Betweenness,10,9,0.9
+WN,All airports,Betweenness,20,19,0.95
+WN,All airports,Core number,10,4,0.4
+WN,All airports,Core number,20,14,0.7
+WN,All airports,Mean participation,10,5,0.5
+WN,All airports,Mean participation,20,10,0.5
+WN,All airports,Total strength (supplementary),10,9,0.9
+WN,All airports,Total strength (supplementary),20,18,0.9

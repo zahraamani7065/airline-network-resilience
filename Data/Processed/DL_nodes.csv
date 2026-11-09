@@ -1,0 +1,213 @@
+airport_id,code,city,state
+10135,ABE,"Allentown/Bethlehem/Easton, PA",PA
+10140,ABQ,"Albuquerque, NM",NM
+10141,ABR,"Aberdeen, SD",SD
+10146,ABY,"Albany, GA",GA
+10154,ACK,"Nantucket, MA",MA
+10185,AEX,"Alexandria, LA",LA
+10208,AGS,"Augusta, GA",GA
+10257,ALB,"Albany, NY",NY
+10299,ANC,"Anchorage, AK",AK
+10333,APN,"Alpena, MI",MI
+10372,ASE,"Aspen, CO",CO
+10397,ATL,"Atlanta, GA",GA
+10408,ATW,"Appleton, WI",WI
+10423,AUS,"Austin, TX",TX
+10431,AVL,"Asheville, NC",NC
+10469,AZO,"Kalamazoo, MI",MI
+10529,BDL,"Hartford, CT",CT
+10577,BGM,"Binghamton, NY",NY
+10581,BGR,"Bangor, ME",ME
+10599,BHM,"Birmingham, AL",AL
+10620,BIL,"Billings, MT",MT
+10627,BIS,"Bismarck/Mandan, ND",ND
+10631,BJI,"Bemidji, MN",MN
+10685,BMI,"Bloomington/Normal, IL",IL
+10693,BNA,"Nashville, TN",TN
+10713,BOI,"Boise, ID",ID
+10721,BOS,"Boston, MA",MA
+10731,BQK,"Brunswick, GA",GA
+10739,BRD,"Brainerd, MN",MN
+10779,BTM,"Butte, MT",MT
+10781,BTR,"Baton Rouge, LA",LA
+10785,BTV,"Burlington, VT",VT
+10792,BUF,"Buffalo, NY",NY
+10800,BUR,"Burbank, CA",CA
+10821,BWI,"Baltimore, MD",MD
+10849,BZN,"Bozeman, MT",MT
+10868,CAE,"Columbia, SC",SC
+10918,CDC,"Cedar City, UT",UT
+10980,CHA,"Chattanooga, TN",TN
+10990,CHO,"Charlottesville, VA",VA
+10994,CHS,"Charleston, SC",SC
+11003,CID,"Cedar Rapids/Iowa City, IA",IA
+11013,CIU,"Sault Ste. Marie, MI",MI
+11042,CLE,"Cleveland, OH",OH
+11057,CLT,"Charlotte, NC",NC
+11066,CMH,"Columbus, OH",OH
+11109,COS,"Colorado Springs, CO",CO
+11146,CRW,"Charleston/Dunbar, WV",WV
+11150,CSG,"Columbus, GA",GA
+11193,CVG,"Cincinnati, OH",KY
+11203,CWA,"Mosinee, WI",WI
+11252,DAB,"Daytona Beach, FL",FL
+11259,DAL,"Dallas, TX",TX
+11267,DAY,"Dayton, OH",OH
+11278,DCA,"Washington, DC",VA
+11292,DEN,"Denver, CO",CO
+11298,DFW,"Dallas/Fort Worth, TX",TX
+11308,DHN,"Dothan, AL",AL
+11337,DLH,"Duluth, MN",MN
+11423,DSM,"Des Moines, IA",IA
+11433,DTW,"Detroit, MI",MI
+11481,ECP,"Panama City, FL",FL
+11525,EKO,"Elko, NV",NV
+11537,ELM,"Elmira/Corning, NY",NY
+11540,ELP,"El Paso, TX",TX
+11587,ESC,"Escanaba, MI",MI
+11603,EUG,"Eugene, OR",OR
+11612,EVV,"Evansville, IN",IN
+11618,EWR,"Newark, NJ",NJ
+11624,EYW,"Key West, FL",FL
+11630,FAI,"Fairbanks, AK",AK
+11637,FAR,"Fargo, ND",ND
+11638,FAT,"Fresno, CA",CA
+11641,FAY,"Fayetteville, NC",NC
+11648,FCA,"Kalispell, MT",MT
+11697,FLL,"Fort Lauderdale, FL",FL
+11775,FSD,"Sioux Falls, SD",SD
+11823,FWA,"Fort Wayne, IN",IN
+11884,GEG,"Spokane, WA",WA
+11898,GFK,"Grand Forks, ND",ND
+11921,GJT,"Grand Junction, CO",CO
+11953,GNV,"Gainesville, FL",FL
+11973,GPT,"Gulfport/Biloxi, MS",MS
+11977,GRB,"Green Bay, WI",WI
+11986,GRR,"Grand Rapids, MI",MI
+11995,GSO,"Greensboro/High Point, NC",NC
+11996,GSP,"Greer, SC",SC
+12003,GTF,"Great Falls, MT",MT
+12007,GTR,"Columbus, MS",MS
+12124,HHH,"Hilton Head, SC",SC
+12129,HIB,"Hibbing, MN",MN
+12156,HLN,"Helena, MT",MT
+12173,HNL,"Honolulu, HI",HI
+12191,HOU,"Houston, TX",TX
+12197,HPN,"White Plains, NY",NY
+12206,HRL,"Harlingen/San Benito, TX",TX
+12217,HSV,"Huntsville, AL",AL
+12264,IAD,"Washington, DC",VA
+12266,IAH,"Houston, TX",TX
+12278,ICT,"Wichita, KS",KS
+12280,IDA,"Idaho Falls, ID",ID
+12323,ILM,"Wilmington, NC",NC
+12335,IMT,"Iron Mountain/Kingsfd, MI",MI
+12339,IND,"Indianapolis, IN",IN
+12343,INL,"International Falls, MN",MN
+12397,ITH,"Ithaca/Cortland, NY",NY
+12441,JAC,"Jackson, WY",WY
+12448,JAN,"Jackson/Vicksburg, MS",MS
+12451,JAX,"Jacksonville, FL",FL
+12478,JFK,"New York, NY",NY
+12523,JNU,"Juneau, AK",AK
+12758,KOA,"Kona, HI",HI
+12884,LAN,"Lansing, MI",MI
+12889,LAS,"Las Vegas, NV",NV
+12892,LAX,"Los Angeles, CA",CA
+12945,LEX,"Lexington, KY",KY
+12951,LFT,"Lafayette, LA",LA
+12953,LGA,"New York, NY",NY
+12954,LGB,"Long Beach, CA",CA
+12982,LIH,"Lihue, HI",HI
+12992,LIT,"Little Rock, AR",AR
+13127,LWS,"Lewiston, ID",ID
+13158,MAF,"Midland/Odessa, TX",TX
+13184,MBS,"Saginaw/Bay City/Midland, MI",MI
+13198,MCI,"Kansas City, MO",MO
+13204,MCO,"Orlando, FL",FL
+13230,MDT,"Harrisburg, PA",PA
+13232,MDW,"Chicago, IL",IL
+13244,MEM,"Memphis, TN",TN
+13256,MFE,"Mission/McAllen/Edinburg, TX",TX
+13264,MFR,"Medford, OR",OR
+13277,MGM,"Montgomery, AL",AL
+13303,MIA,"Miami, FL",FL
+13342,MKE,"Milwaukee, WI",WI
+13360,MLB,"Melbourne, FL",FL
+13367,MLI,"Moline, IL",IL
+13377,MLU,"Monroe, LA",LA
+13422,MOB,"Mobile, AL",AL
+13433,MOT,"Minot, ND",ND
+13459,MQT,"Marquette, MI",MI
+13485,MSN,"Madison, WI",WI
+13486,MSO,"Missoula, MT",MT
+13487,MSP,"Minneapolis, MN",MN
+13495,MSY,"New Orleans, LA",LA
+13541,MVY,"Martha's Vineyard, MA",MA
+13577,MYR,"Myrtle Beach, SC",SC
+13795,OAJ,"Jacksonville/Camp Lejeune, NC",NC
+13796,OAK,"Oakland, CA",CA
+13830,OGG,"Kahului, HI",HI
+13851,OKC,"Oklahoma City, OK",OK
+13871,OMA,"Omaha, NE",NE
+13891,ONT,"Ontario, CA",CA
+13930,ORD,"Chicago, IL",IL
+13931,ORF,"Norfolk, VA",VA
+13933,ORH,"Worcester, MA",MA
+14027,PBI,"West Palm Beach/Palm Beach, FL",FL
+14057,PDX,"Portland, OR",OR
+14100,PHL,"Philadelphia, PA",PA
+14107,PHX,"Phoenix, AZ",AZ
+14113,PIH,"Pocatello, ID",ID
+14122,PIT,"Pittsburgh, PA",PA
+14150,PLN,"Pellston, MI",MI
+14193,PNS,"Pensacola, FL",FL
+14252,PSC,"Pasco/Kennewick/Richland, WA",WA
+14262,PSP,"Palm Springs, CA",CA
+14307,PVD,"Providence, RI",RI
+14321,PWM,"Portland, ME",ME
+14457,RAP,"Rapid City, SD",SD
+14489,RDM,"Bend/Redmond, OR",OR
+14492,RDU,"Raleigh/Durham, NC",NC
+14520,RHI,"Rhinelander, WI",WI
+14524,RIC,"Richmond, VA",VA
+14570,RNO,"Reno, NV",NV
+14574,ROA,"Roanoke, VA",VA
+14576,ROC,"Rochester, NY",NY
+14633,RST,"Rochester, MN",MN
+14635,RSW,"Fort Myers, FL",FL
+14679,SAN,"San Diego, CA",CA
+14683,SAT,"San Antonio, TX",TX
+14685,SAV,"Savannah, GA",GA
+14689,SBA,"Santa Barbara, CA",CA
+14696,SBN,"South Bend, IN",IN
+14730,SDF,"Louisville, KY",KY
+14747,SEA,"Seattle, WA",WA
+14771,SFO,"San Francisco, CA",CA
+14783,SGF,"Springfield, MO",MO
+14794,SGU,"St. George, UT",UT
+14814,SHV,"Shreveport, LA",LA
+14831,SJC,"San Jose, CA",CA
+14843,SJU,"San Juan, PR",PR
+14869,SLC,"Salt Lake City, UT",UT
+14893,SMF,"Sacramento, CA",CA
+14908,SNA,"Santa Ana, CA",CA
+14986,SRQ,"Sarasota/Bradenton, FL",FL
+15016,STL,"St. Louis, MO",MO
+15024,STT,"Charlotte Amalie, VI",VI
+15027,STX,"Christiansted, VI",VI
+15041,SUN,"Sun Valley/Hailey/Ketchum, ID",ID
+15096,SYR,"Syracuse, NY",NY
+15249,TLH,"Tallahassee, FL",FL
+15304,TPA,"Tampa, FL",FL
+15323,TRI,"Bristol/Johnson City/Kingsport, TN",TN
+15370,TUL,"Tulsa, OK",OK
+15376,TUS,"Tucson, AZ",AZ
+15380,TVC,"Traverse City, MI",MI
+15389,TWF,"Twin Falls, ID",ID
+15412,TYS,"Knoxville, TN",TN
+15607,VLD,"Valdosta, GA",GA
+15624,VPS,"Valparaiso, FL",FL
+15897,WYS,"West Yellowstone, MT",MT
+15919,XNA,"Fayetteville, AR",AR
+16869,XWA,"Williston, ND",ND

@@ -1,0 +1,4 @@
+Airline,Eligible airports,Spearman mean participation vs betweenness,Spearman mean inter-community fraction vs betweenness,Top-10 overlap (bridging vs betweenness),Airports in both top 10s,Top-10 bridges with zero betweenness,Mean participation rank of top-10 betweenness airports
+AA,175,0.4878092942072759,0.40822068778582626,2,"MIA, ORD",1,61.6
+DL,142,0.5690269172799394,0.4889410389322219,0,none,1,36.9
+WN,102,0.339593976828904,0.2185007677647925,5,"DAL, DEN, HOU, LAS, STL",2,14.5

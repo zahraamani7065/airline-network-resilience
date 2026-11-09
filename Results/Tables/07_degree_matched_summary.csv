@@ -1,0 +1,4 @@
+Airline,Comparable_bins,Bins_with_higher_loss,Share of bins with higher loss,Condition met (at least 2/3)
+AA,7,7,1.0,True
+DL,8,7,0.875,True
+WN,8,6,0.75,True

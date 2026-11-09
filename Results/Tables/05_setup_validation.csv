@@ -1,0 +1,24 @@
+Check,Result,Detail
+AA: removal counts match the approved table,PASS,"{5: 12, 10: 23, 15: 35, 20: 46}"
+DL: removal counts match the approved table,PASS,"{5: 11, 10: 21, 15: 32, 20: 42}"
+WN: removal counts match the approved table,PASS,"{5: 5, 10: 10, 15: 16, 20: 21}"
+Observed networks present,PASS,"{'AA': 1, 'DL': 1, 'WN': 1}"
+Primary-null network counts,PASS,"{'AA': 200, 'DL': 200, 'WN': 200}"
+Supplementary-null network counts,PASS,"{'AA': 100, 'DL': 100, 'WN': 100}"
+Every randomized network matches its recorded hash,PASS,903
+Every network keeps the observed in-degree and out-degree of each airport,PASS,903
+Step 2 observed betweenness matches a fresh calculation,PASS,
+"Every ranking is a full airport order, descending, with ties by ascending BTS ID",PASS,1806 rankings
+"Degree rankings are identical across each airline's networks, as degrees are preserved",PASS,
+Observed cut-off ties match the approved protocol table,PASS,10
+AA at 20% selects eight zero-betweenness airports by ascending ID,PASS,"['ABE', 'ABI', 'ABQ', 'ACK', 'ACT', 'AEX', 'ALB', 'ALO']"
+Betweenness ties match the saved Step 4 records for every primary-null network,PASS,2400
+AA: 100 random orders saved,PASS,100
+DL: 100 random orders saved,PASS,100
+WN: 100 random orders saved,PASS,100
+Every random order is reproduced from its recorded seed,PASS,300
+Random orders are distinct within each airline,PASS,
+Every randomized network uses only the airports in its airline's random orders,PASS,900
+Random removal sets are nested across levels by construction,PASS,
+Tie-order replicates only permute within tied groups and reproduce from their seeds,PASS,100 per airline and strategy
+Removal plans apply structurally on sampled networks,PASS,252 applications

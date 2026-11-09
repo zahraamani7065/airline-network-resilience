@@ -1,0 +1,4 @@
+Stage,Airline,Model,Chain or trial,Entropy,Spawn key
+bootstrap,AA,directed,1,20250401,"(6, 0, 0, 1)"
+bootstrap,DL,directed,1,20250401,"(6, 1, 0, 1)"
+bootstrap,WN,directed,1,20250401,"(6, 2, 0, 1)"

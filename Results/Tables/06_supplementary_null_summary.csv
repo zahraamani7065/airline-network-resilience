@@ -1,0 +1,10 @@
+Airline,Strategy,Systematic deviation (exploratory),Status
+AA,Degree,None,Supplementary; does not determine H2
+AA,Betweenness,None,Supplementary; does not determine H2
+AA,Random (mean of matched orders),None,Supplementary; does not determine H2
+DL,Degree,None,Supplementary; does not determine H2
+DL,Betweenness,None,Supplementary; does not determine H2
+DL,Random (mean of matched orders),None,Supplementary; does not determine H2
+WN,Degree,None,Supplementary; does not determine H2
+WN,Betweenness,None,Supplementary; does not determine H2
+WN,Random (mean of matched orders),None,Supplementary; does not determine H2

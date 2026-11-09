@@ -1,0 +1,7 @@
+Airline,Strategy,"H1 verdict (official, ID ties)",Efficiency levels met,Reachability levels met,Largest SCC levels met,Contrary flag
+AA,Degree,Supported,4,4,4,False
+AA,Betweenness,Supported,4,4,4,False
+DL,Degree,Supported,4,4,4,False
+DL,Betweenness,Supported,4,4,4,False
+WN,Degree,Supported,4,4,4,False
+WN,Betweenness,Supported,4,4,4,False

@@ -1,0 +1,109 @@
+Airline,Strategy,Level,Measure,Position primary,Position supplementary,Reading
+AA,Degree,5,Efficiency retention,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+AA,Degree,5,Reachability,below,within,Primary deviation may reflect lost reciprocity
+AA,Degree,5,Largest SCC,within,within,Degrees account for the result under these models
+AA,Degree,10,Efficiency retention,below,within,Primary deviation may reflect lost reciprocity
+AA,Degree,10,Reachability,below,within,Primary deviation may reflect lost reciprocity
+AA,Degree,10,Largest SCC,within,within,Degrees account for the result under these models
+AA,Degree,15,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Degree,15,Reachability,within,within,Degrees account for the result under these models
+AA,Degree,15,Largest SCC,within,within,Degrees account for the result under these models
+AA,Degree,20,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Degree,20,Reachability,within,within,Degrees account for the result under these models
+AA,Degree,20,Largest SCC,within,within,Degrees account for the result under these models
+AA,Betweenness,5,Efficiency retention,below,within,Primary deviation may reflect lost reciprocity
+AA,Betweenness,5,Reachability,within,within,Degrees account for the result under these models
+AA,Betweenness,5,Largest SCC,within,within,Degrees account for the result under these models
+AA,Betweenness,10,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Betweenness,10,Reachability,within,within,Degrees account for the result under these models
+AA,Betweenness,10,Largest SCC,within,within,Degrees account for the result under these models
+AA,Betweenness,15,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Betweenness,15,Reachability,within,within,Degrees account for the result under these models
+AA,Betweenness,15,Largest SCC,within,within,Degrees account for the result under these models
+AA,Betweenness,20,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Betweenness,20,Reachability,within,within,Degrees account for the result under these models
+AA,Betweenness,20,Largest SCC,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),5,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),5,Reachability,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),5,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+AA,Random (mean of matched orders),10,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),10,Reachability,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+AA,Random (mean of matched orders),15,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),15,Reachability,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),15,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+AA,Random (mean of matched orders),20,Efficiency retention,within,within,Degrees account for the result under these models
+AA,Random (mean of matched orders),20,Reachability,above,within,Primary deviation may reflect lost reciprocity
+AA,Random (mean of matched orders),20,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Degree,5,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Degree,5,Reachability,within,within,Degrees account for the result under these models
+DL,Degree,5,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Degree,10,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Degree,10,Reachability,within,within,Degrees account for the result under these models
+DL,Degree,10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Degree,15,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Degree,15,Reachability,within,within,Degrees account for the result under these models
+DL,Degree,15,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Degree,20,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Degree,20,Reachability,within,within,Degrees account for the result under these models
+DL,Degree,20,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Betweenness,5,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Betweenness,5,Reachability,within,within,Degrees account for the result under these models
+DL,Betweenness,5,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Betweenness,10,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Betweenness,10,Reachability,within,within,Degrees account for the result under these models
+DL,Betweenness,10,Largest SCC,within,within,Degrees account for the result under these models
+DL,Betweenness,15,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Betweenness,15,Reachability,within,within,Degrees account for the result under these models
+DL,Betweenness,15,Largest SCC,within,within,Degrees account for the result under these models
+DL,Betweenness,20,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Betweenness,20,Reachability,within,within,Degrees account for the result under these models
+DL,Betweenness,20,Largest SCC,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),5,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),5,Reachability,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),5,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Random (mean of matched orders),10,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),10,Reachability,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Random (mean of matched orders),15,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),15,Reachability,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),15,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+DL,Random (mean of matched orders),20,Efficiency retention,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),20,Reachability,within,within,Degrees account for the result under these models
+DL,Random (mean of matched orders),20,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+WN,Degree,5,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Degree,5,Reachability,within,within,Degrees account for the result under these models
+WN,Degree,5,Largest SCC,within,within,Degrees account for the result under these models
+WN,Degree,10,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Degree,10,Reachability,within,within,Degrees account for the result under these models
+WN,Degree,10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+WN,Degree,15,Efficiency retention,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Degree,15,Reachability,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Degree,15,Largest SCC,within,below,Deviation appears only with reciprocal pairs held fixed
+WN,Degree,20,Efficiency retention,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Degree,20,Reachability,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Degree,20,Largest SCC,within,below,Deviation appears only with reciprocal pairs held fixed
+WN,Betweenness,5,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Betweenness,5,Reachability,within,within,Degrees account for the result under these models
+WN,Betweenness,5,Largest SCC,within,within,Degrees account for the result under these models
+WN,Betweenness,10,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Betweenness,10,Reachability,within,within,Degrees account for the result under these models
+WN,Betweenness,10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+WN,Betweenness,15,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Betweenness,15,Reachability,below,within,Primary deviation may reflect lost reciprocity
+WN,Betweenness,15,Largest SCC,within,within,Degrees account for the result under these models
+WN,Betweenness,20,Efficiency retention,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Betweenness,20,Reachability,below,below,"Not explained by degrees, even with reciprocal pairs retained"
+WN,Betweenness,20,Largest SCC,within,below,Deviation appears only with reciprocal pairs held fixed
+WN,Random (mean of matched orders),5,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),5,Reachability,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),5,Largest SCC,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),10,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),10,Reachability,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),10,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+WN,Random (mean of matched orders),15,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),15,Reachability,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),15,Largest SCC,above,within,Primary deviation may reflect lost reciprocity
+WN,Random (mean of matched orders),20,Efficiency retention,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),20,Reachability,within,within,Degrees account for the result under these models
+WN,Random (mean of matched orders),20,Largest SCC,above,within,Primary deviation may reflect lost reciprocity

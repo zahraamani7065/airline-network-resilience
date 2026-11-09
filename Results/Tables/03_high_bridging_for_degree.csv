@@ -1,0 +1,4 @@
+Airline,AirportID,Code,Degree,Degree bin,Bin airports,Bin assessable,Participation mean,Excess over bin mean,Within-bin z,Runs above bin median (%),High for degree,Betweenness
+DL,12266,IAH,6,5-6,27,True,0.7172222222222223,0.08107654320987678,1.5197021321153141,100.0,True,8.732710154511103e-06
+WN,11109,COS,7,7-9,23,True,0.6669387755102045,0.13550355951559423,1.6332274128598483,99.0,True,0.0
+WN,13930,ORD,8,7-9,23,True,0.6578125,0.12637728400538972,1.523228211408154,99.0,True,0.0

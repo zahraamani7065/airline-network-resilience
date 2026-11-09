@@ -1,0 +1,7 @@
+Airline,Model,Unit U,B multiplier,A10 attempts,Proposed attempted swaps T,T / U,Minimum successful swaps required,"Successes at T, minimum across long-chain chains","Successes at T, median across long-chain chains",Long-chain test rounds
+AA,directed,1808,50,452000,452000,250.0,18080,19671,19980.0,1
+AA,reciprocal,904,50,226000,226000,250.0,9040,9705,9998.5,1
+DL,directed,1506,50,301200,301200,200.0,15060,16885,17311.0,1
+DL,reciprocal,753,20,150600,150600,200.0,7530,8359,8658.0,1
+WN,directed,1792,20,358400,358400,200.0,17920,34983,35428.5,1
+WN,reciprocal,896,20,179200,179200,200.0,8960,17396,17726.0,1

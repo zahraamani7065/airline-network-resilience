@@ -1,0 +1,4 @@
+Airline,New networks,Distinct new networks,New networks duplicating an existing network,Combined networks,Distinct combined networks,Any equals observed
+AA,100,100,0,200,200,False
+DL,100,100,0,200,200,False
+WN,100,100,0,200,200,False

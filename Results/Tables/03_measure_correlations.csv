@@ -1,0 +1,31 @@
+Airline,Measure A,Measure B,Spearman (degree >= 2)
+AA,Degree,Betweenness,0.7145338986065338
+AA,Degree,Core number,0.9995087762327328
+AA,Degree,Participation mean,0.7198558274850497
+AA,Degree,Inter-community fraction mean,0.5796364245845056
+AA,Betweenness,Core number,0.7134315707932063
+AA,Betweenness,Participation mean,0.487809294207276
+AA,Betweenness,Inter-community fraction mean,0.4082206877858262
+AA,Core number,Participation mean,0.7231027777483039
+AA,Core number,Inter-community fraction mean,0.5843811552038478
+AA,Participation mean,Inter-community fraction mean,0.9535863273186423
+DL,Degree,Betweenness,0.7182344707400571
+DL,Degree,Core number,0.9986268844134436
+DL,Degree,Participation mean,0.8408069003642232
+DL,Degree,Inter-community fraction mean,0.6775254201763121
+DL,Betweenness,Core number,0.7127700985805512
+DL,Betweenness,Participation mean,0.5690269172799394
+DL,Betweenness,Inter-community fraction mean,0.48894103893222185
+DL,Core number,Participation mean,0.8464247823308948
+DL,Core number,Inter-community fraction mean,0.6845213087626179
+DL,Participation mean,Inter-community fraction mean,0.9271597749158725
+WN,Degree,Betweenness,0.8835764492581599
+WN,Degree,Core number,0.9778389166639039
+WN,Degree,Participation mean,0.6096340359297675
+WN,Degree,Inter-community fraction mean,0.5071836697842304
+WN,Betweenness,Core number,0.8315515966896695
+WN,Betweenness,Participation mean,0.3395939768289041
+WN,Betweenness,Inter-community fraction mean,0.2185007677647925
+WN,Core number,Participation mean,0.6413670258481053
+WN,Core number,Inter-community fraction mean,0.5374193221587368
+WN,Participation mean,Inter-community fraction mean,0.9759625852206512

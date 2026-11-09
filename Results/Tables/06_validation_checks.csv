@@ -1,0 +1,36 @@
+Check,Result,Detail
+AA: 100 approved random orders loaded,PASS,100
+DL: 100 approved random orders loaded,PASS,100
+WN: 100 approved random orders loaded,PASS,100
+AA: observed intact metrics match Step 4,PASS,
+DL: observed intact metrics match Step 4,PASS,
+WN: observed intact metrics match Step 4,PASS,
+Null intact baselines match Step 4 records,PASS,900
+Primary-null outcomes match Step 4 records for all networks,PASS,7200
+Primary-null intervals match the 200-network Step 4 assessment,PASS,144
+AA: random-removal metrics never increase across nested levels,PASS,0
+AA: reachability and largest SCC respect removal ceilings,PASS,
+DL: random-removal metrics never increase across nested levels,PASS,0
+DL: reachability and largest SCC respect removal ceilings,PASS,
+WN: random-removal metrics never increase across nested levels,PASS,0
+WN: reachability and largest SCC respect removal ceilings,PASS,
+AA observed: SciPy matches NetworkX after removal,PASS,
+AA observed: SciPy matches NetworkX after removal,PASS,
+AA directed: SciPy matches NetworkX after removal,PASS,
+AA directed: SciPy matches NetworkX after removal,PASS,
+AA reciprocal: SciPy matches NetworkX after removal,PASS,
+AA reciprocal: SciPy matches NetworkX after removal,PASS,
+DL observed: SciPy matches NetworkX after removal,PASS,
+DL observed: SciPy matches NetworkX after removal,PASS,
+DL directed: SciPy matches NetworkX after removal,PASS,
+DL directed: SciPy matches NetworkX after removal,PASS,
+DL reciprocal: SciPy matches NetworkX after removal,PASS,
+DL reciprocal: SciPy matches NetworkX after removal,PASS,
+WN observed: SciPy matches NetworkX after removal,PASS,
+WN observed: SciPy matches NetworkX after removal,PASS,
+WN directed: SciPy matches NetworkX after removal,PASS,
+WN directed: SciPy matches NetworkX after removal,PASS,
+WN reciprocal: SciPy matches NetworkX after removal,PASS,
+WN reciprocal: SciPy matches NetworkX after removal,PASS,
+Expected network counts,PASS,"{'directed': 600, 'observed': 3, 'reciprocal': 300}"
+Row counts,PASS,10836

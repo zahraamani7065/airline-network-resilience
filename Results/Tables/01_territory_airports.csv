@@ -1,0 +1,8 @@
+Airline,AirportID,Code,City,State
+AA,14843,SJU,"San Juan, PR",PR
+AA,15024,STT,"Charlotte Amalie, VI",VI
+AA,15027,STX,"Christiansted, VI",VI
+DL,14843,SJU,"San Juan, PR",PR
+DL,15024,STT,"Charlotte Amalie, VI",VI
+DL,15027,STX,"Christiansted, VI",VI
+WN,14843,SJU,"San Juan, PR",PR

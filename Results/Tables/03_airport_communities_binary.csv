@@ -1,0 +1,547 @@
+Airline,AirportID,Code,City,State,Community
+AA,10135,ABE,"Allentown/Bethlehem/Easton, PA",PA,2
+AA,10136,ABI,"Abilene, TX",TX,0
+AA,10140,ABQ,"Albuquerque, NM",NM,0
+AA,10154,ACK,"Nantucket, MA",MA,1
+AA,10155,ACT,"Waco, TX",TX,0
+AA,10185,AEX,"Alexandria, LA",LA,0
+AA,10208,AGS,"Augusta, GA",GA,3
+AA,10257,ALB,"Albany, NY",NY,1
+AA,10268,ALO,"Waterloo, IA",IA,3
+AA,10279,AMA,"Amarillo, TX",TX,0
+AA,10299,ANC,"Anchorage, AK",AK,3
+AA,10361,ART,"Watertown, NY",NY,1
+AA,10372,ASE,"Aspen, CO",CO,3
+AA,10397,ATL,"Atlanta, GA",GA,0
+AA,10408,ATW,"Appleton, WI",WI,0
+AA,10423,AUS,"Austin, TX",TX,3
+AA,10431,AVL,"Asheville, NC",NC,1
+AA,10434,AVP,"Scranton/Wilkes-Barre, PA",PA,2
+AA,10469,AZO,"Kalamazoo, MI",MI,3
+AA,10529,BDL,"Hartford, CT",CT,2
+AA,10561,BFL,"Bakersfield, CA",CA,0
+AA,10581,BGR,"Bangor, ME",ME,1
+AA,10599,BHM,"Birmingham, AL",AL,2
+AA,10620,BIL,"Billings, MT",MT,0
+AA,10627,BIS,"Bismarck/Mandan, ND",ND,3
+AA,10685,BMI,"Bloomington/Normal, IL",IL,3
+AA,10693,BNA,"Nashville, TN",TN,4
+AA,10713,BOI,"Boise, ID",ID,0
+AA,10721,BOS,"Boston, MA",MA,1
+AA,10728,BPT,"Beaumont/Port Arthur, TX",TX,0
+AA,10747,BRO,"Brownsville, TX",TX,0
+AA,10781,BTR,"Baton Rouge, LA",LA,2
+AA,10785,BTV,"Burlington, VT",VT,1
+AA,10792,BUF,"Buffalo, NY",NY,1
+AA,10800,BUR,"Burbank, CA",CA,0
+AA,10821,BWI,"Baltimore, MD",MD,2
+AA,10849,BZN,"Bozeman, MT",MT,3
+AA,10868,CAE,"Columbia, SC",SC,1
+AA,10874,CAK,"Akron, OH",OH,2
+AA,10980,CHA,"Chattanooga, TN",TN,2
+AA,10990,CHO,"Charlottesville, VA",VA,2
+AA,10994,CHS,"Charleston, SC",SC,1
+AA,11003,CID,"Cedar Rapids/Iowa City, IA",IA,0
+AA,11041,CLD,"Carlsbad, CA",CA,0
+AA,11042,CLE,"Cleveland, OH",OH,4
+AA,11049,CLL,"College Station/Bryan, TX",TX,0
+AA,11057,CLT,"Charlotte, NC",NC,2
+AA,11066,CMH,"Columbus, OH",OH,1
+AA,11067,CMI,"Champaign/Urbana, IL",IL,3
+AA,11109,COS,"Colorado Springs, CO",CO,3
+AA,11111,COU,"Columbia, MO",MO,3
+AA,11140,CRP,"Corpus Christi, TX",TX,0
+AA,11146,CRW,"Charleston/Dunbar, WV",WV,2
+AA,11193,CVG,"Cincinnati, OH",KY,4
+AA,11203,CWA,"Mosinee, WI",WI,3
+AA,11252,DAB,"Daytona Beach, FL",FL,2
+AA,11267,DAY,"Dayton, OH",OH,1
+AA,11278,DCA,"Washington, DC",VA,1
+AA,11292,DEN,"Denver, CO",CO,0
+AA,11298,DFW,"Dallas/Fort Worth, TX",TX,0
+AA,11413,DRO,"Durango, CO",CO,0
+AA,11423,DSM,"Des Moines, IA",IA,1
+AA,11433,DTW,"Detroit, MI",MI,1
+AA,11481,ECP,"Panama City, FL",FL,1
+AA,11503,EGE,"Eagle, CO",CO,4
+AA,11540,ELP,"El Paso, TX",TX,0
+AA,11577,ERI,"Erie, PA",PA,2
+AA,11603,EUG,"Eugene, OR",OR,0
+AA,11612,EVV,"Evansville, IN",IN,3
+AA,11617,EWN,"New Bern/Morehead/Beaufort, NC",NC,2
+AA,11618,EWR,"Newark, NJ",NJ,2
+AA,11624,EYW,"Key West, FL",FL,1
+AA,11637,FAR,"Fargo, ND",ND,0
+AA,11638,FAT,"Fresno, CA",CA,0
+AA,11641,FAY,"Fayetteville, NC",NC,2
+AA,11648,FCA,"Kalispell, MT",MT,3
+AA,11695,FLG,"Flagstaff, AZ",AZ,0
+AA,11697,FLL,"Fort Lauderdale, FL",FL,1
+AA,11699,FLO,"Florence, SC",SC,2
+AA,11721,FNT,"Flint, MI",MI,3
+AA,11775,FSD,"Sioux Falls, SD",SD,0
+AA,11778,FSM,"Fort Smith, AR",AR,0
+AA,11823,FWA,"Fort Wayne, IN",IN,2
+AA,11867,GCK,"Garden City, KS",KS,0
+AA,11884,GEG,"Spokane, WA",WA,0
+AA,11905,GGG,"Longview, TX",TX,0
+AA,11921,GJT,"Grand Junction, CO",CO,0
+AA,11953,GNV,"Gainesville, FL",FL,2
+AA,11973,GPT,"Gulfport/Biloxi, MS",MS,2
+AA,11977,GRB,"Green Bay, WI",WI,3
+AA,11980,GRI,"Grand Island, NE",NE,0
+AA,11982,GRK,"Killeen, TX",TX,0
+AA,11986,GRR,"Grand Rapids, MI",MI,1
+AA,11995,GSO,"Greensboro/High Point, NC",NC,1
+AA,11996,GSP,"Greer, SC",SC,1
+AA,12007,GTR,"Columbus, MS",MS,0
+AA,12012,GUC,"Gunnison, CO",CO,0
+AA,12094,HDN,"Hayden, CO",CO,3
+AA,12124,HHH,"Hilton Head, SC",SC,1
+AA,12173,HNL,"Honolulu, HI",HI,0
+AA,12191,HOU,"Houston, TX",TX,0
+AA,12197,HPN,"White Plains, NY",NY,2
+AA,12206,HRL,"Harlingen/San Benito, TX",TX,0
+AA,12217,HSV,"Huntsville, AL",AL,2
+AA,12223,HTS,"Ashland, WV",WV,2
+AA,12250,HYA,"Hyannis, MA",MA,1
+AA,12264,IAD,"Washington, DC",VA,2
+AA,12266,IAH,"Houston, TX",TX,4
+AA,12278,ICT,"Wichita, KS",KS,0
+AA,12280,IDA,"Idaho Falls, ID",ID,0
+AA,12323,ILM,"Wilmington, NC",NC,1
+AA,12339,IND,"Indianapolis, IN",IN,1
+AA,12441,JAC,"Jackson, WY",WY,0
+AA,12448,JAN,"Jackson/Vicksburg, MS",MS,2
+AA,12451,JAX,"Jacksonville, FL",FL,2
+AA,12478,JFK,"New York, NY",NY,4
+AA,12758,KOA,"Kona, HI",HI,0
+AA,12884,LAN,"Lansing, MI",MI,3
+AA,12889,LAS,"Las Vegas, NV",NV,4
+AA,12891,LAW,"Lawton/Fort Sill, OK",OK,0
+AA,12892,LAX,"Los Angeles, CA",CA,0
+AA,12896,LBB,"Lubbock, TX",TX,0
+AA,12915,LCH,"Lake Charles, LA",LA,0
+AA,12945,LEX,"Lexington, KY",KY,3
+AA,12951,LFT,"Lafayette, LA",LA,2
+AA,12953,LGA,"New York, NY",NY,1
+AA,12982,LIH,"Lihue, HI",HI,0
+AA,12992,LIT,"Little Rock, AR",AR,2
+AA,13061,LRD,"Laredo, TX",TX,0
+AA,13076,LSE,"La Crosse, WI",WI,3
+AA,13139,LYH,"Lynchburg, VA",VA,2
+AA,13158,MAF,"Midland/Odessa, TX",TX,0
+AA,13198,MCI,"Kansas City, MO",MO,0
+AA,13204,MCO,"Orlando, FL",FL,1
+AA,13230,MDT,"Harrisburg, PA",PA,1
+AA,13244,MEM,"Memphis, TN",TN,1
+AA,13256,MFE,"Mission/McAllen/Edinburg, TX",TX,0
+AA,13264,MFR,"Medford, OR",OR,0
+AA,13277,MGM,"Montgomery, AL",AL,2
+AA,13290,MHK,"Manhattan/Ft. Riley, KS",KS,3
+AA,13296,MHT,"Manchester, NH",NH,1
+AA,13303,MIA,"Miami, FL",FL,2
+AA,13342,MKE,"Milwaukee, WI",WI,2
+AA,13360,MLB,"Melbourne, FL",FL,2
+AA,13367,MLI,"Moline, IL",IL,3
+AA,13377,MLU,"Monroe, LA",LA,0
+AA,13422,MOB,"Mobile, AL",AL,2
+AA,13459,MQT,"Marquette, MI",MI,3
+AA,13476,MRY,"Monterey, CA",CA,0
+AA,13485,MSN,"Madison, WI",WI,1
+AA,13486,MSO,"Missoula, MT",MT,0
+AA,13487,MSP,"Minneapolis, MN",MN,1
+AA,13495,MSY,"New Orleans, LA",LA,1
+AA,13502,MTJ,"Montrose/Delta, CO",CO,0
+AA,13541,MVY,"Martha's Vineyard, MA",MA,1
+AA,13577,MYR,"Myrtle Beach, SC",SC,1
+AA,13795,OAJ,"Jacksonville/Camp Lejeune, NC",NC,2
+AA,13830,OGG,"Kahului, HI",HI,0
+AA,13851,OKC,"Oklahoma City, OK",OK,0
+AA,13871,OMA,"Omaha, NE",NE,0
+AA,13891,ONT,"Ontario, CA",CA,0
+AA,13930,ORD,"Chicago, IL",IL,3
+AA,13931,ORF,"Norfolk, VA",VA,1
+AA,13933,ORH,"Worcester, MA",MA,4
+AA,14027,PBI,"West Palm Beach/Palm Beach, FL",FL,1
+AA,14057,PDX,"Portland, OR",OR,0
+AA,14092,PGV,"Greenville, NC",NC,2
+AA,14098,PHF,"Newport News/Williamsburg, VA",VA,2
+AA,14100,PHL,"Philadelphia, PA",PA,1
+AA,14107,PHX,"Phoenix, AZ",AZ,0
+AA,14108,PIA,"Peoria, IL",IL,3
+AA,14122,PIT,"Pittsburgh, PA",PA,4
+AA,14193,PNS,"Pensacola, FL",FL,2
+AA,14252,PSC,"Pasco/Kennewick/Richland, WA",WA,0
+AA,14262,PSP,"Palm Springs, CA",CA,0
+AA,14307,PVD,"Providence, RI",RI,1
+AA,14314,PVU,"Provo, UT",UT,0
+AA,14321,PWM,"Portland, ME",ME,1
+AA,14457,RAP,"Rapid City, SD",SD,3
+AA,14489,RDM,"Bend/Redmond, OR",OR,0
+AA,14492,RDU,"Raleigh/Durham, NC",NC,4
+AA,14524,RIC,"Richmond, VA",VA,2
+AA,14570,RNO,"Reno, NV",NV,0
+AA,14574,ROA,"Roanoke, VA",VA,1
+AA,14576,ROC,"Rochester, NY",NY,1
+AA,14588,ROW,"Roswell, NM",NM,0
+AA,14633,RST,"Rochester, MN",MN,3
+AA,14635,RSW,"Fort Myers, FL",FL,1
+AA,14674,SAF,"Santa Fe, NM",NM,0
+AA,14679,SAN,"San Diego, CA",CA,2
+AA,14683,SAT,"San Antonio, TX",TX,0
+AA,14685,SAV,"Savannah, GA",GA,2
+AA,14689,SBA,"Santa Barbara, CA",CA,0
+AA,14696,SBN,"South Bend, IN",IN,2
+AA,14698,SBP,"San Luis Obispo, CA",CA,0
+AA,14704,SBY,"Salisbury, MD",MD,2
+AA,14711,SCE,"State College, PA",PA,1
+AA,14730,SDF,"Louisville, KY",KY,4
+AA,14747,SEA,"Seattle, WA",WA,0
+AA,14771,SFO,"San Francisco, CA",CA,4
+AA,14783,SGF,"Springfield, MO",MO,2
+AA,14794,SGU,"St. George, UT",UT,0
+AA,14814,SHV,"Shreveport, LA",LA,2
+AA,14831,SJC,"San Jose, CA",CA,0
+AA,14842,SJT,"San Angelo, TX",TX,0
+AA,14843,SJU,"San Juan, PR",PR,2
+AA,14869,SLC,"Salt Lake City, UT",UT,0
+AA,14893,SMF,"Sacramento, CA",CA,0
+AA,14908,SNA,"Santa Ana, CA",CA,4
+AA,14952,SPI,"Springfield, IL",IL,3
+AA,14960,SPS,"Wichita Falls, TX",TX,0
+AA,14986,SRQ,"Sarasota/Bradenton, FL",FL,1
+AA,15016,STL,"St. Louis, MO",MO,1
+AA,15023,STS,"Santa Rosa, CA",CA,0
+AA,15024,STT,"Charlotte Amalie, VI",VI,4
+AA,15027,STX,"Christiansted, VI",VI,2
+AA,15074,SWO,"Stillwater, OK",OK,0
+AA,15096,SYR,"Syracuse, NY",NY,1
+AA,15249,TLH,"Tallahassee, FL",FL,2
+AA,15304,TPA,"Tampa, FL",FL,4
+AA,15323,TRI,"Bristol/Johnson City/Kingsport, TN",TN,2
+AA,15370,TUL,"Tulsa, OK",OK,0
+AA,15376,TUS,"Tucson, AZ",AZ,0
+AA,15380,TVC,"Traverse City, MI",MI,1
+AA,15401,TXK,"Texarkana, AR",AR,0
+AA,15411,TYR,"Tyler, TX",TX,0
+AA,15412,TYS,"Knoxville, TN",TN,1
+AA,15624,VPS,"Valparaiso, FL",FL,1
+AA,15919,XNA,"Fayetteville, AR",AR,1
+AA,16218,YUM,"Yuma, AZ",AZ,0
+DL,10135,ABE,"Allentown/Bethlehem/Easton, PA",PA,1
+DL,10140,ABQ,"Albuquerque, NM",NM,2
+DL,10141,ABR,"Aberdeen, SD",SD,0
+DL,10146,ABY,"Albany, GA",GA,1
+DL,10154,ACK,"Nantucket, MA",MA,0
+DL,10185,AEX,"Alexandria, LA",LA,1
+DL,10208,AGS,"Augusta, GA",GA,0
+DL,10257,ALB,"Albany, NY",NY,1
+DL,10299,ANC,"Anchorage, AK",AK,2
+DL,10333,APN,"Alpena, MI",MI,0
+DL,10372,ASE,"Aspen, CO",CO,1
+DL,10397,ATL,"Atlanta, GA",GA,1
+DL,10408,ATW,"Appleton, WI",WI,0
+DL,10423,AUS,"Austin, TX",TX,4
+DL,10431,AVL,"Asheville, NC",NC,0
+DL,10469,AZO,"Kalamazoo, MI",MI,0
+DL,10529,BDL,"Hartford, CT",CT,0
+DL,10577,BGM,"Binghamton, NY",NY,0
+DL,10581,BGR,"Bangor, ME",ME,0
+DL,10599,BHM,"Birmingham, AL",AL,1
+DL,10620,BIL,"Billings, MT",MT,2
+DL,10627,BIS,"Bismarck/Mandan, ND",ND,0
+DL,10631,BJI,"Bemidji, MN",MN,0
+DL,10685,BMI,"Bloomington/Normal, IL",IL,1
+DL,10693,BNA,"Nashville, TN",TN,3
+DL,10713,BOI,"Boise, ID",ID,2
+DL,10721,BOS,"Boston, MA",MA,0
+DL,10731,BQK,"Brunswick, GA",GA,1
+DL,10739,BRD,"Brainerd, MN",MN,0
+DL,10779,BTM,"Butte, MT",MT,2
+DL,10781,BTR,"Baton Rouge, LA",LA,1
+DL,10785,BTV,"Burlington, VT",VT,0
+DL,10792,BUF,"Buffalo, NY",NY,0
+DL,10800,BUR,"Burbank, CA",CA,2
+DL,10821,BWI,"Baltimore, MD",MD,0
+DL,10849,BZN,"Bozeman, MT",MT,0
+DL,10868,CAE,"Columbia, SC",SC,1
+DL,10918,CDC,"Cedar City, UT",UT,2
+DL,10980,CHA,"Chattanooga, TN",TN,1
+DL,10990,CHO,"Charlottesville, VA",VA,1
+DL,10994,CHS,"Charleston, SC",SC,0
+DL,11003,CID,"Cedar Rapids/Iowa City, IA",IA,0
+DL,11013,CIU,"Sault Ste. Marie, MI",MI,0
+DL,11042,CLE,"Cleveland, OH",OH,0
+DL,11057,CLT,"Charlotte, NC",NC,0
+DL,11066,CMH,"Columbus, OH",OH,0
+DL,11109,COS,"Colorado Springs, CO",CO,0
+DL,11146,CRW,"Charleston/Dunbar, WV",WV,1
+DL,11150,CSG,"Columbus, GA",GA,1
+DL,11193,CVG,"Cincinnati, OH",KY,3
+DL,11203,CWA,"Mosinee, WI",WI,0
+DL,11252,DAB,"Daytona Beach, FL",FL,1
+DL,11259,DAL,"Dallas, TX",TX,1
+DL,11267,DAY,"Dayton, OH",OH,1
+DL,11278,DCA,"Washington, DC",VA,3
+DL,11292,DEN,"Denver, CO",CO,2
+DL,11298,DFW,"Dallas/Fort Worth, TX",TX,2
+DL,11308,DHN,"Dothan, AL",AL,1
+DL,11337,DLH,"Duluth, MN",MN,0
+DL,11423,DSM,"Des Moines, IA",IA,1
+DL,11433,DTW,"Detroit, MI",MI,0
+DL,11481,ECP,"Panama City, FL",FL,4
+DL,11525,EKO,"Elko, NV",NV,2
+DL,11537,ELM,"Elmira/Corning, NY",NY,0
+DL,11540,ELP,"El Paso, TX",TX,1
+DL,11587,ESC,"Escanaba, MI",MI,0
+DL,11603,EUG,"Eugene, OR",OR,2
+DL,11612,EVV,"Evansville, IN",IN,1
+DL,11618,EWR,"Newark, NJ",NJ,3
+DL,11624,EYW,"Key West, FL",FL,3
+DL,11630,FAI,"Fairbanks, AK",AK,2
+DL,11637,FAR,"Fargo, ND",ND,0
+DL,11638,FAT,"Fresno, CA",CA,2
+DL,11641,FAY,"Fayetteville, NC",NC,1
+DL,11648,FCA,"Kalispell, MT",MT,2
+DL,11697,FLL,"Fort Lauderdale, FL",FL,3
+DL,11775,FSD,"Sioux Falls, SD",SD,0
+DL,11823,FWA,"Fort Wayne, IN",IN,0
+DL,11884,GEG,"Spokane, WA",WA,2
+DL,11898,GFK,"Grand Forks, ND",ND,0
+DL,11921,GJT,"Grand Junction, CO",CO,2
+DL,11953,GNV,"Gainesville, FL",FL,1
+DL,11973,GPT,"Gulfport/Biloxi, MS",MS,1
+DL,11977,GRB,"Green Bay, WI",WI,3
+DL,11986,GRR,"Grand Rapids, MI",MI,0
+DL,11995,GSO,"Greensboro/High Point, NC",NC,1
+DL,11996,GSP,"Greer, SC",SC,1
+DL,12003,GTF,"Great Falls, MT",MT,2
+DL,12007,GTR,"Columbus, MS",MS,1
+DL,12124,HHH,"Hilton Head, SC",SC,1
+DL,12129,HIB,"Hibbing, MN",MN,0
+DL,12156,HLN,"Helena, MT",MT,2
+DL,12173,HNL,"Honolulu, HI",HI,2
+DL,12191,HOU,"Houston, TX",TX,1
+DL,12197,HPN,"White Plains, NY",NY,0
+DL,12206,HRL,"Harlingen/San Benito, TX",TX,4
+DL,12217,HSV,"Huntsville, AL",AL,1
+DL,12264,IAD,"Washington, DC",VA,0
+DL,12266,IAH,"Houston, TX",TX,1
+DL,12278,ICT,"Wichita, KS",KS,0
+DL,12280,IDA,"Idaho Falls, ID",ID,2
+DL,12323,ILM,"Wilmington, NC",NC,0
+DL,12335,IMT,"Iron Mountain/Kingsfd, MI",MI,0
+DL,12339,IND,"Indianapolis, IN",IN,4
+DL,12343,INL,"International Falls, MN",MN,0
+DL,12397,ITH,"Ithaca/Cortland, NY",NY,0
+DL,12441,JAC,"Jackson, WY",WY,2
+DL,12448,JAN,"Jackson/Vicksburg, MS",MS,1
+DL,12451,JAX,"Jacksonville, FL",FL,4
+DL,12478,JFK,"New York, NY",NY,0
+DL,12523,JNU,"Juneau, AK",AK,2
+DL,12758,KOA,"Kona, HI",HI,2
+DL,12884,LAN,"Lansing, MI",MI,0
+DL,12889,LAS,"Las Vegas, NV",NV,2
+DL,12892,LAX,"Los Angeles, CA",CA,2
+DL,12945,LEX,"Lexington, KY",KY,3
+DL,12951,LFT,"Lafayette, LA",LA,1
+DL,12953,LGA,"New York, NY",NY,1
+DL,12954,LGB,"Long Beach, CA",CA,2
+DL,12982,LIH,"Lihue, HI",HI,2
+DL,12992,LIT,"Little Rock, AR",AR,1
+DL,13127,LWS,"Lewiston, ID",ID,2
+DL,13158,MAF,"Midland/Odessa, TX",TX,4
+DL,13184,MBS,"Saginaw/Bay City/Midland, MI",MI,0
+DL,13198,MCI,"Kansas City, MO",MO,2
+DL,13204,MCO,"Orlando, FL",FL,3
+DL,13230,MDT,"Harrisburg, PA",PA,0
+DL,13232,MDW,"Chicago, IL",IL,0
+DL,13244,MEM,"Memphis, TN",TN,4
+DL,13256,MFE,"Mission/McAllen/Edinburg, TX",TX,4
+DL,13264,MFR,"Medford, OR",OR,2
+DL,13277,MGM,"Montgomery, AL",AL,1
+DL,13303,MIA,"Miami, FL",FL,3
+DL,13342,MKE,"Milwaukee, WI",WI,0
+DL,13360,MLB,"Melbourne, FL",FL,1
+DL,13367,MLI,"Moline, IL",IL,1
+DL,13377,MLU,"Monroe, LA",LA,1
+DL,13422,MOB,"Mobile, AL",AL,1
+DL,13433,MOT,"Minot, ND",ND,0
+DL,13459,MQT,"Marquette, MI",MI,0
+DL,13485,MSN,"Madison, WI",WI,1
+DL,13486,MSO,"Missoula, MT",MT,2
+DL,13487,MSP,"Minneapolis, MN",MN,0
+DL,13495,MSY,"New Orleans, LA",LA,4
+DL,13541,MVY,"Martha's Vineyard, MA",MA,0
+DL,13577,MYR,"Myrtle Beach, SC",SC,0
+DL,13795,OAJ,"Jacksonville/Camp Lejeune, NC",NC,1
+DL,13796,OAK,"Oakland, CA",CA,2
+DL,13830,OGG,"Kahului, HI",HI,2
+DL,13851,OKC,"Oklahoma City, OK",OK,1
+DL,13871,OMA,"Omaha, NE",NE,3
+DL,13891,ONT,"Ontario, CA",CA,2
+DL,13930,ORD,"Chicago, IL",IL,0
+DL,13931,ORF,"Norfolk, VA",VA,0
+DL,13933,ORH,"Worcester, MA",MA,1
+DL,14027,PBI,"West Palm Beach/Palm Beach, FL",FL,0
+DL,14057,PDX,"Portland, OR",OR,2
+DL,14100,PHL,"Philadelphia, PA",PA,0
+DL,14107,PHX,"Phoenix, AZ",AZ,2
+DL,14113,PIH,"Pocatello, ID",ID,2
+DL,14122,PIT,"Pittsburgh, PA",PA,0
+DL,14150,PLN,"Pellston, MI",MI,0
+DL,14193,PNS,"Pensacola, FL",FL,1
+DL,14252,PSC,"Pasco/Kennewick/Richland, WA",WA,2
+DL,14262,PSP,"Palm Springs, CA",CA,2
+DL,14307,PVD,"Providence, RI",RI,0
+DL,14321,PWM,"Portland, ME",ME,0
+DL,14457,RAP,"Rapid City, SD",SD,0
+DL,14489,RDM,"Bend/Redmond, OR",OR,2
+DL,14492,RDU,"Raleigh/Durham, NC",NC,3
+DL,14520,RHI,"Rhinelander, WI",WI,0
+DL,14524,RIC,"Richmond, VA",VA,0
+DL,14570,RNO,"Reno, NV",NV,2
+DL,14574,ROA,"Roanoke, VA",VA,1
+DL,14576,ROC,"Rochester, NY",NY,0
+DL,14633,RST,"Rochester, MN",MN,0
+DL,14635,RSW,"Fort Myers, FL",FL,0
+DL,14679,SAN,"San Diego, CA",CA,2
+DL,14683,SAT,"San Antonio, TX",TX,0
+DL,14685,SAV,"Savannah, GA",GA,0
+DL,14689,SBA,"Santa Barbara, CA",CA,2
+DL,14696,SBN,"South Bend, IN",IN,0
+DL,14730,SDF,"Louisville, KY",KY,0
+DL,14747,SEA,"Seattle, WA",WA,2
+DL,14771,SFO,"San Francisco, CA",CA,2
+DL,14783,SGF,"Springfield, MO",MO,1
+DL,14794,SGU,"St. George, UT",UT,2
+DL,14814,SHV,"Shreveport, LA",LA,1
+DL,14831,SJC,"San Jose, CA",CA,2
+DL,14843,SJU,"San Juan, PR",PR,0
+DL,14869,SLC,"Salt Lake City, UT",UT,2
+DL,14893,SMF,"Sacramento, CA",CA,2
+DL,14908,SNA,"Santa Ana, CA",CA,2
+DL,14986,SRQ,"Sarasota/Bradenton, FL",FL,0
+DL,15016,STL,"St. Louis, MO",MO,1
+DL,15024,STT,"Charlotte Amalie, VI",VI,0
+DL,15027,STX,"Christiansted, VI",VI,1
+DL,15041,SUN,"Sun Valley/Hailey/Ketchum, ID",ID,2
+DL,15096,SYR,"Syracuse, NY",NY,0
+DL,15249,TLH,"Tallahassee, FL",FL,1
+DL,15304,TPA,"Tampa, FL",FL,3
+DL,15323,TRI,"Bristol/Johnson City/Kingsport, TN",TN,1
+DL,15370,TUL,"Tulsa, OK",OK,1
+DL,15376,TUS,"Tucson, AZ",AZ,2
+DL,15380,TVC,"Traverse City, MI",MI,0
+DL,15389,TWF,"Twin Falls, ID",ID,2
+DL,15412,TYS,"Knoxville, TN",TN,1
+DL,15607,VLD,"Valdosta, GA",GA,1
+DL,15624,VPS,"Valparaiso, FL",FL,0
+DL,15897,WYS,"West Yellowstone, MT",MT,2
+DL,15919,XNA,"Fayetteville, AR",AR,1
+DL,16869,XWA,"Williston, ND",ND,0
+WN,10140,ABQ,"Albuquerque, NM",NM,1
+WN,10257,ALB,"Albany, NY",NY,0
+WN,10279,AMA,"Amarillo, TX",TX,2
+WN,10397,ATL,"Atlanta, GA",GA,0
+WN,10423,AUS,"Austin, TX",TX,2
+WN,10529,BDL,"Hartford, CT",CT,0
+WN,10599,BHM,"Birmingham, AL",AL,0
+WN,10693,BNA,"Nashville, TN",TN,0
+WN,10713,BOI,"Boise, ID",ID,1
+WN,10721,BOS,"Boston, MA",MA,2
+WN,10792,BUF,"Buffalo, NY",NY,0
+WN,10800,BUR,"Burbank, CA",CA,1
+WN,10821,BWI,"Baltimore, MD",MD,0
+WN,10849,BZN,"Bozeman, MT",MT,1
+WN,10994,CHS,"Charleston, SC",SC,2
+WN,11042,CLE,"Cleveland, OH",OH,0
+WN,11057,CLT,"Charlotte, NC",NC,2
+WN,11066,CMH,"Columbus, OH",OH,0
+WN,11109,COS,"Colorado Springs, CO",CO,1
+WN,11140,CRP,"Corpus Christi, TX",TX,2
+WN,11193,CVG,"Cincinnati, OH",KY,0
+WN,11259,DAL,"Dallas, TX",TX,2
+WN,11278,DCA,"Washington, DC",VA,0
+WN,11292,DEN,"Denver, CO",CO,1
+WN,11423,DSM,"Des Moines, IA",IA,1
+WN,11433,DTW,"Detroit, MI",MI,0
+WN,11481,ECP,"Panama City, FL",FL,2
+WN,11540,ELP,"El Paso, TX",TX,1
+WN,11603,EUG,"Eugene, OR",OR,1
+WN,11638,FAT,"Fresno, CA",CA,1
+WN,11697,FLL,"Fort Lauderdale, FL",FL,0
+WN,11884,GEG,"Spokane, WA",WA,1
+WN,11986,GRR,"Grand Rapids, MI",MI,0
+WN,11996,GSP,"Greer, SC",SC,0
+WN,12094,HDN,"Hayden, CO",CO,1
+WN,12173,HNL,"Honolulu, HI",HI,1
+WN,12191,HOU,"Houston, TX",TX,2
+WN,12206,HRL,"Harlingen/San Benito, TX",TX,2
+WN,12264,IAD,"Washington, DC",VA,1
+WN,12278,ICT,"Wichita, KS",KS,1
+WN,12339,IND,"Indianapolis, IN",IN,0
+WN,12391,ISP,"Islip, NY",NY,0
+WN,12402,ITO,"Hilo, HI",HI,1
+WN,12448,JAN,"Jackson/Vicksburg, MS",MS,0
+WN,12451,JAX,"Jacksonville, FL",FL,2
+WN,12758,KOA,"Kona, HI",HI,1
+WN,12889,LAS,"Las Vegas, NV",NV,1
+WN,12892,LAX,"Los Angeles, CA",CA,1
+WN,12896,LBB,"Lubbock, TX",TX,2
+WN,12953,LGA,"New York, NY",NY,2
+WN,12954,LGB,"Long Beach, CA",CA,1
+WN,12982,LIH,"Lihue, HI",HI,1
+WN,12992,LIT,"Little Rock, AR",AR,2
+WN,13158,MAF,"Midland/Odessa, TX",TX,2
+WN,13198,MCI,"Kansas City, MO",MO,2
+WN,13204,MCO,"Orlando, FL",FL,0
+WN,13232,MDW,"Chicago, IL",IL,0
+WN,13244,MEM,"Memphis, TN",TN,0
+WN,13296,MHT,"Manchester, NH",NH,0
+WN,13303,MIA,"Miami, FL",FL,0
+WN,13342,MKE,"Milwaukee, WI",WI,0
+WN,13487,MSP,"Minneapolis, MN",MN,2
+WN,13495,MSY,"New Orleans, LA",LA,2
+WN,13502,MTJ,"Montrose/Delta, CO",CO,2
+WN,13577,MYR,"Myrtle Beach, SC",SC,0
+WN,13796,OAK,"Oakland, CA",CA,1
+WN,13830,OGG,"Kahului, HI",HI,1
+WN,13851,OKC,"Oklahoma City, OK",OK,2
+WN,13871,OMA,"Omaha, NE",NE,0
+WN,13891,ONT,"Ontario, CA",CA,1
+WN,13930,ORD,"Chicago, IL",IL,1
+WN,13931,ORF,"Norfolk, VA",VA,0
+WN,14027,PBI,"West Palm Beach/Palm Beach, FL",FL,0
+WN,14057,PDX,"Portland, OR",OR,1
+WN,14100,PHL,"Philadelphia, PA",PA,0
+WN,14107,PHX,"Phoenix, AZ",AZ,1
+WN,14122,PIT,"Pittsburgh, PA",PA,0
+WN,14193,PNS,"Pensacola, FL",FL,2
+WN,14262,PSP,"Palm Springs, CA",CA,1
+WN,14307,PVD,"Providence, RI",RI,0
+WN,14321,PWM,"Portland, ME",ME,0
+WN,14492,RDU,"Raleigh/Durham, NC",NC,2
+WN,14524,RIC,"Richmond, VA",VA,0
+WN,14570,RNO,"Reno, NV",NV,1
+WN,14576,ROC,"Rochester, NY",NY,0
+WN,14635,RSW,"Fort Myers, FL",FL,0
+WN,14679,SAN,"San Diego, CA",CA,1
+WN,14683,SAT,"San Antonio, TX",TX,2
+WN,14685,SAV,"Savannah, GA",GA,2
+WN,14689,SBA,"Santa Barbara, CA",CA,1
+WN,14730,SDF,"Louisville, KY",KY,0
+WN,14747,SEA,"Seattle, WA",WA,1
+WN,14771,SFO,"San Francisco, CA",CA,1
+WN,14831,SJC,"San Jose, CA",CA,1
+WN,14843,SJU,"San Juan, PR",PR,0
+WN,14869,SLC,"Salt Lake City, UT",UT,1
+WN,14893,SMF,"Sacramento, CA",CA,1
+WN,14908,SNA,"Santa Ana, CA",CA,1
+WN,14986,SRQ,"Sarasota/Bradenton, FL",FL,0
+WN,15016,STL,"St. Louis, MO",MO,2
+WN,15304,TPA,"Tampa, FL",FL,0
+WN,15370,TUL,"Tulsa, OK",OK,2
+WN,15376,TUS,"Tucson, AZ",AZ,1
+WN,15624,VPS,"Valparaiso, FL",FL,2

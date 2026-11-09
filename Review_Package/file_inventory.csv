@@ -1,0 +1,222 @@
+Path,Category,Description,Size (bytes),SHA-256
+Airline_Network_Resilience_Proposal.pdf,Proposal,Revised research proposal,80575,23baf378f9b06a3a527af1fa326cf147bb55b3fc15a3c594eb4a26ec5c073d51
+Backups/notebook03_before_steps_3_3_to_3_6_2026-11-09/Network_Analysis_03_Communities_and_Cohesion.ipynb,Backup copy (not used in any analysis),Earlier notebook copy,199692,057a8b3f3c138eac3045b9515da29356207b4cffd80660d7ad586cd4e8caf2e7
+Backups/notebooks_before_step3_2026-11-09/Network_Analysis_01_Data_Preparation (1).ipynb,Backup copy (not used in any analysis),Earlier notebook copy,50329,76d28a2f880afc4c1ee8edc265a639430b895758be665367a49a62d785fd44bb
+Backups/notebooks_before_step3_2026-11-09/Network_Analysis_02_Network_Structure.ipynb,Backup copy (not used in any analysis),Earlier notebook copy,230917,2e46b194c59d0059c66e3978bf220b65d26e10252ea07ed9e6b26a31a077386c
+Backups/notebooks_before_step3_2026-11-09/Network_Analysis_03_Communities_and_Cohesion.ipynb,Backup copy (not used in any analysis),Earlier notebook copy,324,6d824d598e96f73bfc72e7ccd0492e4385d5a1bb0252bece8bcde3d7db053183
+Data/Processed/AA_edges.csv,Observed networks,Processed observed network data,32024,abc439a2cdf37fb7e048f22de887a17c808a645c1d343f71454aac0f6c8921e6
+Data/Processed/AA_nodes.csv,Observed networks,Processed observed network data,6968,61763120ef73db82e2958e24de19b610ca555251cbc538c68d7526adc9c2c1bd
+Data/Processed/DL_edges.csv,Observed networks,Processed observed network data,26676,3a3f30eac2c770472da700e22fad388531b81c6ffd75946d2accc1c1bb9d63b2
+Data/Processed/DL_nodes.csv,Observed networks,Processed observed network data,6416,d9d80148264b389d22bf3807fb64ec2784a7e60c99e6468b821e4925ceb57e0a
+Data/Processed/H3/AA_bootstrap_inbag_indices.npz,H3 outputs,Recorded bootstrap in-bag samples,485178,53c251e44d5f71b426f8176d7b0934c66212c0d2cf78052719adc058d4deb366
+Data/Processed/H3/DL_bootstrap_inbag_indices.npz,H3 outputs,Recorded bootstrap in-bag samples,380288,67d586be19c8ce10d59b5db0b874ef99f2d2d648fa52166650a1f37f768f4478
+Data/Processed/H3/WN_bootstrap_inbag_indices.npz,H3 outputs,Recorded bootstrap in-bag samples,256179,9ef828f4acf6eadcd0c2d11d6ba608364f1c10b5bd8635de8e28f30ab013d8b3
+Data/Processed/network_summary.csv,Observed networks,Network summary table,225,a623054bf7df9494e3bfbeb874e29a9b4143a9e62ad2eef491cc399aeef3eda9
+Data/Processed/Nulls/AA_directed_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",736020,970d7b3af8bf4759adb8a7a93622adb8ceef9f1cb4fbc912454a9facee069c81
+Data/Processed/Nulls/AA_directed_null_networks.npz,Null networks,Primary directed null production networks,122750,f4447cfe810cb3d43de0a2651c044caf6124149ea6e710a9b8784f8a4fb92bef
+Data/Processed/Nulls/AA_directed_null_networks_expansion_chains_100_199.npz,"Null networks (primary, chains 100-199)",Additional primary-null production networks,123786,d89294d6f427acf2d2df4b24ca466599babdfa0e648e5c24e0ce3820446f439e
+Data/Processed/Nulls/AA_reciprocal_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",1467122,d083668277be57036ba3e64d39290e96f12b69d79d8148708a7feb1e6267ac34
+Data/Processed/Nulls/AA_reciprocal_null_networks.npz,Null networks,Supplementary reciprocal-pair null production networks,123057,3e06bb704650788c2647814b2466e997187b7cfff0c89c0cb05d992528334662
+Data/Processed/Nulls/DL_directed_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",607929,ab11b43dcee88f9279d8c148eb79073071ebbdf4eb4e063ea1adfdab59340e08
+Data/Processed/Nulls/DL_directed_null_networks.npz,Null networks,Primary directed null production networks,110512,b4b678a33e06f7cab17d8790500f1a2686a908ff9134d2922e5184361f75bc59
+Data/Processed/Nulls/DL_directed_null_networks_expansion_chains_100_199.npz,"Null networks (primary, chains 100-199)",Additional primary-null production networks,110800,8c0c8766ddb1e66bc08d34eb1fde299e2ac6689431665214052ff3d2885ab988
+Data/Processed/Nulls/DL_reciprocal_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",1202836,88937bca94712fc47cdddaf865d1b8315f70c273650823f8f03fdcfd1320a78f
+Data/Processed/Nulls/DL_reciprocal_null_networks.npz,Null networks,Supplementary reciprocal-pair null production networks,110493,c79bff379a0ea62f4ba4c437f7d2e47683fda651af796adf82ed06df72ea8316
+Data/Processed/Nulls/WN_directed_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",732837,d00b36e84e8678a47e517795d6365063f4f5b95753d46b805f13c95330585227
+Data/Processed/Nulls/WN_directed_null_networks.npz,Null networks,Primary directed null production networks,129105,0620447e5ef28de27dab5c110dfe994552f3a306d81ead179f4a5d4bd18836e1
+Data/Processed/Nulls/WN_directed_null_networks_expansion_chains_100_199.npz,"Null networks (primary, chains 100-199)",Additional primary-null production networks,129317,af7f672fa464d2cf729a4bef69b73b015efc3a6d6ddd480512e8a12d8a01711b
+Data/Processed/Nulls/WN_reciprocal_long_chain_4T_similarity_benchmark.npz,Similarity benchmark networks,"300 long-chain networks at 4T, used only as the similarity benchmark",1387088,48b937c71ba081d9877b3c91495b76922a7fb5c308d51ecc8040cb3e51464599
+Data/Processed/Nulls/WN_reciprocal_null_networks.npz,Null networks,Supplementary reciprocal-pair null production networks,129172,ca1f396ca58cab67718b3baddafd917c9ab2cebbc2cd4c9fd12c5d1cb23535ae
+Data/Processed/Removal_Plans/AA_directed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,63692,d0c1ba5a170cba7cec8c4d5e60574448677a92846451fc96cd83cb1d7afda070
+Data/Processed/Removal_Plans/AA_observed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,2847,ca56f45c50c6f475915c262af0a3c6da0cdeef77e32a72e8159747f3ae9d3c0e
+Data/Processed/Removal_Plans/AA_observed_tie_order_sensitivity.npz,Removal plans,Saved tie-order sensitivity replicates,63041,a1100bc24275dcd2b875be2d4d9f1bb793cccf7bd3c20839a7dd7b63828fe845
+Data/Processed/Removal_Plans/AA_reciprocal_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,27795,3afdc0f946101a8bf9deb65f7d8221f8e18b6dee48a0f10101b053155401bec6
+Data/Processed/Removal_Plans/DL_directed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,70125,2aed3d21697512f8fc4eb45f00aff2f89f515fb7c7f72baf00792c9a75cfb401
+Data/Processed/Removal_Plans/DL_observed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,2823,365de0ab2049ef44ea96f41057ad7a7c2e591e55e77fa7eee83cd4d89a017ace
+Data/Processed/Removal_Plans/DL_observed_tie_order_sensitivity.npz,Removal plans,Saved tie-order sensitivity replicates,56439,979edcfc0acea83d78d6c29dbe8aa851b1edc6f67c612e297bc46768434b58cc
+Data/Processed/Removal_Plans/DL_reciprocal_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,30612,bf5209f60c3209c5e0af06698b711547fcce1a4544fd95bc542b2f51292b8a06
+Data/Processed/Removal_Plans/WN_directed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,153651,983a2682e8b87f57f3087606f5e2433e9f3969d010693beab4977025f03a41e0
+Data/Processed/Removal_Plans/WN_observed_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,2463,21336bd334873142e47e83ef425ccfb0ea0d0f3b4e019f79ab41849f572eaddc
+Data/Processed/Removal_Plans/WN_observed_tie_order_sensitivity.npz,Removal plans,Saved tie-order sensitivity replicates,14625,e5db0471415c5a8744fe25256a4770684024c8d0c26b5882c42505317769b8bc
+Data/Processed/Removal_Plans/WN_reciprocal_targeted_rankings.npz,Removal plans,Saved targeted removal rankings,68013,648d9371b01e2880cfd42e3fa3a999651318c366dfa04fc8981740c3cef50b82
+Data/Processed/Resilience/AA_directed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,799508,9043d1f124f9dec60ad4e722ac6860557d0e9ee8c681a851b768c23034af3be0
+Data/Processed/Resilience/AA_observed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,5350,f968a5e07e4a226157a0b5f5ec21040cf28f5ffb448c1774c88e9e3007acb254
+Data/Processed/Resilience/AA_reciprocal_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,311661,ed55d181da7d66a858668951ed00ef9c5fc3a27ef73c687d1cec3fb8839671fe
+Data/Processed/Resilience/DL_directed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,812235,b021de8771ff67d72119c59917161db03ae418e01362a2e87a40bcfdacce0880
+Data/Processed/Resilience/DL_observed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,5324,f405cc3dafc208e41b688eb274bcb00c718210e29a30f16c6207d75b390775c1
+Data/Processed/Resilience/DL_reciprocal_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,314732,f02123438d617d2d91142d77e30d3820996d68a70286f331bda254f5111a12b0
+Data/Processed/Resilience/WN_directed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,469906,b422cde1013771a28312400b1691e126b5b40b8bbe3a32686eab9488f57ee9a5
+Data/Processed/Resilience/WN_observed_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,4409,8a0cc8646bff0999201a32d9b9bb441bbaf57c3602483ea35d4863f53ef819d7
+Data/Processed/Resilience/WN_reciprocal_paired_random_trials.npz,Resilience outputs,Paired random-removal trial outcomes,218595,40615b5257d78fc02c55bc38a02b8cb54ce8d2e048939fc642b690bfb5824465
+Data/Processed/WN_edges.csv,Observed networks,Processed observed network data,31345,8ab57f56c79026f74f26016cccf987f7eadf2a26b42c72021d8849be4c7efa7a
+Data/Processed/WN_nodes.csv,Observed networks,Processed observed network data,3061,31ea42c54bd486a395b85e2c9d98af5e36063f11f173b9474acc2aef1bd921db
+Data/raw/April 2025.csv,Raw BTS data,BTS monthly on-time performance file,82246697,305ded14447d2ce7b5d6e992d0884458519cc6df882eefa9465b4d45a00430f0
+Data/raw/June 2025.csv,Raw BTS data,BTS monthly on-time performance file,86066460,dff52e6ed3f3ed3c9441c2632223e3183f3fd70fb6a25ef7b315e62b368b42a4
+Data/raw/May 2025.csv,Raw BTS data,BTS monthly on-time performance file,85237225,d5ecb6f3b23ff173745ded915a2b5768e09ca1a32ecfe73e6341b0ed8fc04769
+Network_Analysis_01_Data_Preparation (1).ipynb,Notebook,Analysis notebook,85809,f066bcd5b2451a83ea2f36e2d5ef8fe7a823924edefb59e8505c51e39ce30ab5
+Network_Analysis_02_Network_Structure.ipynb,Notebook,Analysis notebook,283091,3d447896c5e8d27c3f96380b3804f7d873624e5d27dcd4a58379e2690108bcaa
+Network_Analysis_03_Communities_and_Cohesion.ipynb,Notebook,Analysis notebook,1292149,e50608a5224e7187bb1c09376e4b10f69364534b467bfd7030d79cb5687dfdbf
+Network_Analysis_04_Null_Models.ipynb,Notebook,Analysis notebook,916836,aed03720ac7e79934a2b40f3ef890d081cca9a1ad0aa1261dcdb1a89381740bc
+Network_Analysis_05_Removal_Setup.ipynb,Notebook,Analysis notebook,93664,fb936d5da3924f0c1a355a66129303e04108a5e8085176ce89f59c8a191ad267
+Network_Analysis_06_Resilience_Metrics.ipynb,Notebook,Analysis notebook,451389,e8e8c2686e77347bdbe970063a6a2f1338584edebd57621e8f1108464d608a20
+Network_Analysis_07_Single_Airport_H3.ipynb,Notebook,Analysis notebook,354239,a80c8c1c38cd2dd085dd96306a3b78adc01d8cbeda91cd99e40dbeaa1b9ae076
+Results/Figures/02_outdegree_distributions.png,Figure (Step 2),Result figure,152543,b93009ca2a41d3c56f7590f0ca2cdf84b5c9a749afd9d7dd6c501aa6fe0acf11
+Results/Figures/02_top_airports_strength.png,Figure (Step 2),Result figure,168903,61e742d8215d3722e231be4cec9250390c0bd19b95281507a459c62780d5eb86
+Results/Figures/03_community_network_best_partition.png,Figure (Step 3),Result figure,1635123,c4dbc4d69ae3fa67ec464ea7fdf00396b9ae407a842dc82ac0dbe80cf7918755
+Results/Figures/03_community_sizes_binary_vs_weighted.png,Figure (Step 3),Result figure,135012,08778811a6ff33a794f3299ca05fc0a6eff6b1ee9456dd629341dce11a17bef2
+Results/Figures/03_degree_betweenness_vs_bridging.png,Figure (Step 3),Result figure,532989,828c83778af281acb63b040c35351243fb77f9d3d16d8f46fbba164314403f95
+Results/Figures/03_kcore_distribution.png,Figure (Step 3),Result figure,117753,9b2045b0ae322f616e8b232e0fbf676c864d2aa248c20b649086911235b381bc
+Results/Figures/03_louvain_stability_binary.png,Figure (Step 3),Result figure,236849,926e056f29f42ca0eac5b2208b662cdfc9d38e76f3ef7507834a2a629cdb4f21
+Results/Figures/03_measure_correlations.png,Figure (Step 3),Result figure,385151,8389c119d99aa440b5fa19d2e905e68262176fcedc75e7591f1ab87f8e834bf1
+Results/Figures/03_top_bridging_airports.png,Figure (Step 3),Result figure,306010,6a5476cd706be09960ede83a69815ed53012c1686cf8d4056fff8d240024c6a0
+Results/Figures/04_modularity_null_comparison.png,Figure (Step 4),Result figure,410721,7c264d77eabdf24a5cdfa13d1e36105de55604de4ceb1c3094edacc1ff8e5467
+Results/Figures/04_null_structural_distributions.png,Figure (Step 4),Result figure,762682,1d7b850fe91d59af53e2ae1e1f7b0439679a77f6812f88a0985fc4a43e847ac6
+Results/Figures/04_pilot_mixing_traces.png,Figure (Step 4),Result figure,607302,f3f015ca6bc5652da0291259240ec32e0f4fd9216058f89098111cd127ea78f6
+Results/Figures/06_h1_observed_resilience_curves.png,Figure (Step 6),Result figure,483163,f5f3b1d6e340af7aa3268e78e6fe40230a9274496ee3c9da08662b50e26d76da
+Results/Figures/06_h2_observed_vs_null_retention.png,Figure (Step 6),Result figure,349821,82d8c8f536dfd1356e8179beb190982516fe232d88332a73d01065e5f9bcbab5
+Results/Figures/07_degree_matched_loss.png,Figure (Step 7),Result figure,146403,8b8fbacbbe0f8639bf51de7981e520928ca69c9b914e43c76de2beb3b45cd385
+Results/Figures/07_h3_gain_distribution.png,Figure (Step 7),Result figure,181780,a34e6d0ca008f6dfc6715578120dd325ccae30549c1758183a099c8f107df9ca
+Results/Figures/07_loss_vs_degree_participation.png,Figure (Step 7),Result figure,233783,9dbf923442c129484fe26a25d10546910dcd0da8fc007e3c3685bd3c6bbdfa43
+Results/Tables/01_daily_coverage_validation.csv,Result table (Step 1),Result table; see the notebook for its step,291,3f0d268b8980bd6eceb4f8ef798d76a8c494523fa4f1c20d049c1a03ce96def5
+Results/Tables/01_duplicate_validation.csv,Result table (Step 1),Result table; see the notebook for its step,114,dc78c51e10c3694a1ed5471cb29c4efeaa8968654fd0b596a7a278f9310313f9
+Results/Tables/01_scope_summary.csv,Result table (Step 1),Result table; see the notebook for its step,149,0383ed4b67c9368b21cfd106a3e819ba5439a84b64cb8e297e7bce68827f02c1
+Results/Tables/01_territory_airports.csv,Result table (Step 1),Result table; see the notebook for its step,285,81608a80bb7617e1b7ed450fb540c2118ad917655169e5a87837859f0fed1504
+Results/Tables/02_additional_structure.csv,Result table (Step 2),Result table; see the notebook for its step,283,754cd95eb80263687807b272ae6bbe357ffdd8c8e45f30095f54331325798b33
+Results/Tables/02_airport_centralities.csv,Result table (Step 2),Result table; see the notebook for its step,26689,658237774dc31688686783d431f5d6a95c90678a7ba971669fff89f3623faee6
+Results/Tables/02_airport_degree_strength.csv,Result table (Step 2),Result table; see the notebook for its step,21637,593b3bf27da5bee2d6bb6e75a642625341b762ab24f8a96ba164f3e762a813ca
+Results/Tables/02_clustering_vs_transitivity.csv,Result table (Step 2),Result table; see the notebook for its step,174,3301a4548377b045e367039c923f4e6dba400ad4a0025a3acd990175fa1d9322
+Results/Tables/02_final_network_comparison.csv,Result table (Step 2),Result table; see the notebook for its step,772,fa0a560ee4c82a8c83fc6601fabb6d7a673b28dac40e9f97e60121e9c0fe4a6a
+Results/Tables/02_hub_concentration.csv,Result table (Step 2),Result table; see the notebook for its step,171,b4d1ac6fac33a242d468edeff1ea4ca3e8e437682b749e41c2dd964e43815396
+Results/Tables/02_network_statistics.csv,Result table (Step 2),Result table; see the notebook for its step,352,248307e0cebccfd4f1ee1dae0f9ab579f87e4ffc978be57a2bbe56037e7dd9eb
+Results/Tables/02_spearman_top5_shares.csv,Result table (Step 2),Result table; see the notebook for its step,315,da67b0ae07ac89dfd541c5c14382db0e114e9ebdfaf41b19be25a3f46c7c90f3
+Results/Tables/03_airport_communities_binary.csv,Result table (Step 3),Result table; see the notebook for its step,19685,69e21150c9c94ba5f4630ab9d88be9aa82c6b82c4d09d6c7254fbb383f391966
+Results/Tables/03_airport_communities_weighted.csv,Result table (Step 3),Result table; see the notebook for its step,25061,f5e1bd00b317afd8ffb6758ca31feea552c10bfe40887549a23a941ecc1404e7
+Results/Tables/03_airport_master.csv,Result table (Step 3),Result table; see the notebook for its step,149923,575675b6f70a4d76a7a0227beacfacf4f778dce8e300208fe8c247d3e4a38f7f
+Results/Tables/03_airport_rankings.csv,Result table (Step 3),Result table; see the notebook for its step,41968,fc1b2216be5373df75418e5d0236060b00eb4aa850ea1565ed8bc12da0ebcd27
+Results/Tables/03_binary_vs_weighted_comparison.csv,Result table (Step 3),Result table; see the notebook for its step,1217,9c3d30aca205789e913565a3d1106d0971406a0066e443f0ab4456fb9a9f3241
+Results/Tables/03_bridging_binary_airports.csv,Result table (Step 3),Result table; see the notebook for its step,89658,b8d45605693599857a0536efeb46b9a9ea160f0061ddb09e5780ef31afd0de01
+Results/Tables/03_bridging_binary_vs_weighted.csv,Result table (Step 3),Result table; see the notebook for its step,692,cb3082aae1191569fe593e3d8575ba5fb1945a677c922193f7e8f5e6c9153494
+Results/Tables/03_bridging_by_degree_bin.csv,Result table (Step 3),Result table; see the notebook for its step,3661,522658a4e020fecf3f558d7e05e32b4ec45808b18134cb9d2a24ed7082ba064e
+Results/Tables/03_bridging_eligibility.csv,Result table (Step 3),Result table; see the notebook for its step,217,0dfbaf37326ef1c00c779d76cb40466d2cb6d05a7018915e94ec8b47262dee07
+Results/Tables/03_bridging_relative_to_degree.csv,Result table (Step 3),Result table; see the notebook for its step,43169,737a8fd338cfe5c04245d60b80fc917cfda5d1bbae701313ff9da8f2bce40f99
+Results/Tables/03_bridging_stability_binary.csv,Result table (Step 3),Result table; see the notebook for its step,1080,3a49897c237162881fcac72a52270baad72d9bbf7164ccb23682010fe16c4ffc
+Results/Tables/03_bridging_vs_betweenness.csv,Result table (Step 3),Result table; see the notebook for its step,489,eccfb128b97a69bc104748df93e25901221b7d2e4b89c612c98c2fff59d1e298
+Results/Tables/03_bridging_weighted_participation.csv,Result table (Step 3),Result table; see the notebook for its step,60663,3da505d20afa5000de4ca464ae8b7ea7b629a72fe87274240fefe02b32c3aceb
+Results/Tables/03_community_profiles_binary.csv,Result table (Step 3),Result table; see the notebook for its step,1070,e5a7ab86f2c633d0d0765cf61482597ddd2fc381d03ce81e5b0839483f993ef9
+Results/Tables/03_community_profiles_weighted.csv,Result table (Step 3),Result table; see the notebook for its step,1066,2168b45128b20f03600c6f673a3807448eed9fc54d33893b6532e4efe8c803a3
+Results/Tables/03_degree_vs_bridging.csv,Result table (Step 3),Result table; see the notebook for its step,652,837ad7897e29b3ff8ebcc46292f7147e030a5028a3d83aebdc8c2f7d59efaee9
+Results/Tables/03_high_bridging_for_degree.csv,Result table (Step 3),Result table; see the notebook for its step,486,4a260a1211d60214cd65e87f66225eed163419248050403e0fc80518d0784911
+Results/Tables/03_highest_bridging_per_degree_bin.csv,Result table (Step 3),Result table; see the notebook for its step,5527,261e6a1a50cceb3a1d23e6ac266d76e896e4aa598238591b82460bd6d0f6f731
+Results/Tables/03_kcore_innermost_members.csv,Result table (Step 3),Result table; see the notebook for its step,1289,428eb984db28b9bb71faf224d57a7d04e4bcf45795efc9c8357341e599bdd55a
+Results/Tables/03_kcore_shells.csv,Result table (Step 3),Result table; see the notebook for its step,363,f1096c0610d0abc1816f98bfdcf48eef463238a08cc96db4a92fd251de7560f7
+Results/Tables/03_kcore_summary.csv,Result table (Step 3),Result table; see the notebook for its step,951,e7da8ab4acaca0f53837a6eea234b6b3c68741ff0372f594ba58572ee5f35269
+Results/Tables/03_louvain_binary_runs.csv,Result table (Step 3),Result table; see the notebook for its step,10341,164207e7e887e787b72e585ea6daa03409c9ae988de15b85933965fc9c980871
+Results/Tables/03_louvain_binary_summary.csv,Result table (Step 3),Result table; see the notebook for its step,1242,26676d73f8d24ebbca2a9a27ea9110a00b89805c20c4b2e4684cb72ec1729faa
+Results/Tables/03_louvain_run_labels_binary.csv,Result table (Step 3),Result table; see the notebook for its step,115469,556e4b523b23b0960483e227d1c7c3a0737e0656e4ed69706c749c7e97b3945f
+Results/Tables/03_louvain_run_labels_weighted.csv,Result table (Step 3),Result table; see the notebook for its step,115469,8b49479c45e6e59121a23e1b74d874bee75732e2408e54f1f38ebe4c3dba9483
+Results/Tables/03_louvain_weighted_runs.csv,Result table (Step 3),Result table; see the notebook for its step,10321,e7fef805cf8f07b561a8433367dd87439751a88340321b1fecd74dd6094d4cc4
+Results/Tables/03_louvain_weighted_summary.csv,Result table (Step 3),Result table; see the notebook for its step,1202,9b66393774243c150428713398ed4ba723bd162e1ea6275ddf3bcd30e3e142b4
+Results/Tables/03_measure_correlations.csv,Result table (Step 3),Result table; see the notebook for its step,1702,433c881b9567c7edcf138b775c2395f751c78269178de86f04c5c0c2761cb984
+Results/Tables/03_network_intercommunity_fraction_runs.csv,Result table (Step 3),Result table; see the notebook for its step,8318,25c982333156af25f0583b7d89ba0ffb3202f1d11a06d78750fa9c8c5801b9ed
+Results/Tables/03_projection_validation.csv,Result table (Step 3),Result table; see the notebook for its step,331,b59c2971e7b1477be4194437df05b942f375429bb200909e2b1809d0c6006418
+Results/Tables/03_run_metadata.csv,Result table (Step 3),Result table; see the notebook for its step,122,470a60f650eb7c43e2400ec0079fce4883ef3cd2e41bda15d96887d0f9079bc3
+Results/Tables/03_step3_validation.csv,Result table (Step 3),Result table; see the notebook for its step,3122,22d87778ee9d4d517025226f3a4cce5170c546a7697debd3dbad73439d8db44b
+Results/Tables/03_top_betweenness_airports_bridging.csv,Result table (Step 3),Result table; see the notebook for its step,4153,dbc83901b66e3d12afa482e1e7ac10a24cfb399dd02ae09c509830d76db3896b
+Results/Tables/03_top_bridging_airports.csv,Result table (Step 3),Result table; see the notebook for its step,3933,6ff26d9c63c670860f1f8d1c74f6f5cbc373e3d7f5ec8945cbf5dd0ceb99b8ad
+Results/Tables/04_expansion_200_bootstrap_seed_registry.csv,Result table (Step 4),Result table; see the notebook for its step,201,32ce3107164b1f9f4f2e8ef93bfb5adf23adc10c253a42f8e7aaa39df8e21f90
+Results/Tables/04_expansion_200_cell_assessment.csv,Result table (Step 4),Result table; see the notebook for its step,40640,62dc6f55c7d5ef7f57ffc7c4d86203a911001051f60ffdc12d65b1c8ad8d6265
+Results/Tables/04_expansion_200_decision_assessment.csv,Result table (Step 4),Result table; see the notebook for its step,316,0b96ff1cdd017bd3bdf7897b410d93b000638c87a21d1b4c2bc16484f23273b4
+Results/Tables/04_expansion_200_runtime.csv,Result table (Step 4),Result table; see the notebook for its step,99,c647e3f0ebbe0b43db44fb88601948171516f78af705f353835ce08b9a60a2a9
+Results/Tables/04_expansion_cell_assessment.csv,Result table (Step 4),Result table; see the notebook for its step,28977,805f1e7e976d3a5d976246602fa3f7d6f45ee48c030bd804d507e600d6f332ad
+Results/Tables/04_expansion_decision_assessment.csv,Result table (Step 4),Result table; see the notebook for its step,220,aaedc7821aa085b6f6b32c3793dc0bcd5573ee1d4c7d1c5010389a94f866489b
+Results/Tables/04_expansion_null_only_outcomes.csv,Result table (Step 4),Result table; see the notebook for its step,353963,ffa357a19d40cc5c9fa5e4d37676ca99bf0ae2b91ab06fd62e8ecebf42771315
+Results/Tables/04_expansion_null_only_outcomes_chains_100_199.csv,Result table (Step 4),Result table; see the notebook for its step,356676,c2508e230d8ddf952f0f4c856ee4b889cd67641193b6d6e61ae5e55a1784a252
+Results/Tables/04_expansion_runtime_estimate.csv,Result table (Step 4),Result table; see the notebook for its step,267,0ed0ce00d4c3dca148effac25d813c9ff4ec2bf5fdd92fdf409d0ac84942622f
+Results/Tables/04_long_chain_by_chain.csv,Result table (Step 4),Result table; see the notebook for its step,468252,23c37a3a9b2ee5027c0f35bf358339880cf6ad015accff600435c226b88a7e55
+Results/Tables/04_long_chain_test.csv,Result table (Step 4),Result table; see the notebook for its step,8545,38d91dca12b65c796468eb8105726131e241c273dfa8c523518ad6d55cd487f6
+Results/Tables/04_modularity_checks.csv,Result table (Step 4),Result table; see the notebook for its step,534,58d24940a33f36e70c50301eaf28811b409203c9572f42d5d9a78f4932898cf1
+Results/Tables/04_modularity_null_comparison.csv,Result table (Step 4),Result table; see the notebook for its step,1599,2277833d191b7d061fd88acf5027c1f6b227f7ed9ee6484d716b2b2d98521f39
+Results/Tables/04_modularity_runtime.csv,Result table (Step 4),Result table; see the notebook for its step,45,d779e058da7ca3b3b048fbd57817f41066046d63b5d5d741674da23e1e27bbe5
+Results/Tables/04_null_betweenness_ties_at_cutoffs.csv,Result table (Step 4),Result table; see the notebook for its step,30727,ecbd614ac6cc035a3742872611027c447f14253fc60de5036c9908b103228640
+Results/Tables/04_null_betweenness_ties_at_cutoffs_chains_100_199.csv,Result table (Step 4),Result table; see the notebook for its step,32069,c17fb73cd6edcbd253966e3e9a350a29b0da2e59511c505f3caf6d8e45459b93
+Results/Tables/04_null_modularity_by_network.csv,Result table (Step 4),Result table; see the notebook for its step,56900,db9f71bb670757ec402681e08b9c998cfe309eb3a6365efe10c2e6089b7fc4e4
+Results/Tables/04_null_strong_connectivity.csv,Result table (Step 4),Result table; see the notebook for its step,183,1b67f38297d483c3894de81605562b30d243835208a77bd28c5e56642433f70b
+Results/Tables/04_null_structural_measures_and_intact_baselines.csv,Result table (Step 4),Result table; see the notebook for its step,98562,6e46e8700aa2534f058b624a39e5b31b24d9e146f93b2b90cd6d9bd7d52e4b65
+Results/Tables/04_null_structural_summary.csv,Result table (Step 4),Result table; see the notebook for its step,9126,85511d847ffaa6505707d977968cc602d852801b6653c09effaf1f4c98e1f355
+Results/Tables/04_pilot_chain_diagnostics.csv,Result table (Step 4),Result table; see the notebook for its step,2398824,2642b3d3b9a1ffe39757ec9e13efad0b85dcef82020931ceacf10d4c4363afdd
+Results/Tables/04_pilot_diagnostic_dependence.csv,Result table (Step 4),Result table; see the notebook for its step,9210,4056aae5a99cd3b9cf4c2299501d851f9d257a062eaeeccf654c25e35410a2d0
+Results/Tables/04_pilot_paired_differences.csv,Result table (Step 4),Result table; see the notebook for its step,52640,449644691b5216b361915fef1a1ab7458cf31a33a0f3b1fef6442d37b8027ae5
+Results/Tables/04_pilot_run_metadata.csv,Result table (Step 4),Result table; see the notebook for its step,253,453200ee92eb692e3a00578366fea47588c987e937aa11ea2b9efc03ffcc8dd9
+Results/Tables/04_pilot_runtime_log.csv,Result table (Step 4),Result table; see the notebook for its step,131,101cec67f3338ef8dba62d012601a2cd0feed08c2b9b4b8b3a6dc8a867a991e9
+Results/Tables/04_pilot_seed_registry.csv,Result table (Step 4),Result table; see the notebook for its step,186573,65773856a750722eb0f04211dc95bbe54c65268d3e795640b1755f6ce480f0c4
+Results/Tables/04_pilot_stability.csv,Result table (Step 4),Result table; see the notebook for its step,45453,9ad67b19ecf1fb992d745ccdf2508d23c4b06def41e0241049b467fcea6c6fac
+Results/Tables/04_pilot_swap_settings.csv,Result table (Step 4),Result table; see the notebook for its step,598,6d719a15c4eac19690a872595799fc875364d0e3f88fbe24fb4d04da15b7250e
+Results/Tables/04_pilot_validation.csv,Result table (Step 4),Result table; see the notebook for its step,2149,7a1c0fdaae1dc40225f51c0f13c839e77cbd6c4a8a556bde219e2cdadebc7fb2
+Results/Tables/04_production_chain_records.csv,Result table (Step 4),Result table; see the notebook for its step,90046,f10858eab124bd27bad4516f1e273749f8e2a1a7ff91283137b40fffb2b07d0e
+Results/Tables/04_production_expansion_chain_records.csv,Result table (Step 4),Result table; see the notebook for its step,45673,0219d7483ba31d3650f354c7443ded6cf3241b72eb0533cd0dfedad1d8fcca35
+Results/Tables/04_production_expansion_frozen_routes.csv,Result table (Step 4),Result table; see the notebook for its step,328,c1252249ae81d0dba344de0139b33b82a44e88b7423c191442c87c8e3c4a0b4c
+Results/Tables/04_production_expansion_intact_baselines.csv,Result table (Step 4),Result table; see the notebook for its step,20968,a3996902168e2844180f4e2583e32fcb8f601b2e40c6b92de640516a7e5ef075
+Results/Tables/04_production_expansion_network_validation.csv,Result table (Step 4),Result table; see the notebook for its step,17303,938d339d0eff33300a4fd84657b36a15665ee57ec1b150f0af1a6f3728b86cae
+Results/Tables/04_production_expansion_seed_registry.csv,Result table (Step 4),Result table; see the notebook for its step,16254,161bafd7fc51bff900b46bffbf767d95d52c1cba3596387b682f059f029cc749
+Results/Tables/04_production_expansion_similarity.csv,Result table (Step 4),Result table; see the notebook for its step,2122,f8e9196bd6c1ceb87b99cb91716bc68065d3bba5e0d3161063e49c0f34da865b
+Results/Tables/04_production_expansion_uniqueness.csv,Result table (Step 4),Result table; see the notebook for its step,238,048062f036eb5a2202697d0d4fa1e6b64655be3fade9874f42edea0739126661
+Results/Tables/04_production_frozen_routes.csv,Result table (Step 4),Result table; see the notebook for its step,508,c4b24495481f094e03f45905d142a9bb85735d7794c0c2fffad22975d5f2b3f4
+Results/Tables/04_production_network_validation.csv,Result table (Step 4),Result table; see the notebook for its step,36193,7738113d8083ace76901b4fe56f0cdc821cb7074a5bbdc0575252f6f62cb781f
+Results/Tables/04_production_run_metadata.csv,Result table (Step 4),Result table; see the notebook for its step,130,73b9b9de4ee13e327d8ea4bf804b5eb5e677f41ae5a372644d34598646438114
+Results/Tables/04_production_seed_registry.csv,Result table (Step 4),Result table; see the notebook for its step,31734,fc271e83816c3773974a69c9fd6cc92a772900f0e50f8889a972284870d6ef81
+Results/Tables/04_production_similarity.csv,Result table (Step 4),Result table; see the notebook for its step,2062,2182b50f6a27f30bfa39e46fce898f4fdbe763a1c5a6a01cf1882770c4641059
+Results/Tables/04_production_uniqueness.csv,Result table (Step 4),Result table; see the notebook for its step,279,21780cfdd56ff275ccb40908a6f947c65a11edd2d36f4b802da8e5991a6a3a05
+Results/Tables/04_proposed_production_swap_counts.csv,Result table (Step 4),Result table; see the notebook for its step,613,55c7244a055fb6188f069728a65ce8c37410cff8f4b4b208bc91c819e6a014b8
+Results/Tables/04_random_removal_orders.csv,Result table (Step 4),Result table; see the notebook for its step,337202,11cdafeaf9b1d5838a1e55ef58a98fcc09dea708827b7ab73c1971783c334899
+Results/Tables/04_remaining_analysis_checks.csv,Result table (Step 4),Result table; see the notebook for its step,1505,94dc9857626814394b7b1e42bff9bd7cfeb7fe1aae77863f416336a3cc3b2b2f
+Results/Tables/04_remaining_analysis_runtime.csv,Result table (Step 4),Result table; see the notebook for its step,105,743ea50e6398386935207f0b1ae72bf68e28053d0ed463b9ada74e74987ca2f7
+Results/Tables/04_remaining_analysis_seed_registry.csv,Result table (Step 4),Result table; see the notebook for its step,16041,6c9d7fe0a9781d6cfee91cc47d11b7d6a3650b671afb611dbea6da11a16e2106
+Results/Tables/04_similarity_benchmark.csv,Result table (Step 4),Result table; see the notebook for its step,2874,63f65ce3beeb1a96d9d28a789b5ead7d18a1be477845e41bb0c2a79bbf4ed4c6
+Results/Tables/04_similarity_benchmark_checks.csv,Result table (Step 4),Result table; see the notebook for its step,427,47bd2e01987ec425f0211285775c6b6856d984e88b40b49898e34d76fa4d8ded
+Results/Tables/04_swap_method_comparison_status.csv,Result table (Step 4),Result table; see the notebook for its step,1840,4ce9101ae05c99d9c04c5e02e8fb91ba1aad30400bcaacd8a47d4fbec2070d68
+Results/Tables/05_aa_zero_betweenness_selected_at_20.csv,Result table (Step 5),Result table; see the notebook for its step,177,a6cd0350e17f35c6deb8d22e070ed659b7de166b6de8b53890587a3c0ed4d8dd
+Results/Tables/05_cutoff_tie_summary.csv,Result table (Step 5),Result table; see the notebook for its step,2630,287f3a023307fcfe1c4104c98e031bce4552086a599cb42fd8a683205b897bd3
+Results/Tables/05_cutoff_ties_by_network.csv,Result table (Step 5),Result table; see the notebook for its step,365378,991b09a96bfa8d628b664a48ec849f8880fadd5b368692dc0108994b48f425b6
+Results/Tables/05_network_manifest.csv,Result table (Step 5),Result table; see the notebook for its step,113713,1a337959337cf8dd9b940e47239b1e252da1191ee5714640f1e5ccb65d408a21
+Results/Tables/05_random_order_manifest.csv,Result table (Step 5),Result table; see the notebook for its step,32140,a8278e894e8d68f5d5ffaf31d51be916cb7d9c20ca80a1fda31867036d57cbc6
+Results/Tables/05_random_order_pairing.csv,Result table (Step 5),Result table; see the notebook for its step,914,1eb5cb2e75d76e31dda4e183eb70b7825c783848b55ea8f0e08dba1641604b24
+Results/Tables/05_removal_counts.csv,Result table (Step 5),Result table; see the notebook for its step,444,b7d859298abef9bfea6d9e41bdfa4e42b6f0a12eab25e253152128be19bab239
+Results/Tables/05_seed_registry.csv,Result table (Step 5),Result table; see the notebook for its step,31432,cf1936a4181a9b95b58dac8df611105279d9b459d7d50d9c5515cd2fc93a1b34
+Results/Tables/05_setup_validation.csv,Result table (Step 5),Result table; see the notebook for its step,1759,354e599915a76123c919ea61d74c2771d97c61720e22b98f77fa72e2f586a02d
+Results/Tables/05_tie_order_sensitivity_plan.csv,Result table (Step 5),Result table; see the notebook for its step,1118,38f8c9502f3d965e278f41594df533d5200c2d38b89795e980646bcf0f1f75a6
+Results/Tables/06_h1_cells.csv,Result table (Step 6),Result table; see the notebook for its step,10811,caa9c2a218cbfb669730a75c38f93d3c7915b8716f02ae91068b062a86e936e9
+Results/Tables/06_h1_verdicts.csv,Result table (Step 6),Result table; see the notebook for its step,347,1692bfe96a4b78f9ad13be72e5ffd9c7a35d433db2b0f5a7b96be5c4e20d5129
+Results/Tables/06_h2_precision_flags.csv,Result table (Step 6),Result table; see the notebook for its step,8939,00395bcae4a04b698e7945fee37e186e49ec16c623630a90910a32c7943b5d82
+Results/Tables/06_h2_primary_cells.csv,Result table (Step 6),Result table; see the notebook for its step,28700,44f71813c4ac4d9afef2db6dfe7a08ac3ee3ebca743f122f5821669b9a988819
+Results/Tables/06_h2_strategy_deviation.csv,Result table (Step 6),Result table; see the notebook for its step,529,4573e70d6334a2c91e7c87fd1e852041f7c76f3367bed66ca053f881d0e3ff11
+Results/Tables/06_h2_verdicts.csv,Result table (Step 6),Result table; see the notebook for its step,160,dd7879b33e5e966f3592cde9ce6b77ae8ae2be43969b63ba2d9d4021bcbb1132
+Results/Tables/06_intact_baselines.csv,Result table (Step 6),Result table; see the notebook for its step,39987,bcde6f3bbaf8b2f404363a92415140dabf094c0b55b81f834b1b3d8d0fa7b481
+Results/Tables/06_network_outcomes.csv,Result table (Step 6),Result table; see the notebook for its step,1162637,07d927d488a3829968fb5aded6072cf5ee4ebb414e16bd920e83e93b9023d34a
+Results/Tables/06_observed_random_trials.csv,Result table (Step 6),Result table; see the notebook for its step,172668,54759ce8bd7b333a4a6700a1cd06f63c10b89405c8c4460e42a2848b6a5732b5
+Results/Tables/06_runtime.csv,Result table (Step 6),Result table; see the notebook for its step,89,1672bfad3315178dbaae721033c4180e4df1c283c5a1add166877fabb41a4a03
+Results/Tables/06_supplementary_null_cells.csv,Result table (Step 6),Result table; see the notebook for its step,27781,64468e744f10b0abe2183f866da1373e73f83f6a6674c49522a3fe240684351d
+Results/Tables/06_supplementary_null_summary.csv,Result table (Step 6),Result table; see the notebook for its step,627,326abf6a1a98f634f933cebe53f5611194d8adc03c52871ab9507664c9634e1c
+Results/Tables/06_tie_sensitivity_h1_cell_counts.csv,Result table (Step 6),Result table; see the notebook for its step,2764,e5391b1d52c6a39e1aa4c6b2396b14bde56c30a5d9fd0be436478ca59bb41ee7
+Results/Tables/06_tie_sensitivity_value_summary.csv,Result table (Step 6),Result table; see the notebook for its step,12071,0e220d3a4de38d6a03fa9ed4f775dac2bd6dc26657d3a5962d3fe0828048c34e
+Results/Tables/06_tie_sensitivity_values.csv,Result table (Step 6),Result table; see the notebook for its step,197051,d33abef45732db7357188eacc9d23e1c42b0afba532bd79d8d90d70770ac2bd1
+Results/Tables/06_tie_sensitivity_verdict_counts.csv,Result table (Step 6),Result table; see the notebook for its step,226,3ef6a5562a0c5a5af85319ec57bc1805d40a3050f544dbacabc9af84e7fdbc98
+Results/Tables/06_tie_sensitivity_verdicts_by_replicate.csv,Result table (Step 6),Result table; see the notebook for its step,19490,35e4a071682d4ffcde547130a8b6f370d6b409116287019d8ca27f12f4fa8f83
+Results/Tables/06_two_null_reading.csv,Result table (Step 6),Result table; see the notebook for its step,11216,8fe88ce4a8b91240ac70ad870927fede334060cb6ae57872cf0a7752bd0d2af5
+Results/Tables/06_validation_checks.csv,Result table (Step 6),Result table; see the notebook for its step,2059,9f0ecd9ca62e410063df51edd264b7f734c03197d57134e7f749e38ac94eae39
+Results/Tables/07_degree_matched_comparison.csv,Result table (Step 7),Result table; see the notebook for its step,2649,7bb7a2bd2d2895f1a6f52d844d46bb8f5f4814f66f988618a8b1d676a8c4a557
+Results/Tables/07_degree_matched_summary.csv,Result table (Step 7),Result table; see the notebook for its step,161,172dbab17aa4d7085e5a3d6c3b08fa3731984b65014afee9278403d891d0d17d
+Results/Tables/07_h3_bootstrap_results.csv,Result table (Step 7),Result table; see the notebook for its step,636053,7a5c58477b379b4b4a8c2500ca81197afa5441653ea7b54d19406841b1541cc8
+Results/Tables/07_h3_louvain_variation.csv,Result table (Step 7),Result table; see the notebook for its step,529,ddb1979b73e179349e2d350c35d9fcddb20c96af399673301d07da52950a1ce9
+Results/Tables/07_h3_model_performance.csv,Result table (Step 7),Result table; see the notebook for its step,1165,2bbadfcafbab10fda8118f7c15bde9709e76c9acdccced9ca95ea0792860abae
+Results/Tables/07_h3_partial_correlation.csv,Result table (Step 7),Result table; see the notebook for its step,321,fdefa74b2423e712924e16163bd40ebd913401af517261f654132a10815c6ae5
+Results/Tables/07_h3_verdicts.csv,Result table (Step 7),Result table; see the notebook for its step,1045,fc8fe2964a03c777f81af56e555527b3f2837026d50850241371062e1b183590
+Results/Tables/07_h3_weighted_supplementary.csv,Result table (Step 7),Result table; see the notebook for its step,485,92cabc1d8b48d4cb05f589a7766d01507550593b5090a21f9b20bf03b8e9465e
+Results/Tables/07_run_metadata.csv,Result table (Step 7),Result table; see the notebook for its step,145,2297f3caf64a9e215c6445895e5daef80c870ebacf7e36782383063ce094b06b
+Results/Tables/07_runtime.csv,Result table (Step 7),Result table; see the notebook for its step,134,e1faa758cf294fc3916f5822c6c5eae83b9aadda57242ca277d96b5fb0fea890
+Results/Tables/07_single_airport_outcomes.csv,Result table (Step 7),Result table; see the notebook for its step,112408,cd79091ef0c5dcc7ba9e8eedfa3b80cff989dfae896007282813fd8a12317be6
+Results/Tables/07_spearman_correlations.csv,Result table (Step 7),Result table; see the notebook for its step,1901,e61ac9cdbb21eb8fcfe6adf5f0e9bf35b19e9e5409cb861579963dfbe0b62f29
+Results/Tables/07_surviving_damage_summary.csv,Result table (Step 7),Result table; see the notebook for its step,415,cb3011dfcdde9d14d9cebe818f6c5597f56151d44efa05cac7a0b9d319109a14
+Results/Tables/07_top_efficiency_loss_airports.csv,Result table (Step 7),Result table; see the notebook for its step,3602,ea9ab54f909ecac0619793518e1c7ba24bb9518401ee3b28861e206b4434b26f
+Results/Tables/07_top_surviving_damage_airports.csv,Result table (Step 7),Result table; see the notebook for its step,2829,ea61fc03309053500a38b45b8b29fc5ad6f77520d18891ae65a89a6c13cf5920
+Results/Tables/07_topk_overlap.csv,Result table (Step 7),Result table; see the notebook for its step,2943,f3d8f964a9de43b5e371799877fa758702dfbdfd3d54c93fd3a8eeddf005d9b8
+Results/Tables/07_validation_checks.csv,Result table (Step 7),Result table; see the notebook for its step,4582,295151e90526fea1a7665918433f7a8848228bd4a659458f1a3980593ffb30ef
