@@ -1,0 +1,238 @@
+--- original/Network_Analysis_01_Data_Preparation (1).ipynb:cell1
++++ final/Network_Analysis_01_Data_Preparation (1).ipynb:cell1
+@@ -1,12 +1,19 @@
+-from google.colab import drive
+-drive.mount("/content/drive")
++import os
+ 
+ import pandas as pd
+ import numpy as np
+ from pathlib import Path
+ 
+ # Notice the trailing space after 'Network Analysis '
+-BASE = Path("/content/drive/MyDrive/Network Analysis /Data")
++LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
++if LOCAL_PROJECT_ROOT:
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
++else:
++    from google.colab import drive
++    drive.mount("/content/drive")
++    BASE = Path("/content/drive/MyDrive/Network Analysis /Data")
+ RAW = BASE / "raw"
+ PROCESSED = BASE / "Processed"
+ 
+
+--- original/Network_Analysis_01_Data_Preparation (1).ipynb:cell11
++++ final/Network_Analysis_01_Data_Preparation (1).ipynb:cell11
+@@ -1,5 +1,7 @@
+ 
+ # Only include meaningful scheduled flight records
++assert flights[essential].notna().all().all(), "Missing essential fields: investigate before filtering"
++assert (flights["FLIGHTS"] > 0).all(), "Non-positive scheduled counts: investigate before filtering"
+ clean = flights.dropna(subset=essential).copy()
+ 
+ clean = clean[clean["FLIGHTS"] > 0].copy()
+
+--- original/Network_Analysis_02_Network_Structure.ipynb:cell2
++++ final/Network_Analysis_02_Network_Structure.ipynb:cell2
+@@ -1,6 +1,5 @@
+ 
+-from google.colab import drive
+-drive.mount("/content/drive")
++import os
+ 
+ import pandas as pd
+ import numpy as np
+@@ -10,7 +9,15 @@
+ from pathlib import Path
+ 
+ # Your actual Google Drive directory
+-BASE = Path("/content/drive/MyDrive/Network Analysis /Data")
++LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
++if LOCAL_PROJECT_ROOT:
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
++else:
++    from google.colab import drive
++    drive.mount("/content/drive")
++    BASE = Path("/content/drive/MyDrive/Network Analysis /Data")
+ RAW = BASE / "raw"
+ PROCESSED = BASE / "Processed"
+ 
+
+--- original/Network_Analysis_03_Communities_and_Cohesion.ipynb:cell2
++++ final/Network_Analysis_03_Communities_and_Cohesion.ipynb:cell2
+@@ -19,7 +19,9 @@
+ LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
+ 
+ if LOCAL_PROJECT_ROOT:
+-    BASE = Path(LOCAL_PROJECT_ROOT) / "Data"
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
+ else:
+     from google.colab import drive
+     drive.mount("/content/drive")
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell2
++++ final/Network_Analysis_04_Null_Models.ipynb:cell2
+@@ -20,7 +20,9 @@
+ LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
+ 
+ if LOCAL_PROJECT_ROOT:
+-    BASE = Path(LOCAL_PROJECT_ROOT) / "Data"
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
+ else:
+     from google.colab import drive
+     drive.mount("/content/drive")
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell17
++++ final/Network_Analysis_04_Null_Models.ipynb:cell17
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ## Extended pilot conclusions
+ 
+ **Results (300 chains per airline and null model).** Every approved stability, minimum-successful-swap and long-chain condition passed in its first round.
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell20
++++ final/Network_Analysis_04_Null_Models.ipynb:cell20
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Similarity benchmark conclusions
+ 
+ **Reproduction.** All 300 chains for each airline and null model reproduced their recorded successful-swap counts and diagnostics at both T and 4T (600 of 600 chain-checkpoints per airline and null model).
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell25
++++ final/Network_Analysis_04_Null_Models.ipynb:cell25
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Production conclusions
+ 
+ All 600 production networks (100 per airline and null model) were generated at the approved attempt counts. Every chain met its 10 × U successful-swap requirement, and all 600 networks passed exact in-degree and out-degree, route-count, self-loop and duplicate-route validation. Every route in the supplementary null has its reverse. All 100 networks are distinct within each airline and null model, and none equals the observed network.
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell34
++++ final/Network_Analysis_04_Null_Models.ipynb:cell34
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Remaining Step 4 analyses: status
+ 
+ **Structural summaries and intact baselines** are complete for all 600 networks. **The null-only expansion assessment triggered both criteria:** E1 flagged 12 of 144 cells (8.3%) and E2 flagged 8 of 144 cells (5.6%), against a 5% threshold. Expansion is never automatic, so no additional networks were generated.
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell40
++++ final/Network_Analysis_04_Null_Models.ipynb:cell40
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Expansion to 200 networks: status
+ 
+ All 300 additional primary-null networks (chains 100 to 199) met the 10 × U requirement and passed the structural, uniqueness and similarity checks. The existing production networks were not altered, and the supplementary null remains at 100 networks per airline.
+
+--- original/Network_Analysis_04_Null_Models.ipynb:cell43
++++ final/Network_Analysis_04_Null_Models.ipynb:cell43
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Step 4 status: complete
+ 
+ **Supplementary modularity comparison.** With the same best-of-100-seeds rule, observed best modularity is above the null 2.5–97.5% range for every airline against both nulls: AA 0.212 (primary null mean 0.123; supplementary 0.170), DL 0.227 (0.147; 0.205) and WN 0.190 (0.096; 0.120).
+
+--- original/Network_Analysis_05_Removal_Setup.ipynb:cell2
++++ final/Network_Analysis_05_Removal_Setup.ipynb:cell2
+@@ -11,7 +11,9 @@
+ LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
+ 
+ if LOCAL_PROJECT_ROOT:
+-    BASE = Path(LOCAL_PROJECT_ROOT) / "Data"
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
+ else:
+     from google.colab import drive
+     drive.mount("/content/drive")
+
+--- original/Network_Analysis_06_Resilience_Metrics.ipynb:cell2
++++ final/Network_Analysis_06_Resilience_Metrics.ipynb:cell2
+@@ -14,7 +14,9 @@
+ LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
+ 
+ if LOCAL_PROJECT_ROOT:
+-    BASE = Path(LOCAL_PROJECT_ROOT) / "Data"
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
+ else:
+     from google.colab import drive
+     drive.mount("/content/drive")
+
+--- original/Network_Analysis_06_Resilience_Metrics.ipynb:cell10
++++ final/Network_Analysis_06_Resilience_Metrics.ipynb:cell10
+@@ -21,12 +21,14 @@
+     primary_out = row["Position primary"] != "within"
+     supplementary_out = row["Position supplementary"] != "within"
+     if primary_out and supplementary_out:
+-        return "Not explained by degrees, even with reciprocal pairs retained"
++        if row["Position primary"] == row["Position supplementary"]:
++            return "Outside both empirical null intervals in the same direction (exploratory)"
++        return "Outside both empirical null intervals in opposite directions (exploratory)"
+     if primary_out:
+         return "Primary deviation may reflect lost reciprocity"
+     if supplementary_out:
+         return "Deviation appears only with reciprocal pairs held fixed"
+-    return "Degrees account for the result under these models"
++    return "Within both empirical null intervals; not evidence of equivalence"
+ 
+ 
+ reading["Reading"] = reading.apply(reading_text, axis=1)
+
+--- original/Network_Analysis_06_Resilience_Metrics.ipynb:cell16
++++ final/Network_Analysis_06_Resilience_Metrics.ipynb:cell16
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Step 6 status
+ 
+ **H1 (observed networks; ID-tie rankings are official):** Supported for AA, DL and WN under both degree-targeted and betweenness-targeted removal. No tie order changed any H1 verdict.
+
+--- original/Network_Analysis_07_Single_Airport_H3.ipynb:cell2
++++ final/Network_Analysis_07_Single_Airport_H3.ipynb:cell2
+@@ -16,7 +16,9 @@
+ LOCAL_PROJECT_ROOT = os.environ.get("NETWORK_ANALYSIS_LOCAL_ROOT")
+ 
+ if LOCAL_PROJECT_ROOT:
+-    BASE = Path(LOCAL_PROJECT_ROOT) / "Data"
++    BASE = Path(LOCAL_PROJECT_ROOT).expanduser().resolve() / "Data"
++elif (Path.cwd() / "Data").is_dir():
++    BASE = Path.cwd() / "Data"
+ else:
+     from google.colab import drive
+     drive.mount("/content/drive")
+
+--- original/Network_Analysis_07_Single_Airport_H3.ipynb:cell14
++++ final/Network_Analysis_07_Single_Airport_H3.ipynb:cell14
+@@ -4,7 +4,7 @@
+     samples = SAMPLES[airline]
+     n = len(arrays["loss"])
+     check(f"{airline}: bootstrap count and size", samples.shape == (BOOTSTRAPS, n), samples.shape)
+-    check(f"{airline}: every bootstrap has out-of-bag airports", all(len(set(range(n)) - set(row.tolist())) > 0 for row in samples[:200]))
++    check(f"{airline}: every bootstrap has out-of-bag airports", all(len(set(range(n)) - set(row.tolist())) > 0 for row in samples))
+     regenerated = np.random.default_rng(np.random.SeedSequence(entropy=MASTER_SEED, spawn_key=(STAGE_H3_BOOTSTRAP, AIRLINE_INDEX[airline], 0))).integers(0, n, size=(BOOTSTRAPS, n))
+     check(f"{airline}: bootstrap samples reproduce from the recorded seed", np.array_equal(samples, regenerated))
+     in_bag = samples[0]
+
+--- original/Network_Analysis_07_Single_Airport_H3.ipynb:cell18
++++ final/Network_Analysis_07_Single_Airport_H3.ipynb:cell18
+@@ -1,3 +1,5 @@
++> Historical stage note: this describes the state when this section was first executed. Steps 1–7 are now complete; see the final report and validation record for current status.
++
+ ### Step 7 status
+ 
+ All 76 validation checks passed, and the outputs were identical across two complete runs.
