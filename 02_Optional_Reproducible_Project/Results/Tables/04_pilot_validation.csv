@@ -1,0 +1,23 @@
+Check,Result,Detail
+AA: observed network is fully reciprocal,PASS,
+DL: observed network is fully reciprocal,PASS,
+WN: observed network is fully reciprocal,PASS,
+AA directed: stability and successful-swap requirements met in pilot,PASS,
+AA reciprocal: stability and successful-swap requirements met in pilot,PASS,
+DL directed: stability and successful-swap requirements met in pilot,PASS,
+DL reciprocal: stability and successful-swap requirements met in pilot,PASS,
+WN directed: stability and successful-swap requirements met in pilot,PASS,
+WN reciprocal: stability and successful-swap requirements met in pilot,PASS,
+AA directed: long-chain test passed,PASS,"T = 452000, rounds = 1"
+AA reciprocal: long-chain test passed,PASS,"T = 226000, rounds = 1"
+DL directed: long-chain test passed,PASS,"T = 301200, rounds = 1"
+DL reciprocal: long-chain test passed,PASS,"T = 150600, rounds = 1"
+WN directed: long-chain test passed,PASS,"T = 358400, rounds = 1"
+WN reciprocal: long-chain test passed,PASS,"T = 179200, rounds = 1"
+AA directed: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 19671, required 18080"
+AA reciprocal: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 9705, required 9040"
+DL directed: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 16885, required 15060"
+DL reciprocal: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 8359, required 7530"
+WN directed: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 34983, required 17920"
+WN reciprocal: every long-chain chain met the successful-swap minimum at T,PASS,"minimum 17396, required 8960"
+Approved comparison with nx.directed_edge_swap,NOT COMPLETED,"Structural incompatibility: nx.directed_edge_swap requires route third->second to be absent, but every observed route has its reverse, so no move can be accepted from the observed network. Applies only to this comparison. It is neither a failure of nor evidence for the primary or reciprocal-pair swap methods, which are judged by the approved diagnostics and production validation."

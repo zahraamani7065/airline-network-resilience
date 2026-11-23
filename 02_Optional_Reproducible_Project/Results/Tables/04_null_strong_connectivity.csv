@@ -1,0 +1,7 @@
+Airline,Model,Strongly connected networks,Networks
+AA,directed,100,100
+AA,reciprocal,100,100
+DL,directed,100,100
+DL,reciprocal,99,100
+WN,directed,100,100
+WN,reciprocal,100,100

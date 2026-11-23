@@ -1,0 +1,16 @@
+,Value
+Raw records,1985849
+Selected records,1292785
+Selected scheduled flights (sum FLIGHTS),1292785.0
+Self-loop records,0
+Days per airline,"{'AA': 91, 'DL': 91, 'WN': 91}"
+Duplicate flight keys,0
+AA: edges match saved file,True
+AA: routes only from diverted records,0
+AA: cancelled share of flights,0.022804090189534932
+DL: edges match saved file,True
+DL: routes only from diverted records,0
+DL: cancelled share of flights,0.010843143341531556
+WN: edges match saved file,True
+WN: routes only from diverted records,0
+WN: cancelled share of flights,0.005467093212966488

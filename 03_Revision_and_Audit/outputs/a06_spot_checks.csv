@@ -1,0 +1,10 @@
+Airline,Check,Value
+AA,Directed-null reciprocity mean,0.6983351769911504
+AA,Reciprocal-null best Q (first 10 nets): max |audit - project|,0.0
+AA,Reciprocal-null best Q project 2.5-97.5%,0.1663-0.1756
+DL,Directed-null reciprocity mean,0.6571314741035857
+DL,Reciprocal-null best Q (first 10 nets): max |audit - project|,0.0
+DL,Reciprocal-null best Q project 2.5-97.5%,0.1986-0.2106
+WN,Directed-null reciprocity mean,0.6248939732142857
+WN,Reciprocal-null best Q (first 10 nets): max |audit - project|,0.0
+WN,Reciprocal-null best Q project 2.5-97.5%,0.1147-0.1270

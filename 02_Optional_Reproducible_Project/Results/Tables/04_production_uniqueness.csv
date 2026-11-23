@@ -1,0 +1,7 @@
+Airline,Model,Networks,Distinct network hashes,All distinct,Any equals observed
+AA,directed,100,100,True,False
+AA,reciprocal,100,100,True,False
+DL,directed,100,100,True,False
+DL,reciprocal,100,100,True,False
+WN,directed,100,100,True,False
+WN,reciprocal,100,100,True,False

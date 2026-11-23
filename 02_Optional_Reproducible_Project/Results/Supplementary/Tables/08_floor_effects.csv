@@ -1,0 +1,163 @@
+Airline,Network set,Strategy,Level,Networks,Share_at_efficiency_floor,Mean_retention
+AA,directed,Betweenness,1,200,0.0,0.6034074902326232
+AA,directed,Betweenness,2,200,0.0,0.2761047304995267
+AA,directed,Betweenness,5,200,0.995,0.0019307274255380307
+AA,directed,Betweenness,10,200,1.0,1.5592826470340986e-05
+AA,directed,Betweenness,15,200,1.0,0.0
+AA,directed,Betweenness,20,200,1.0,0.0
+AA,directed,Degree,1,200,0.0,0.6066432751047447
+AA,directed,Degree,2,200,0.0,0.2760102462610775
+AA,directed,Degree,5,200,1.0,0.0010077800811009931
+AA,directed,Degree,10,200,1.0,0.0001073023625665278
+AA,directed,Degree,15,200,1.0,4.6113013663069866e-05
+AA,directed,Degree,20,200,1.0,2.3107215933555597e-05
+AA,directed,Random (mean of matched orders),1,200,0.0,0.9816225936255466
+AA,directed,Random (mean of matched orders),2,200,0.0,0.9446561183866813
+AA,directed,Random (mean of matched orders),5,200,0.0,0.874200578686776
+AA,directed,Random (mean of matched orders),10,200,0.0,0.773821488138415
+AA,directed,Random (mean of matched orders),15,200,0.0,0.6738446382339385
+AA,directed,Random (mean of matched orders),20,200,0.0,0.5835275946213951
+AA,observed,Betweenness,1,1,0.0,0.5975117600185075
+AA,observed,Betweenness,2,1,0.0,0.26429838315811116
+AA,observed,Betweenness,5,1,1.0,0.0007518700357298921
+AA,observed,Betweenness,10,1,1.0,0.0
+AA,observed,Betweenness,15,1,1.0,0.0
+AA,observed,Betweenness,20,1,1.0,0.0
+AA,observed,Degree,1,1,0.0,0.5975117600185075
+AA,observed,Degree,2,1,0.0,0.26429838315811116
+AA,observed,Degree,5,1,1.0,0.0005269516489730869
+AA,observed,Degree,10,1,1.0,0.0
+AA,observed,Degree,15,1,1.0,0.0
+AA,observed,Degree,20,1,1.0,0.0
+AA,observed,Random (mean of matched orders),1,1,0.0,0.9813835051281392
+AA,observed,Random (mean of matched orders),2,1,0.0,0.9444846155823453
+AA,observed,Random (mean of matched orders),5,1,0.0,0.8748460915610624
+AA,observed,Random (mean of matched orders),10,1,0.0,0.7740415906228312
+AA,observed,Random (mean of matched orders),15,1,0.0,0.6744206102357146
+AA,observed,Random (mean of matched orders),20,1,0.0,0.5845504202760713
+AA,reciprocal,Betweenness,1,100,0.0,0.6017947402511578
+AA,reciprocal,Betweenness,2,100,0.0,0.2742180541219281
+AA,reciprocal,Betweenness,5,100,0.99,0.0014984001420107783
+AA,reciprocal,Betweenness,10,100,1.0,3.469561732548654e-06
+AA,reciprocal,Betweenness,15,100,1.0,1.5431506364207407e-06
+AA,reciprocal,Betweenness,20,100,1.0,7.71237965474247e-07
+AA,reciprocal,Degree,1,100,0.0,0.606196038652758
+AA,reciprocal,Degree,2,100,0.0,0.27429841401231525
+AA,reciprocal,Degree,5,100,1.0,0.0008652368360362391
+AA,reciprocal,Degree,10,100,1.0,0.0001225475081967798
+AA,reciprocal,Degree,15,100,1.0,5.433943553320549e-05
+AA,reciprocal,Degree,20,100,1.0,3.0062502029377723e-05
+AA,reciprocal,Random (mean of matched orders),1,100,0.0,0.9815952086089835
+AA,reciprocal,Random (mean of matched orders),2,100,0.0,0.9447322679231391
+AA,reciprocal,Random (mean of matched orders),5,100,0.0,0.8742447395124653
+AA,reciprocal,Random (mean of matched orders),10,100,0.0,0.7738616899682568
+AA,reciprocal,Random (mean of matched orders),15,100,0.0,0.6739105246201887
+AA,reciprocal,Random (mean of matched orders),20,100,0.0,0.5835259214309059
+DL,directed,Betweenness,1,200,0.0,0.5348612246095983
+DL,directed,Betweenness,2,200,0.0,0.2920925186948893
+DL,directed,Betweenness,5,200,0.24,0.012422075484748808
+DL,directed,Betweenness,10,200,1.0,9.8092818952177e-05
+DL,directed,Betweenness,15,200,1.0,0.0
+DL,directed,Betweenness,20,200,1.0,0.0
+DL,directed,Degree,1,200,0.0,0.5348612246095983
+DL,directed,Degree,2,200,0.0,0.2920925186948893
+DL,directed,Degree,5,200,0.85,0.009196782537335193
+DL,directed,Degree,10,200,1.0,0.00017274263677130317
+DL,directed,Degree,15,200,1.0,6.631868980327442e-05
+DL,directed,Degree,20,200,1.0,3.397794716314677e-05
+DL,directed,Random (mean of matched orders),1,200,0.0,0.9742848676251292
+DL,directed,Random (mean of matched orders),2,200,0.0,0.9553797920557072
+DL,directed,Random (mean of matched orders),5,200,0.0,0.883623780646417
+DL,directed,Random (mean of matched orders),10,200,0.0,0.773084628881402
+DL,directed,Random (mean of matched orders),15,200,0.0,0.656924910955262
+DL,directed,Random (mean of matched orders),20,200,0.0,0.560030541529327
+DL,observed,Betweenness,1,1,0.0,0.5571537717903139
+DL,observed,Betweenness,2,1,0.0,0.2903062338229332
+DL,observed,Betweenness,5,1,1.0,0.009558112701531167
+DL,observed,Betweenness,10,1,1.0,0.0
+DL,observed,Betweenness,15,1,1.0,0.0
+DL,observed,Betweenness,20,1,1.0,0.0
+DL,observed,Degree,1,1,0.0,0.5571537717903139
+DL,observed,Degree,2,1,0.0,0.2903062338229332
+DL,observed,Degree,5,1,1.0,0.00789440858203137
+DL,observed,Degree,10,1,1.0,9.355412105903265e-05
+DL,observed,Degree,15,1,1.0,9.355412105903265e-05
+DL,observed,Degree,20,1,1.0,9.355412105903265e-05
+DL,observed,Random (mean of matched orders),1,1,0.0,0.9745053325849007
+DL,observed,Random (mean of matched orders),2,1,0.0,0.9552046496398164
+DL,observed,Random (mean of matched orders),5,1,0.0,0.8824127607821124
+DL,observed,Random (mean of matched orders),10,1,0.0,0.7721831633766797
+DL,observed,Random (mean of matched orders),15,1,0.0,0.6558734836436211
+DL,observed,Random (mean of matched orders),20,1,0.0,0.5596317086100975
+DL,reciprocal,Betweenness,1,100,0.0,0.5322577009284524
+DL,reciprocal,Betweenness,2,100,0.0,0.29145540003834225
+DL,reciprocal,Betweenness,5,100,0.42,0.011107784716903473
+DL,reciprocal,Betweenness,10,100,1.0,3.121003346784989e-05
+DL,reciprocal,Betweenness,15,100,1.0,1.8756883873714921e-06
+DL,reciprocal,Betweenness,20,100,1.0,1.8756883873714921e-06
+DL,reciprocal,Degree,1,100,0.0,0.5322577009284524
+DL,reciprocal,Degree,2,100,0.0,0.2904638006639228
+DL,reciprocal,Degree,5,100,0.96,0.00846077224655159
+DL,reciprocal,Degree,10,100,1.0,0.0001704818230494775
+DL,reciprocal,Degree,15,100,1.0,6.894038794197551e-05
+DL,reciprocal,Degree,20,100,1.0,3.634185142977344e-05
+DL,reciprocal,Random (mean of matched orders),1,100,0.0,0.9742624549743512
+DL,reciprocal,Random (mean of matched orders),2,100,0.0,0.9553439695984071
+DL,reciprocal,Random (mean of matched orders),5,100,0.0,0.8835841972910083
+DL,reciprocal,Random (mean of matched orders),10,100,0.0,0.7731377671810883
+DL,reciprocal,Random (mean of matched orders),15,100,0.0,0.6570523755153473
+DL,reciprocal,Random (mean of matched orders),20,100,0.0,0.5601031761871132
+WN,directed,Betweenness,1,200,0.0,0.9567508977648039
+WN,directed,Betweenness,2,200,0.0,0.916571945815462
+WN,directed,Betweenness,5,200,0.0,0.7844078035557703
+WN,directed,Betweenness,10,200,0.0,0.5043894425621334
+WN,directed,Betweenness,15,200,0.0,0.2469501517859719
+WN,directed,Betweenness,20,200,0.0,0.1190770815671876
+WN,directed,Degree,1,200,0.0,0.9567508977648039
+WN,directed,Degree,2,200,0.0,0.9199110721717281
+WN,directed,Degree,5,200,0.0,0.7847184865714955
+WN,directed,Degree,10,200,0.0,0.5058407940417753
+WN,directed,Degree,15,200,0.0,0.24299712326439127
+WN,directed,Degree,20,200,0.0,0.11733567657402011
+WN,directed,Random (mean of matched orders),1,200,0.0,0.9807160284914971
+WN,directed,Random (mean of matched orders),2,200,0.0,0.9612652531778367
+WN,directed,Random (mean of matched orders),5,200,0.0,0.904272023975482
+WN,directed,Random (mean of matched orders),10,200,0.0,0.812011112905424
+WN,directed,Random (mean of matched orders),15,200,0.0,0.7089487144872239
+WN,directed,Random (mean of matched orders),20,200,0.0,0.6265704459249055
+WN,observed,Betweenness,1,1,0.0,0.9631271244051666
+WN,observed,Betweenness,2,1,0.0,0.9233990482664853
+WN,observed,Betweenness,5,1,0.0,0.780448674371176
+WN,observed,Betweenness,10,1,0.0,0.4893650577838204
+WN,observed,Betweenness,15,1,0.0,0.23949422161794698
+WN,observed,Betweenness,20,1,0.0,0.0706974847042828
+WN,observed,Degree,1,1,0.0,0.9631271244051666
+WN,observed,Degree,2,1,0.0,0.9297892590074779
+WN,observed,Degree,5,1,0.0,0.780448674371176
+WN,observed,Degree,10,1,0.0,0.4893650577838204
+WN,observed,Degree,15,1,0.0,0.16564436243566086
+WN,observed,Degree,20,1,0.0,0.06125369848823281
+WN,observed,Random (mean of matched orders),1,1,0.0,0.9808682528891906
+WN,observed,Random (mean of matched orders),2,1,0.0,0.961508089734874
+WN,observed,Random (mean of matched orders),5,1,0.0,0.904632222977566
+WN,observed,Random (mean of matched orders),10,1,0.0,0.8127181509177429
+WN,observed,Random (mean of matched orders),15,1,0.0,0.7097743031951054
+WN,observed,Random (mean of matched orders),20,1,0.0,0.6270545207341941
+WN,reciprocal,Betweenness,1,100,0.0,0.957404293489111
+WN,reciprocal,Betweenness,2,100,0.0,0.9159295123920624
+WN,reciprocal,Betweenness,5,100,0.0,0.7827732591009072
+WN,reciprocal,Betweenness,10,100,0.0,0.501462839224885
+WN,reciprocal,Betweenness,15,100,0.0,0.23792215104381934
+WN,reciprocal,Betweenness,20,100,0.0,0.10891281092258275
+WN,reciprocal,Degree,1,100,0.0,0.957404293489111
+WN,reciprocal,Degree,2,100,0.0,0.921097018309016
+WN,reciprocal,Degree,5,100,0.0,0.784280277055621
+WN,reciprocal,Degree,10,100,0.0,0.505353444472158
+WN,reciprocal,Degree,15,100,0.0,0.23609410055832697
+WN,reciprocal,Degree,20,100,0.0,0.10642678133650481
+WN,reciprocal,Random (mean of matched orders),1,100,0.0,0.9806971775115239
+WN,reciprocal,Random (mean of matched orders),2,100,0.0,0.9612515838138976
+WN,reciprocal,Random (mean of matched orders),5,100,0.0,0.9042481516339066
+WN,reciprocal,Random (mean of matched orders),10,100,0.0,0.8119968977142569
+WN,reciprocal,Random (mean of matched orders),15,100,0.0,0.7088781416835735
+WN,reciprocal,Random (mean of matched orders),20,100,0.0,0.6265272272620855

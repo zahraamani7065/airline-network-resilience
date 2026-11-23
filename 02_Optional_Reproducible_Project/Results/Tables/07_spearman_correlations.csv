@@ -1,0 +1,31 @@
+Airline,Population,Measure,Airports,Spearman with efficiency loss
+AA,Eligible (degree >= 2),Degree,175,0.9092508783284559
+AA,Eligible (degree >= 2),Betweenness,175,0.7085242450064801
+AA,Eligible (degree >= 2),Core number,175,0.9087543440019878
+AA,Eligible (degree >= 2),Mean participation,175,0.7998583432391702
+AA,Eligible (degree >= 2),Total strength (supplementary),175,0.842302736285748
+AA,All airports,Degree,230,0.9237474478397053
+AA,All airports,Betweenness,230,0.6391899005339307
+AA,All airports,Core number,230,0.9235315101259789
+AA,All airports,Mean participation,230,0.8555024510538647
+AA,All airports,Total strength (supplementary),230,0.8351304425015535
+DL,Eligible (degree >= 2),Degree,142,0.9546639260682679
+DL,Eligible (degree >= 2),Betweenness,142,0.6505573980586249
+DL,Eligible (degree >= 2),Core number,142,0.9540178093095621
+DL,Eligible (degree >= 2),Mean participation,142,0.8930319397803653
+DL,Eligible (degree >= 2),Total strength (supplementary),142,0.8664457491438736
+DL,All airports,Degree,212,0.9142230557834945
+DL,All airports,Betweenness,212,0.621667058197933
+DL,All airports,Core number,212,0.914016824714762
+DL,All airports,Mean participation,212,0.9100311070565084
+DL,All airports,Total strength (supplementary),212,0.8832565436173508
+WN,Eligible (degree >= 2),Degree,102,0.9718242139409778
+WN,Eligible (degree >= 2),Betweenness,102,0.8522326313377997
+WN,Eligible (degree >= 2),Core number,102,0.9477590036216897
+WN,Eligible (degree >= 2),Mean participation,102,0.646084414842207
+WN,Eligible (degree >= 2),Total strength (supplementary),102,0.9215258862554043
+WN,All airports,Degree,104,0.9734190402516716
+WN,All airports,Betweenness,104,0.8549374042878087
+WN,All airports,Core number,104,0.9507444406809545
+WN,All airports,Mean participation,104,0.6648951504385375
+WN,All airports,Total strength (supplementary),104,0.9238494909765005

@@ -1,0 +1,15 @@
+{
+  "implementation": "legacy-batched-v1",
+  "master_seed": 20250401,
+  "batch_size": 200000,
+  "production_checkpoints": [],
+  "production_endpoint": "recorded attempted swaps T",
+  "long_chain_checkpoints": ["T", "4T"],
+  "long_chain_seed_index": "1000 * (accepted_round - 1) + chain",
+  "production_seed_spawn_key": [4, "airline_index", "model_index", "chain"],
+  "airline_index": {"AA": 0, "DL": 1, "WN": 2},
+  "model_index": {"directed": 0, "reciprocal": 1},
+  "pilot_checkpoint_multipliers": [0.5, 1, 2, 5, 10, 20, 50, 100, 200, 250, 300, 350, 400],
+  "checkpoint_note": "This implementation groups RNG draws by batch. Changing checkpoint schedule or batch size changes exact graphs for the same seed. Preserve them for replay.",
+  "production_attempts_and_seeds": ["Results/Tables/04_production_chain_records.csv", "Results/Tables/04_production_expansion_chain_records.csv", "Results/Tables/04_production_seed_registry.csv", "Results/Tables/04_production_expansion_seed_registry.csv"]
+}

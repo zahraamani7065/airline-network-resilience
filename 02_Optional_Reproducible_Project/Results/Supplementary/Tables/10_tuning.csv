@@ -1,0 +1,601 @@
+Airline,Outcome,Model,Repeat,Fold,Alpha
+AA,Efficiency loss,Linear log-degree,0,0,100.0
+AA,Efficiency loss,Linear log-degree,0,1,100.0
+AA,Efficiency loss,Linear log-degree,0,2,100.0
+AA,Efficiency loss,Linear log-degree,0,3,10.0
+AA,Efficiency loss,Linear log-degree,0,4,10.0
+AA,Efficiency loss,Linear log-degree + participation,0,0,10.0
+AA,Efficiency loss,Linear log-degree + participation,0,1,100.0
+AA,Efficiency loss,Linear log-degree + participation,0,2,100.0
+AA,Efficiency loss,Linear log-degree + participation,0,3,10.0
+AA,Efficiency loss,Linear log-degree + participation,0,4,10.0
+AA,Efficiency loss,Spline degree,0,0,0.1
+AA,Efficiency loss,Spline degree,0,1,0.1
+AA,Efficiency loss,Spline degree,0,2,0.1
+AA,Efficiency loss,Spline degree,0,3,0.1
+AA,Efficiency loss,Spline degree,0,4,0.1
+AA,Efficiency loss,Spline degree + participation,0,0,0.1
+AA,Efficiency loss,Spline degree + participation,0,1,0.1
+AA,Efficiency loss,Spline degree + participation,0,2,0.1
+AA,Efficiency loss,Spline degree + participation,0,3,0.1
+AA,Efficiency loss,Spline degree + participation,0,4,0.1
+AA,Surviving-airport damage,Linear log-degree,0,0,100.0
+AA,Surviving-airport damage,Linear log-degree,0,1,100.0
+AA,Surviving-airport damage,Linear log-degree,0,2,100.0
+AA,Surviving-airport damage,Linear log-degree,0,3,10.0
+AA,Surviving-airport damage,Linear log-degree,0,4,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,0,0,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,0,1,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,0,2,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,0,3,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,0,4,10.0
+AA,Surviving-airport damage,Spline degree,0,0,0.1
+AA,Surviving-airport damage,Spline degree,0,1,0.1
+AA,Surviving-airport damage,Spline degree,0,2,0.1
+AA,Surviving-airport damage,Spline degree,0,3,0.1
+AA,Surviving-airport damage,Spline degree,0,4,0.1
+AA,Surviving-airport damage,Spline degree + participation,0,0,0.1
+AA,Surviving-airport damage,Spline degree + participation,0,1,0.1
+AA,Surviving-airport damage,Spline degree + participation,0,2,0.1
+AA,Surviving-airport damage,Spline degree + participation,0,3,0.1
+AA,Surviving-airport damage,Spline degree + participation,0,4,0.1
+AA,Efficiency loss,Linear log-degree,1,0,10.0
+AA,Efficiency loss,Linear log-degree,1,1,100.0
+AA,Efficiency loss,Linear log-degree,1,2,10.0
+AA,Efficiency loss,Linear log-degree,1,3,1.0
+AA,Efficiency loss,Linear log-degree,1,4,100.0
+AA,Efficiency loss,Linear log-degree + participation,1,0,10.0
+AA,Efficiency loss,Linear log-degree + participation,1,1,10.0
+AA,Efficiency loss,Linear log-degree + participation,1,2,10.0
+AA,Efficiency loss,Linear log-degree + participation,1,3,10.0
+AA,Efficiency loss,Linear log-degree + participation,1,4,100.0
+AA,Efficiency loss,Spline degree,1,0,0.1
+AA,Efficiency loss,Spline degree,1,1,0.1
+AA,Efficiency loss,Spline degree,1,2,0.1
+AA,Efficiency loss,Spline degree,1,3,0.1
+AA,Efficiency loss,Spline degree,1,4,0.1
+AA,Efficiency loss,Spline degree + participation,1,0,0.1
+AA,Efficiency loss,Spline degree + participation,1,1,0.1
+AA,Efficiency loss,Spline degree + participation,1,2,0.1
+AA,Efficiency loss,Spline degree + participation,1,3,0.1
+AA,Efficiency loss,Spline degree + participation,1,4,0.1
+AA,Surviving-airport damage,Linear log-degree,1,0,10.0
+AA,Surviving-airport damage,Linear log-degree,1,1,100.0
+AA,Surviving-airport damage,Linear log-degree,1,2,10.0
+AA,Surviving-airport damage,Linear log-degree,1,3,10.0
+AA,Surviving-airport damage,Linear log-degree,1,4,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,1,0,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,1,1,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,1,2,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,1,3,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,1,4,100.0
+AA,Surviving-airport damage,Spline degree,1,0,0.1
+AA,Surviving-airport damage,Spline degree,1,1,0.1
+AA,Surviving-airport damage,Spline degree,1,2,0.1
+AA,Surviving-airport damage,Spline degree,1,3,0.1
+AA,Surviving-airport damage,Spline degree,1,4,0.1
+AA,Surviving-airport damage,Spline degree + participation,1,0,0.1
+AA,Surviving-airport damage,Spline degree + participation,1,1,0.1
+AA,Surviving-airport damage,Spline degree + participation,1,2,0.1
+AA,Surviving-airport damage,Spline degree + participation,1,3,0.1
+AA,Surviving-airport damage,Spline degree + participation,1,4,0.1
+AA,Efficiency loss,Linear log-degree,2,0,10.0
+AA,Efficiency loss,Linear log-degree,2,1,100.0
+AA,Efficiency loss,Linear log-degree,2,2,10.0
+AA,Efficiency loss,Linear log-degree,2,3,100.0
+AA,Efficiency loss,Linear log-degree,2,4,10.0
+AA,Efficiency loss,Linear log-degree + participation,2,0,10.0
+AA,Efficiency loss,Linear log-degree + participation,2,1,100.0
+AA,Efficiency loss,Linear log-degree + participation,2,2,10.0
+AA,Efficiency loss,Linear log-degree + participation,2,3,100.0
+AA,Efficiency loss,Linear log-degree + participation,2,4,10.0
+AA,Efficiency loss,Spline degree,2,0,0.1
+AA,Efficiency loss,Spline degree,2,1,0.1
+AA,Efficiency loss,Spline degree,2,2,0.1
+AA,Efficiency loss,Spline degree,2,3,0.1
+AA,Efficiency loss,Spline degree,2,4,0.1
+AA,Efficiency loss,Spline degree + participation,2,0,0.1
+AA,Efficiency loss,Spline degree + participation,2,1,0.1
+AA,Efficiency loss,Spline degree + participation,2,2,0.1
+AA,Efficiency loss,Spline degree + participation,2,3,0.1
+AA,Efficiency loss,Spline degree + participation,2,4,0.1
+AA,Surviving-airport damage,Linear log-degree,2,0,10.0
+AA,Surviving-airport damage,Linear log-degree,2,1,100.0
+AA,Surviving-airport damage,Linear log-degree,2,2,10.0
+AA,Surviving-airport damage,Linear log-degree,2,3,100.0
+AA,Surviving-airport damage,Linear log-degree,2,4,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,2,0,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,2,1,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,2,2,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,2,3,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,2,4,10.0
+AA,Surviving-airport damage,Spline degree,2,0,0.1
+AA,Surviving-airport damage,Spline degree,2,1,0.1
+AA,Surviving-airport damage,Spline degree,2,2,0.1
+AA,Surviving-airport damage,Spline degree,2,3,0.1
+AA,Surviving-airport damage,Spline degree,2,4,0.1
+AA,Surviving-airport damage,Spline degree + participation,2,0,0.1
+AA,Surviving-airport damage,Spline degree + participation,2,1,0.1
+AA,Surviving-airport damage,Spline degree + participation,2,2,0.1
+AA,Surviving-airport damage,Spline degree + participation,2,3,0.1
+AA,Surviving-airport damage,Spline degree + participation,2,4,0.1
+AA,Efficiency loss,Linear log-degree,3,0,100.0
+AA,Efficiency loss,Linear log-degree,3,1,0.1
+AA,Efficiency loss,Linear log-degree,3,2,10.0
+AA,Efficiency loss,Linear log-degree,3,3,100.0
+AA,Efficiency loss,Linear log-degree,3,4,100.0
+AA,Efficiency loss,Linear log-degree + participation,3,0,100.0
+AA,Efficiency loss,Linear log-degree + participation,3,1,0.1
+AA,Efficiency loss,Linear log-degree + participation,3,2,10.0
+AA,Efficiency loss,Linear log-degree + participation,3,3,100.0
+AA,Efficiency loss,Linear log-degree + participation,3,4,100.0
+AA,Efficiency loss,Spline degree,3,0,0.1
+AA,Efficiency loss,Spline degree,3,1,0.1
+AA,Efficiency loss,Spline degree,3,2,0.1
+AA,Efficiency loss,Spline degree,3,3,0.1
+AA,Efficiency loss,Spline degree,3,4,0.1
+AA,Efficiency loss,Spline degree + participation,3,0,0.1
+AA,Efficiency loss,Spline degree + participation,3,1,0.1
+AA,Efficiency loss,Spline degree + participation,3,2,0.1
+AA,Efficiency loss,Spline degree + participation,3,3,0.1
+AA,Efficiency loss,Spline degree + participation,3,4,0.1
+AA,Surviving-airport damage,Linear log-degree,3,0,100.0
+AA,Surviving-airport damage,Linear log-degree,3,1,0.1
+AA,Surviving-airport damage,Linear log-degree,3,2,10.0
+AA,Surviving-airport damage,Linear log-degree,3,3,100.0
+AA,Surviving-airport damage,Linear log-degree,3,4,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,3,0,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,3,1,0.1
+AA,Surviving-airport damage,Linear log-degree + participation,3,2,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,3,3,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,3,4,100.0
+AA,Surviving-airport damage,Spline degree,3,0,0.1
+AA,Surviving-airport damage,Spline degree,3,1,0.1
+AA,Surviving-airport damage,Spline degree,3,2,0.1
+AA,Surviving-airport damage,Spline degree,3,3,0.1
+AA,Surviving-airport damage,Spline degree,3,4,0.1
+AA,Surviving-airport damage,Spline degree + participation,3,0,0.1
+AA,Surviving-airport damage,Spline degree + participation,3,1,0.1
+AA,Surviving-airport damage,Spline degree + participation,3,2,0.1
+AA,Surviving-airport damage,Spline degree + participation,3,3,0.1
+AA,Surviving-airport damage,Spline degree + participation,3,4,0.1
+AA,Efficiency loss,Linear log-degree,4,0,100.0
+AA,Efficiency loss,Linear log-degree,4,1,100.0
+AA,Efficiency loss,Linear log-degree,4,2,100.0
+AA,Efficiency loss,Linear log-degree,4,3,10.0
+AA,Efficiency loss,Linear log-degree,4,4,100.0
+AA,Efficiency loss,Linear log-degree + participation,4,0,100.0
+AA,Efficiency loss,Linear log-degree + participation,4,1,100.0
+AA,Efficiency loss,Linear log-degree + participation,4,2,100.0
+AA,Efficiency loss,Linear log-degree + participation,4,3,10.0
+AA,Efficiency loss,Linear log-degree + participation,4,4,100.0
+AA,Efficiency loss,Spline degree,4,0,0.1
+AA,Efficiency loss,Spline degree,4,1,0.1
+AA,Efficiency loss,Spline degree,4,2,0.1
+AA,Efficiency loss,Spline degree,4,3,0.1
+AA,Efficiency loss,Spline degree,4,4,0.1
+AA,Efficiency loss,Spline degree + participation,4,0,0.1
+AA,Efficiency loss,Spline degree + participation,4,1,0.1
+AA,Efficiency loss,Spline degree + participation,4,2,0.1
+AA,Efficiency loss,Spline degree + participation,4,3,0.1
+AA,Efficiency loss,Spline degree + participation,4,4,0.1
+AA,Surviving-airport damage,Linear log-degree,4,0,100.0
+AA,Surviving-airport damage,Linear log-degree,4,1,100.0
+AA,Surviving-airport damage,Linear log-degree,4,2,100.0
+AA,Surviving-airport damage,Linear log-degree,4,3,10.0
+AA,Surviving-airport damage,Linear log-degree,4,4,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,4,0,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,4,1,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,4,2,100.0
+AA,Surviving-airport damage,Linear log-degree + participation,4,3,10.0
+AA,Surviving-airport damage,Linear log-degree + participation,4,4,100.0
+AA,Surviving-airport damage,Spline degree,4,0,0.1
+AA,Surviving-airport damage,Spline degree,4,1,0.1
+AA,Surviving-airport damage,Spline degree,4,2,0.1
+AA,Surviving-airport damage,Spline degree,4,3,0.1
+AA,Surviving-airport damage,Spline degree,4,4,0.1
+AA,Surviving-airport damage,Spline degree + participation,4,0,0.1
+AA,Surviving-airport damage,Spline degree + participation,4,1,0.1
+AA,Surviving-airport damage,Spline degree + participation,4,2,0.1
+AA,Surviving-airport damage,Spline degree + participation,4,3,0.1
+AA,Surviving-airport damage,Spline degree + participation,4,4,0.1
+DL,Efficiency loss,Linear log-degree,0,0,10.0
+DL,Efficiency loss,Linear log-degree,0,1,100.0
+DL,Efficiency loss,Linear log-degree,0,2,1.0
+DL,Efficiency loss,Linear log-degree,0,3,0.1
+DL,Efficiency loss,Linear log-degree,0,4,10.0
+DL,Efficiency loss,Linear log-degree + participation,0,0,10.0
+DL,Efficiency loss,Linear log-degree + participation,0,1,100.0
+DL,Efficiency loss,Linear log-degree + participation,0,2,1.0
+DL,Efficiency loss,Linear log-degree + participation,0,3,0.1
+DL,Efficiency loss,Linear log-degree + participation,0,4,10.0
+DL,Efficiency loss,Spline degree,0,0,0.1
+DL,Efficiency loss,Spline degree,0,1,0.1
+DL,Efficiency loss,Spline degree,0,2,0.1
+DL,Efficiency loss,Spline degree,0,3,0.1
+DL,Efficiency loss,Spline degree,0,4,0.1
+DL,Efficiency loss,Spline degree + participation,0,0,0.1
+DL,Efficiency loss,Spline degree + participation,0,1,0.1
+DL,Efficiency loss,Spline degree + participation,0,2,0.1
+DL,Efficiency loss,Spline degree + participation,0,3,0.1
+DL,Efficiency loss,Spline degree + participation,0,4,0.1
+DL,Surviving-airport damage,Linear log-degree,0,0,10.0
+DL,Surviving-airport damage,Linear log-degree,0,1,100.0
+DL,Surviving-airport damage,Linear log-degree,0,2,10.0
+DL,Surviving-airport damage,Linear log-degree,0,3,0.1
+DL,Surviving-airport damage,Linear log-degree,0,4,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,0,0,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,0,1,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,0,2,1.0
+DL,Surviving-airport damage,Linear log-degree + participation,0,3,0.1
+DL,Surviving-airport damage,Linear log-degree + participation,0,4,10.0
+DL,Surviving-airport damage,Spline degree,0,0,0.1
+DL,Surviving-airport damage,Spline degree,0,1,0.1
+DL,Surviving-airport damage,Spline degree,0,2,0.1
+DL,Surviving-airport damage,Spline degree,0,3,0.1
+DL,Surviving-airport damage,Spline degree,0,4,0.1
+DL,Surviving-airport damage,Spline degree + participation,0,0,0.1
+DL,Surviving-airport damage,Spline degree + participation,0,1,0.1
+DL,Surviving-airport damage,Spline degree + participation,0,2,0.1
+DL,Surviving-airport damage,Spline degree + participation,0,3,0.1
+DL,Surviving-airport damage,Spline degree + participation,0,4,0.1
+DL,Efficiency loss,Linear log-degree,1,0,10.0
+DL,Efficiency loss,Linear log-degree,1,1,100.0
+DL,Efficiency loss,Linear log-degree,1,2,10.0
+DL,Efficiency loss,Linear log-degree,1,3,10.0
+DL,Efficiency loss,Linear log-degree,1,4,100.0
+DL,Efficiency loss,Linear log-degree + participation,1,0,10.0
+DL,Efficiency loss,Linear log-degree + participation,1,1,100.0
+DL,Efficiency loss,Linear log-degree + participation,1,2,10.0
+DL,Efficiency loss,Linear log-degree + participation,1,3,10.0
+DL,Efficiency loss,Linear log-degree + participation,1,4,100.0
+DL,Efficiency loss,Spline degree,1,0,0.1
+DL,Efficiency loss,Spline degree,1,1,0.1
+DL,Efficiency loss,Spline degree,1,2,0.1
+DL,Efficiency loss,Spline degree,1,3,0.1
+DL,Efficiency loss,Spline degree,1,4,0.1
+DL,Efficiency loss,Spline degree + participation,1,0,0.1
+DL,Efficiency loss,Spline degree + participation,1,1,0.1
+DL,Efficiency loss,Spline degree + participation,1,2,0.1
+DL,Efficiency loss,Spline degree + participation,1,3,0.1
+DL,Efficiency loss,Spline degree + participation,1,4,0.1
+DL,Surviving-airport damage,Linear log-degree,1,0,10.0
+DL,Surviving-airport damage,Linear log-degree,1,1,100.0
+DL,Surviving-airport damage,Linear log-degree,1,2,10.0
+DL,Surviving-airport damage,Linear log-degree,1,3,100.0
+DL,Surviving-airport damage,Linear log-degree,1,4,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,1,0,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,1,1,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,1,2,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,1,3,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,1,4,100.0
+DL,Surviving-airport damage,Spline degree,1,0,0.1
+DL,Surviving-airport damage,Spline degree,1,1,0.1
+DL,Surviving-airport damage,Spline degree,1,2,0.1
+DL,Surviving-airport damage,Spline degree,1,3,0.1
+DL,Surviving-airport damage,Spline degree,1,4,0.1
+DL,Surviving-airport damage,Spline degree + participation,1,0,0.1
+DL,Surviving-airport damage,Spline degree + participation,1,1,0.1
+DL,Surviving-airport damage,Spline degree + participation,1,2,0.1
+DL,Surviving-airport damage,Spline degree + participation,1,3,0.1
+DL,Surviving-airport damage,Spline degree + participation,1,4,0.1
+DL,Efficiency loss,Linear log-degree,2,0,10.0
+DL,Efficiency loss,Linear log-degree,2,1,100.0
+DL,Efficiency loss,Linear log-degree,2,2,10.0
+DL,Efficiency loss,Linear log-degree,2,3,100.0
+DL,Efficiency loss,Linear log-degree,2,4,10.0
+DL,Efficiency loss,Linear log-degree + participation,2,0,10.0
+DL,Efficiency loss,Linear log-degree + participation,2,1,100.0
+DL,Efficiency loss,Linear log-degree + participation,2,2,1.0
+DL,Efficiency loss,Linear log-degree + participation,2,3,10.0
+DL,Efficiency loss,Linear log-degree + participation,2,4,10.0
+DL,Efficiency loss,Spline degree,2,0,0.1
+DL,Efficiency loss,Spline degree,2,1,0.1
+DL,Efficiency loss,Spline degree,2,2,0.1
+DL,Efficiency loss,Spline degree,2,3,0.1
+DL,Efficiency loss,Spline degree,2,4,0.1
+DL,Efficiency loss,Spline degree + participation,2,0,0.1
+DL,Efficiency loss,Spline degree + participation,2,1,0.1
+DL,Efficiency loss,Spline degree + participation,2,2,0.1
+DL,Efficiency loss,Spline degree + participation,2,3,0.1
+DL,Efficiency loss,Spline degree + participation,2,4,0.1
+DL,Surviving-airport damage,Linear log-degree,2,0,100.0
+DL,Surviving-airport damage,Linear log-degree,2,1,100.0
+DL,Surviving-airport damage,Linear log-degree,2,2,10.0
+DL,Surviving-airport damage,Linear log-degree,2,3,100.0
+DL,Surviving-airport damage,Linear log-degree,2,4,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,2,0,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,2,1,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,2,2,1.0
+DL,Surviving-airport damage,Linear log-degree + participation,2,3,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,2,4,10.0
+DL,Surviving-airport damage,Spline degree,2,0,0.1
+DL,Surviving-airport damage,Spline degree,2,1,0.1
+DL,Surviving-airport damage,Spline degree,2,2,0.1
+DL,Surviving-airport damage,Spline degree,2,3,0.1
+DL,Surviving-airport damage,Spline degree,2,4,0.1
+DL,Surviving-airport damage,Spline degree + participation,2,0,0.1
+DL,Surviving-airport damage,Spline degree + participation,2,1,0.1
+DL,Surviving-airport damage,Spline degree + participation,2,2,0.1
+DL,Surviving-airport damage,Spline degree + participation,2,3,0.1
+DL,Surviving-airport damage,Spline degree + participation,2,4,0.1
+DL,Efficiency loss,Linear log-degree,3,0,100.0
+DL,Efficiency loss,Linear log-degree,3,1,100.0
+DL,Efficiency loss,Linear log-degree,3,2,100.0
+DL,Efficiency loss,Linear log-degree,3,3,100.0
+DL,Efficiency loss,Linear log-degree,3,4,10.0
+DL,Efficiency loss,Linear log-degree + participation,3,0,100.0
+DL,Efficiency loss,Linear log-degree + participation,3,1,100.0
+DL,Efficiency loss,Linear log-degree + participation,3,2,100.0
+DL,Efficiency loss,Linear log-degree + participation,3,3,100.0
+DL,Efficiency loss,Linear log-degree + participation,3,4,1.0
+DL,Efficiency loss,Spline degree,3,0,0.1
+DL,Efficiency loss,Spline degree,3,1,1.0
+DL,Efficiency loss,Spline degree,3,2,0.1
+DL,Efficiency loss,Spline degree,3,3,0.1
+DL,Efficiency loss,Spline degree,3,4,0.1
+DL,Efficiency loss,Spline degree + participation,3,0,0.1
+DL,Efficiency loss,Spline degree + participation,3,1,1.0
+DL,Efficiency loss,Spline degree + participation,3,2,0.1
+DL,Efficiency loss,Spline degree + participation,3,3,0.1
+DL,Efficiency loss,Spline degree + participation,3,4,0.1
+DL,Surviving-airport damage,Linear log-degree,3,0,100.0
+DL,Surviving-airport damage,Linear log-degree,3,1,100.0
+DL,Surviving-airport damage,Linear log-degree,3,2,100.0
+DL,Surviving-airport damage,Linear log-degree,3,3,100.0
+DL,Surviving-airport damage,Linear log-degree,3,4,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,3,0,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,3,1,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,3,2,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,3,3,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,3,4,1.0
+DL,Surviving-airport damage,Spline degree,3,0,0.1
+DL,Surviving-airport damage,Spline degree,3,1,1.0
+DL,Surviving-airport damage,Spline degree,3,2,0.1
+DL,Surviving-airport damage,Spline degree,3,3,0.1
+DL,Surviving-airport damage,Spline degree,3,4,0.1
+DL,Surviving-airport damage,Spline degree + participation,3,0,0.1
+DL,Surviving-airport damage,Spline degree + participation,3,1,1.0
+DL,Surviving-airport damage,Spline degree + participation,3,2,0.1
+DL,Surviving-airport damage,Spline degree + participation,3,3,0.1
+DL,Surviving-airport damage,Spline degree + participation,3,4,0.1
+DL,Efficiency loss,Linear log-degree,4,0,100.0
+DL,Efficiency loss,Linear log-degree,4,1,100.0
+DL,Efficiency loss,Linear log-degree,4,2,10.0
+DL,Efficiency loss,Linear log-degree,4,3,100.0
+DL,Efficiency loss,Linear log-degree,4,4,10.0
+DL,Efficiency loss,Linear log-degree + participation,4,0,100.0
+DL,Efficiency loss,Linear log-degree + participation,4,1,100.0
+DL,Efficiency loss,Linear log-degree + participation,4,2,1.0
+DL,Efficiency loss,Linear log-degree + participation,4,3,100.0
+DL,Efficiency loss,Linear log-degree + participation,4,4,10.0
+DL,Efficiency loss,Spline degree,4,0,0.1
+DL,Efficiency loss,Spline degree,4,1,0.1
+DL,Efficiency loss,Spline degree,4,2,0.1
+DL,Efficiency loss,Spline degree,4,3,0.1
+DL,Efficiency loss,Spline degree,4,4,0.1
+DL,Efficiency loss,Spline degree + participation,4,0,0.1
+DL,Efficiency loss,Spline degree + participation,4,1,0.1
+DL,Efficiency loss,Spline degree + participation,4,2,0.1
+DL,Efficiency loss,Spline degree + participation,4,3,0.1
+DL,Efficiency loss,Spline degree + participation,4,4,0.1
+DL,Surviving-airport damage,Linear log-degree,4,0,100.0
+DL,Surviving-airport damage,Linear log-degree,4,1,100.0
+DL,Surviving-airport damage,Linear log-degree,4,2,10.0
+DL,Surviving-airport damage,Linear log-degree,4,3,100.0
+DL,Surviving-airport damage,Linear log-degree,4,4,10.0
+DL,Surviving-airport damage,Linear log-degree + participation,4,0,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,4,1,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,4,2,1.0
+DL,Surviving-airport damage,Linear log-degree + participation,4,3,100.0
+DL,Surviving-airport damage,Linear log-degree + participation,4,4,10.0
+DL,Surviving-airport damage,Spline degree,4,0,0.1
+DL,Surviving-airport damage,Spline degree,4,1,0.1
+DL,Surviving-airport damage,Spline degree,4,2,0.1
+DL,Surviving-airport damage,Spline degree,4,3,0.1
+DL,Surviving-airport damage,Spline degree,4,4,0.1
+DL,Surviving-airport damage,Spline degree + participation,4,0,0.1
+DL,Surviving-airport damage,Spline degree + participation,4,1,0.1
+DL,Surviving-airport damage,Spline degree + participation,4,2,0.1
+DL,Surviving-airport damage,Spline degree + participation,4,3,0.1
+DL,Surviving-airport damage,Spline degree + participation,4,4,0.1
+WN,Efficiency loss,Linear log-degree,0,0,1.0
+WN,Efficiency loss,Linear log-degree,0,1,1.0
+WN,Efficiency loss,Linear log-degree,0,2,0.1
+WN,Efficiency loss,Linear log-degree,0,3,1.0
+WN,Efficiency loss,Linear log-degree,0,4,0.1
+WN,Efficiency loss,Linear log-degree + participation,0,0,1.0
+WN,Efficiency loss,Linear log-degree + participation,0,1,1.0
+WN,Efficiency loss,Linear log-degree + participation,0,2,1.0
+WN,Efficiency loss,Linear log-degree + participation,0,3,1.0
+WN,Efficiency loss,Linear log-degree + participation,0,4,0.1
+WN,Efficiency loss,Spline degree,0,0,0.1
+WN,Efficiency loss,Spline degree,0,1,0.1
+WN,Efficiency loss,Spline degree,0,2,0.1
+WN,Efficiency loss,Spline degree,0,3,0.1
+WN,Efficiency loss,Spline degree,0,4,0.1
+WN,Efficiency loss,Spline degree + participation,0,0,0.1
+WN,Efficiency loss,Spline degree + participation,0,1,0.1
+WN,Efficiency loss,Spline degree + participation,0,2,0.1
+WN,Efficiency loss,Spline degree + participation,0,3,0.1
+WN,Efficiency loss,Spline degree + participation,0,4,0.1
+WN,Surviving-airport damage,Linear log-degree,0,0,10.0
+WN,Surviving-airport damage,Linear log-degree,0,1,10.0
+WN,Surviving-airport damage,Linear log-degree,0,2,10.0
+WN,Surviving-airport damage,Linear log-degree,0,3,10.0
+WN,Surviving-airport damage,Linear log-degree,0,4,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,0,0,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,0,1,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,0,2,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,0,3,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,0,4,10.0
+WN,Surviving-airport damage,Spline degree,0,0,0.1
+WN,Surviving-airport damage,Spline degree,0,1,1.0
+WN,Surviving-airport damage,Spline degree,0,2,1.0
+WN,Surviving-airport damage,Spline degree,0,3,1.0
+WN,Surviving-airport damage,Spline degree,0,4,0.1
+WN,Surviving-airport damage,Spline degree + participation,0,0,0.1
+WN,Surviving-airport damage,Spline degree + participation,0,1,1.0
+WN,Surviving-airport damage,Spline degree + participation,0,2,100.0
+WN,Surviving-airport damage,Spline degree + participation,0,3,100.0
+WN,Surviving-airport damage,Spline degree + participation,0,4,100.0
+WN,Efficiency loss,Linear log-degree,1,0,1.0
+WN,Efficiency loss,Linear log-degree,1,1,1.0
+WN,Efficiency loss,Linear log-degree,1,2,0.1
+WN,Efficiency loss,Linear log-degree,1,3,0.1
+WN,Efficiency loss,Linear log-degree,1,4,1.0
+WN,Efficiency loss,Linear log-degree + participation,1,0,1.0
+WN,Efficiency loss,Linear log-degree + participation,1,1,1.0
+WN,Efficiency loss,Linear log-degree + participation,1,2,1.0
+WN,Efficiency loss,Linear log-degree + participation,1,3,0.1
+WN,Efficiency loss,Linear log-degree + participation,1,4,1.0
+WN,Efficiency loss,Spline degree,1,0,0.1
+WN,Efficiency loss,Spline degree,1,1,0.1
+WN,Efficiency loss,Spline degree,1,2,0.1
+WN,Efficiency loss,Spline degree,1,3,0.1
+WN,Efficiency loss,Spline degree,1,4,0.1
+WN,Efficiency loss,Spline degree + participation,1,0,0.1
+WN,Efficiency loss,Spline degree + participation,1,1,0.1
+WN,Efficiency loss,Spline degree + participation,1,2,0.1
+WN,Efficiency loss,Spline degree + participation,1,3,0.1
+WN,Efficiency loss,Spline degree + participation,1,4,0.1
+WN,Surviving-airport damage,Linear log-degree,1,0,100.0
+WN,Surviving-airport damage,Linear log-degree,1,1,100.0
+WN,Surviving-airport damage,Linear log-degree,1,2,10.0
+WN,Surviving-airport damage,Linear log-degree,1,3,10.0
+WN,Surviving-airport damage,Linear log-degree,1,4,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,1,0,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,1,1,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,1,2,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,1,3,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,1,4,100.0
+WN,Surviving-airport damage,Spline degree,1,0,100.0
+WN,Surviving-airport damage,Spline degree,1,1,100.0
+WN,Surviving-airport damage,Spline degree,1,2,0.1
+WN,Surviving-airport damage,Spline degree,1,3,1.0
+WN,Surviving-airport damage,Spline degree,1,4,0.1
+WN,Surviving-airport damage,Spline degree + participation,1,0,100.0
+WN,Surviving-airport damage,Spline degree + participation,1,1,100.0
+WN,Surviving-airport damage,Spline degree + participation,1,2,0.1
+WN,Surviving-airport damage,Spline degree + participation,1,3,100.0
+WN,Surviving-airport damage,Spline degree + participation,1,4,100.0
+WN,Efficiency loss,Linear log-degree,2,0,1.0
+WN,Efficiency loss,Linear log-degree,2,1,1.0
+WN,Efficiency loss,Linear log-degree,2,2,1.0
+WN,Efficiency loss,Linear log-degree,2,3,1.0
+WN,Efficiency loss,Linear log-degree,2,4,1.0
+WN,Efficiency loss,Linear log-degree + participation,2,0,1.0
+WN,Efficiency loss,Linear log-degree + participation,2,1,1.0
+WN,Efficiency loss,Linear log-degree + participation,2,2,1.0
+WN,Efficiency loss,Linear log-degree + participation,2,3,0.1
+WN,Efficiency loss,Linear log-degree + participation,2,4,1.0
+WN,Efficiency loss,Spline degree,2,0,0.1
+WN,Efficiency loss,Spline degree,2,1,0.1
+WN,Efficiency loss,Spline degree,2,2,0.1
+WN,Efficiency loss,Spline degree,2,3,0.1
+WN,Efficiency loss,Spline degree,2,4,0.1
+WN,Efficiency loss,Spline degree + participation,2,0,0.1
+WN,Efficiency loss,Spline degree + participation,2,1,0.1
+WN,Efficiency loss,Spline degree + participation,2,2,0.1
+WN,Efficiency loss,Spline degree + participation,2,3,0.1
+WN,Efficiency loss,Spline degree + participation,2,4,0.1
+WN,Surviving-airport damage,Linear log-degree,2,0,10.0
+WN,Surviving-airport damage,Linear log-degree,2,1,100.0
+WN,Surviving-airport damage,Linear log-degree,2,2,100.0
+WN,Surviving-airport damage,Linear log-degree,2,3,10.0
+WN,Surviving-airport damage,Linear log-degree,2,4,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,2,0,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,2,1,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,2,2,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,2,3,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,2,4,10.0
+WN,Surviving-airport damage,Spline degree,2,0,0.1
+WN,Surviving-airport damage,Spline degree,2,1,1.0
+WN,Surviving-airport damage,Spline degree,2,2,100.0
+WN,Surviving-airport damage,Spline degree,2,3,1.0
+WN,Surviving-airport damage,Spline degree,2,4,0.1
+WN,Surviving-airport damage,Spline degree + participation,2,0,0.1
+WN,Surviving-airport damage,Spline degree + participation,2,1,100.0
+WN,Surviving-airport damage,Spline degree + participation,2,2,100.0
+WN,Surviving-airport damage,Spline degree + participation,2,3,100.0
+WN,Surviving-airport damage,Spline degree + participation,2,4,0.1
+WN,Efficiency loss,Linear log-degree,3,0,1.0
+WN,Efficiency loss,Linear log-degree,3,1,1.0
+WN,Efficiency loss,Linear log-degree,3,2,0.1
+WN,Efficiency loss,Linear log-degree,3,3,1.0
+WN,Efficiency loss,Linear log-degree,3,4,0.1
+WN,Efficiency loss,Linear log-degree + participation,3,0,0.1
+WN,Efficiency loss,Linear log-degree + participation,3,1,0.1
+WN,Efficiency loss,Linear log-degree + participation,3,2,0.1
+WN,Efficiency loss,Linear log-degree + participation,3,3,1.0
+WN,Efficiency loss,Linear log-degree + participation,3,4,1.0
+WN,Efficiency loss,Spline degree,3,0,0.1
+WN,Efficiency loss,Spline degree,3,1,1.0
+WN,Efficiency loss,Spline degree,3,2,0.1
+WN,Efficiency loss,Spline degree,3,3,0.1
+WN,Efficiency loss,Spline degree,3,4,0.1
+WN,Efficiency loss,Spline degree + participation,3,0,0.1
+WN,Efficiency loss,Spline degree + participation,3,1,1.0
+WN,Efficiency loss,Spline degree + participation,3,2,0.1
+WN,Efficiency loss,Spline degree + participation,3,3,0.1
+WN,Efficiency loss,Spline degree + participation,3,4,0.1
+WN,Surviving-airport damage,Linear log-degree,3,0,100.0
+WN,Surviving-airport damage,Linear log-degree,3,1,10.0
+WN,Surviving-airport damage,Linear log-degree,3,2,1.0
+WN,Surviving-airport damage,Linear log-degree,3,3,10.0
+WN,Surviving-airport damage,Linear log-degree,3,4,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,3,0,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,3,1,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,3,2,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,3,3,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,3,4,100.0
+WN,Surviving-airport damage,Spline degree,3,0,0.1
+WN,Surviving-airport damage,Spline degree,3,1,10.0
+WN,Surviving-airport damage,Spline degree,3,2,0.1
+WN,Surviving-airport damage,Spline degree,3,3,100.0
+WN,Surviving-airport damage,Spline degree,3,4,0.1
+WN,Surviving-airport damage,Spline degree + participation,3,0,0.1
+WN,Surviving-airport damage,Spline degree + participation,3,1,100.0
+WN,Surviving-airport damage,Spline degree + participation,3,2,0.1
+WN,Surviving-airport damage,Spline degree + participation,3,3,100.0
+WN,Surviving-airport damage,Spline degree + participation,3,4,100.0
+WN,Efficiency loss,Linear log-degree,4,0,1.0
+WN,Efficiency loss,Linear log-degree,4,1,0.1
+WN,Efficiency loss,Linear log-degree,4,2,1.0
+WN,Efficiency loss,Linear log-degree,4,3,0.1
+WN,Efficiency loss,Linear log-degree,4,4,0.1
+WN,Efficiency loss,Linear log-degree + participation,4,0,1.0
+WN,Efficiency loss,Linear log-degree + participation,4,1,0.1
+WN,Efficiency loss,Linear log-degree + participation,4,2,0.1
+WN,Efficiency loss,Linear log-degree + participation,4,3,0.1
+WN,Efficiency loss,Linear log-degree + participation,4,4,0.1
+WN,Efficiency loss,Spline degree,4,0,0.1
+WN,Efficiency loss,Spline degree,4,1,0.1
+WN,Efficiency loss,Spline degree,4,2,0.1
+WN,Efficiency loss,Spline degree,4,3,0.1
+WN,Efficiency loss,Spline degree,4,4,0.1
+WN,Efficiency loss,Spline degree + participation,4,0,0.1
+WN,Efficiency loss,Spline degree + participation,4,1,0.1
+WN,Efficiency loss,Spline degree + participation,4,2,0.1
+WN,Efficiency loss,Spline degree + participation,4,3,0.1
+WN,Efficiency loss,Spline degree + participation,4,4,0.1
+WN,Surviving-airport damage,Linear log-degree,4,0,100.0
+WN,Surviving-airport damage,Linear log-degree,4,1,10.0
+WN,Surviving-airport damage,Linear log-degree,4,2,10.0
+WN,Surviving-airport damage,Linear log-degree,4,3,100.0
+WN,Surviving-airport damage,Linear log-degree,4,4,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,4,0,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,4,1,100.0
+WN,Surviving-airport damage,Linear log-degree + participation,4,2,10.0
+WN,Surviving-airport damage,Linear log-degree + participation,4,3,0.1
+WN,Surviving-airport damage,Linear log-degree + participation,4,4,100.0
+WN,Surviving-airport damage,Spline degree,4,0,100.0
+WN,Surviving-airport damage,Spline degree,4,1,0.1
+WN,Surviving-airport damage,Spline degree,4,2,0.1
+WN,Surviving-airport damage,Spline degree,4,3,100.0
+WN,Surviving-airport damage,Spline degree,4,4,0.1
+WN,Surviving-airport damage,Spline degree + participation,4,0,100.0
+WN,Surviving-airport damage,Spline degree + participation,4,1,100.0
+WN,Surviving-airport damage,Spline degree + participation,4,2,0.1
+WN,Surviving-airport damage,Spline degree + participation,4,3,100.0
+WN,Surviving-airport damage,Spline degree + participation,4,4,0.1

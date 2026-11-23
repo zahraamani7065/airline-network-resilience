@@ -1,0 +1,16 @@
+{
+  "name": "airline-resilience-documents",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Builds the revised paper and the audit report as DOCX from paper_content.js and audit_content.js (built with Node.js 24.16.0). The PDFs were exported from the DOCX files with Microsoft Word.",
+  "scripts": {
+    "build:paper": "node build_paper.js ../Amani_Azimi_Manafzadeh_Narehei_Revised_Paper.docx ./paper_content.js",
+    "build:audit": "node build_paper.js ../Audit_Report.docx ./audit_content.js"
+  },
+  "dependencies": {
+    "docx": "9.5.1"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}

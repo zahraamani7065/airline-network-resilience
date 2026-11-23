@@ -1,0 +1,11 @@
+Check,Result
+AA directed: modularity matches direct formula,PASS
+AA reciprocal: modularity matches direct formula,PASS
+DL directed: modularity matches direct formula,PASS
+DL reciprocal: modularity matches direct formula,PASS
+WN directed: modularity matches direct formula,PASS
+WN reciprocal: modularity matches direct formula,PASS
+directed: expected network count,PASS
+reciprocal: expected network count,PASS
+Supplementary null edge count equals observed projection,PASS
+All modularity values are finite and at most 1,PASS

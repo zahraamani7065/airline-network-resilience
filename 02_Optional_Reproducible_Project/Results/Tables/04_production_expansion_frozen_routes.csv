@@ -1,0 +1,4 @@
+Airline,Model,Networks,Observed routes,Routes kept in at least 95% of networks,Frozen route share,Mean share of networks keeping an observed route
+AA,directed,200,1808,452,0.25,0.6995077433628318
+DL,directed,200,1506,328,0.21779548472775564,0.6627357237715803
+WN,directed,200,1792,282,0.15736607142857142,0.6222795758928571

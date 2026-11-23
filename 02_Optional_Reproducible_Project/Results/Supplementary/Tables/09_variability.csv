@@ -1,0 +1,151 @@
+Airline,Null model,Kind,Variable,N,Unique,Mean,SD,Range,Modal_share,Status
+AA,reciprocal,predictor,Modularity,100,99,0.1704767099518365,0.0025606206265313502,0.012209746260474608,0.02,usable
+AA,reciprocal,predictor,Average clustering,100,100,0.7182412788165808,0.001079681577443499,0.007950914585821756,0.01,usable
+AA,reciprocal,predictor,Transitivity,100,19,0.12220188016680078,0.00024151475991750023,0.0011522423000950993,0.11,usable
+AA,reciprocal,predictor,Maximum coreness,100,2,11.34,0.4760952285695233,1.0,0.66,usable
+AA,reciprocal,predictor,Mean coreness,100,11,4.240565217391304,0.025584794979945834,0.07391304347826111,0.29,usable
+AA,reciprocal,predictor,Innermost-core fraction,100,6,0.06608695652173914,0.0071535557104075,0.021739130434782615,0.25,usable
+AA,reciprocal,predictor,Degree assortativity,100,99,-0.7004866796974936,0.0003573763159863438,0.00152237849181025,0.02,usable
+AA,reciprocal,AUC outcome,Betweenness | Efficiency retention | Early AUC,100,100,0.6246896311710914,0.010522314062581825,0.05190362833355955,0.01,usable
+AA,reciprocal,AUC outcome,Betweenness | Efficiency retention | Full AUC,100,100,0.08535138147772411,0.0018872378308779796,0.010353386837869516,0.01,usable
+AA,reciprocal,AUC outcome,Betweenness | Reachability retention | Early AUC,100,76,0.6329876087011035,0.012575981313927403,0.06299375450998701,0.04,usable
+AA,reciprocal,AUC outcome,Betweenness | Reachability retention | Full AUC,100,100,0.08697591716953401,0.0022572407349020236,0.013160201748375844,0.01,usable
+AA,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Early AUC,100,76,0.7807549452509184,0.008557869797188346,0.04318697911093672,0.04,usable
+AA,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Full AUC,100,76,0.13223202891911381,0.0034412585124144993,0.02337744171392564,0.04,usable
+AA,reciprocal,AUC outcome,Degree | Efficiency retention | Early AUC,100,100,0.6271683395561619,0.01070773832533471,0.04787042285584975,0.01,usable
+AA,reciprocal,AUC outcome,Degree | Efficiency retention | Full AUC,100,100,0.08552324892976915,0.002007779408887603,0.01078326605347861,0.01,usable
+AA,reciprocal,AUC outcome,Degree | Reachability retention | Early AUC,100,77,0.6360465984255885,0.012782915592901097,0.056796594269612255,0.03,usable
+AA,reciprocal,AUC outcome,Degree | Reachability retention | Full AUC,100,100,0.08727734882444971,0.0024702729307805593,0.01354812436196938,0.01,usable
+AA,reciprocal,AUC outcome,Degree | Largest SCC retention | Early AUC,100,76,0.7827678841055272,0.008726686029583137,0.0392371984639347,0.03,usable
+AA,reciprocal,AUC outcome,Degree | Largest SCC retention | Full AUC,100,82,0.13196589119171062,0.0023946541762894366,0.012212703775638517,0.03,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,100,100,0.9780867286817021,0.00018224318154698487,0.0009233307636956622,0.01,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,100,100,0.7823946274078243,0.0007174974213859345,0.003940280456096179,0.01,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,100,100,0.9778752004744825,0.00022495183701824273,0.0011514027185640652,0.01,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,100,100,0.7805235951609109,0.000842915845532514,0.004515238215484052,0.01,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,100,89,0.9887795563957157,0.00011780603466294408,0.0006025989466298398,0.03,usable
+AA,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,100,100,0.8798415271503477,0.000489253252867772,0.0027044366697253075,0.01,usable
+AA,directed,predictor,Modularity,200,200,0.12239722334193956,0.0030629246312783493,0.015876982806857606,0.005,usable
+AA,directed,predictor,Average clustering,200,200,0.8833058213490727,0.01380503259824265,0.06959858612438918,0.005,usable
+AA,directed,predictor,Transitivity,200,200,0.12402721141565758,0.0012783661331960264,0.008841409163189498,0.005,usable
+AA,directed,predictor,Maximum coreness,200,2,12.385,0.487816383612321,1.0,0.615,usable
+AA,directed,predictor,Mean coreness,200,40,5.484000000000001,0.03962798767138182,0.20869565217391362,0.055,usable
+AA,directed,predictor,Innermost-core fraction,200,9,0.07308695652173913,0.008765179763471295,0.034782608695652174,0.185,usable
+AA,directed,predictor,Degree assortativity,200,200,-0.7280125447452721,0.004358094726788405,0.022621217594397836,0.005,usable
+AA,directed,AUC outcome,Betweenness | Efficiency retention | Early AUC,200,200,0.625988334175244,0.0072895421506733666,0.04544742925573475,0.005,usable
+AA,directed,AUC outcome,Betweenness | Efficiency retention | Full AUC,200,200,0.08573486826000515,0.0013449837625828388,0.007964225178635528,0.005,usable
+AA,directed,AUC outcome,Betweenness | Reachability retention | Early AUC,200,200,0.6346387969572751,0.008802126723820563,0.05426766324952492,0.005,usable
+AA,directed,AUC outcome,Betweenness | Reachability retention | Full AUC,200,199,0.08746787527403133,0.0016253179249236368,0.009564104952866817,0.01,usable
+AA,directed,AUC outcome,Betweenness | Largest SCC retention | Early AUC,200,113,0.7127761844467428,0.00845802132516781,0.04287679376062581,0.025,usable
+AA,directed,AUC outcome,Betweenness | Largest SCC retention | Full AUC,200,111,0.11372538932397154,0.002830527215639884,0.015362318840579703,0.035,usable
+AA,directed,AUC outcome,Degree | Efficiency retention | Early AUC,200,200,0.6277783693060628,0.0078957083817233,0.049645691831736616,0.005,usable
+AA,directed,AUC outcome,Degree | Efficiency retention | Full AUC,200,200,0.08575708523026467,0.00133890260626359,0.008487565914876483,0.005,usable
+AA,directed,AUC outcome,Degree | Reachability retention | Early AUC,200,200,0.6368090732359853,0.009413807260083413,0.0583759784260961,0.005,usable
+AA,directed,AUC outcome,Degree | Reachability retention | Full AUC,200,200,0.08755252958477294,0.0016373555876344958,0.0097795213551794,0.005,usable
+AA,directed,AUC outcome,Degree | Largest SCC retention | Early AUC,200,113,0.7131675648844978,0.008667439400725644,0.04287679376062592,0.025,usable
+AA,directed,AUC outcome,Degree | Largest SCC retention | Full AUC,200,76,0.11227646502835537,0.0019269032575016819,0.008969304167791889,0.045,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,200,200,0.9780860374833842,0.0001061264644801757,0.0006925276809133241,0.005,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,200,200,0.7823524755687248,0.0004578217447490924,0.0024297780267416025,0.005,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,200,200,0.9778716868888011,0.00013070172823683932,0.0008752201226710499,0.005,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,200,200,0.7804950107612675,0.000539772940404066,0.0029308455583347826,0.005,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,200,166,0.9874915269108682,0.00015470813613818494,0.0007367668913697001,0.015,usable
+AA,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,200,200,0.8665408573065249,0.0010829096761790888,0.005903910571481985,0.005,usable
+DL,reciprocal,predictor,Modularity,100,100,0.2046034101751472,0.003098541528767424,0.015670827094455275,0.01,usable
+DL,reciprocal,predictor,Average clustering,100,100,0.621444940970279,0.0014186218056485521,0.008536603901723283,0.01,usable
+DL,reciprocal,predictor,Transitivity,100,30,0.1446851298855739,0.0005623398848531118,0.0033297217303982496,0.09,usable
+DL,reciprocal,predictor,Maximum coreness,100,3,12.22,0.43992653197477594,2.0,0.76,usable
+DL,reciprocal,predictor,Mean coreness,100,11,3.9403773584905655,0.027533237911757876,0.1367924528301887,0.25,usable
+DL,reciprocal,predictor,Innermost-core fraction,100,7,0.07485849056603773,0.005869914610106796,0.028301886792452824,0.29,usable
+DL,reciprocal,predictor,Degree assortativity,100,97,-0.6637227360094278,0.0006150031635744736,0.0029495787611004687,0.02,usable
+DL,reciprocal,AUC outcome,Betweenness | Efficiency retention | Early AUC,100,100,0.5889927004738118,0.011421804780314288,0.06862081442665802,0.01,usable
+DL,reciprocal,AUC outcome,Betweenness | Efficiency retention | Full AUC,100,100,0.08263899168201286,0.0021301226991616426,0.010604197049819117,0.01,usable
+DL,reciprocal,AUC outcome,Betweenness | Reachability retention | Early AUC,100,74,0.5947630431377826,0.0135131297598619,0.07931682017347752,0.05,usable
+DL,reciprocal,AUC outcome,Betweenness | Reachability retention | Full AUC,100,98,0.08396300297421205,0.0024659718445858864,0.011949472626392954,0.02,usable
+DL,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Early AUC,100,33,0.7545634546271338,0.009765770939298665,0.056603773584905426,0.09,usable
+DL,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Full AUC,100,82,0.14296063834338768,0.0038199926686968344,0.018699460916442034,0.03,usable
+DL,reciprocal,AUC outcome,Degree | Efficiency retention | Early AUC,100,100,0.588744800630207,0.011359671911629413,0.06862081442665802,0.01,usable
+DL,reciprocal,AUC outcome,Degree | Efficiency retention | Full AUC,100,100,0.08205273122411441,0.001958364941316445,0.010603324164451089,0.01,usable
+DL,reciprocal,AUC outcome,Degree | Reachability retention | Early AUC,100,73,0.5946270107672202,0.013479187045134747,0.07931682017347752,0.05,usable
+DL,reciprocal,AUC outcome,Degree | Reachability retention | Full AUC,100,99,0.08340580139037952,0.002378844866752837,0.012579148622696879,0.02,usable
+DL,reciprocal,AUC outcome,Degree | Largest SCC retention | Early AUC,100,33,0.754445530098832,0.009717030114452149,0.056603773584905426,0.1,usable
+DL,reciprocal,AUC outcome,Degree | Largest SCC retention | Full AUC,100,79,0.14205917618619776,0.0028038451232548166,0.01572327044025154,0.03,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,100,100,0.9759672198867773,0.00040218050323462983,0.002292794789922614,0.01,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,100,100,0.7756083530800774,0.0008257080732018659,0.003550687227146132,0.01,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,100,100,0.9755933291359876,0.00047409243179001223,0.002810739515335725,0.01,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,100,100,0.772131859277684,0.0010945657307400315,0.004712898617374339,0.01,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,100,56,0.9875836343216519,0.00025378265679025703,0.0015094339622639952,0.05,usable
+DL,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,100,100,0.8743246951610826,0.0006064260722483297,0.0025404312668466655,0.01,usable
+DL,directed,predictor,Modularity,200,200,0.14708543210169275,0.004096771284102026,0.024557307462169164,0.005,usable
+DL,directed,predictor,Average clustering,200,200,0.862237177663641,0.016546911312705224,0.08141712870260376,0.005,usable
+DL,directed,predictor,Transitivity,200,200,0.1446861285514464,0.0018136142074230823,0.010540673496813396,0.005,usable
+DL,directed,predictor,Maximum coreness,200,3,13.77,0.48815105990505864,2.0,0.71,usable
+DL,directed,predictor,Mean coreness,200,44,5.256485849056603,0.0483137053453653,0.2641509433962259,0.06,usable
+DL,directed,predictor,Innermost-core fraction,200,6,0.07943396226415095,0.006082370335938654,0.023584905660377367,0.29,usable
+DL,directed,predictor,Degree assortativity,200,200,-0.683485900762467,0.005032787540376471,0.026558348995516456,0.005,usable
+DL,directed,AUC outcome,Betweenness | Efficiency retention | Early AUC,200,200,0.5904537419785214,0.007748128590380586,0.035434830581899,0.005,usable
+DL,directed,AUC outcome,Betweenness | Efficiency retention | Full AUC,200,200,0.08311324760870384,0.0015069726765611796,0.009065634407654163,0.005,usable
+DL,directed,AUC outcome,Betweenness | Reachability retention | Early AUC,200,196,0.5963599324868103,0.009302508807542088,0.04287758204417402,0.01,usable
+DL,directed,AUC outcome,Betweenness | Reachability retention | Full AUC,200,200,0.08450746482756565,0.0017970933944732237,0.01116783340359305,0.005,usable
+DL,directed,AUC outcome,Betweenness | Largest SCC retention | Early AUC,200,34,0.6749233490566037,0.008489082386596233,0.04481132075471694,0.075,usable
+DL,directed,AUC outcome,Betweenness | Largest SCC retention | Full AUC,200,132,0.11661051212938006,0.0032717442612758578,0.018811769991015276,0.035,usable
+DL,directed,AUC outcome,Degree | Efficiency retention | Early AUC,200,200,0.5904537419785214,0.007748128590380586,0.035434830581899,0.005,usable
+DL,directed,AUC outcome,Degree | Efficiency retention | Full AUC,200,200,0.0824997968709142,0.0013827437151549787,0.0072276135194928315,0.005,usable
+DL,directed,AUC outcome,Degree | Reachability retention | Early AUC,200,196,0.5963599324868103,0.009302508807542088,0.04287758204417402,0.01,usable
+DL,directed,AUC outcome,Degree | Reachability retention | Full AUC,200,200,0.08385732303070562,0.0016747855831918776,0.00898738731833608,0.005,usable
+DL,directed,AUC outcome,Degree | Largest SCC retention | Early AUC,200,34,0.6749233490566037,0.008489082386596233,0.04481132075471694,0.075,usable
+DL,directed,AUC outcome,Degree | Largest SCC retention | Full AUC,200,120,0.11428852201257861,0.0026635826042148442,0.01690251572327045,0.025,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,200,200,0.9759873818264913,0.00031365344166635144,0.0016653707927529737,0.005,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,200,200,0.7755674716887403,0.0005997402706193902,0.0030659074385529506,0.005,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,200,200,0.9756170929088803,0.00037264584904839074,0.0020241661450417503,0.005,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,200,200,0.7721171003739733,0.0007914898275274987,0.003880371673841587,0.005,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,200,102,0.9853998231132064,0.0003922489632356155,0.002134433962264093,0.035,usable
+DL,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,200,199,0.8562151869946086,0.001412960087832909,0.006569519317160544,0.01,usable
+WN,reciprocal,predictor,Modularity,100,99,0.1202543671277105,0.0033401797235592472,0.016918571627869902,0.02,usable
+WN,reciprocal,predictor,Average clustering,100,100,0.7758839211712149,0.005878227500437912,0.032671242580863846,0.01,usable
+WN,reciprocal,predictor,Transitivity,100,66,0.37044023048077807,0.002920580028304968,0.015548306454071514,0.04,usable
+WN,reciprocal,predictor,Maximum coreness,100,3,15.95,0.4351941398892447,2.0,0.81,usable
+WN,reciprocal,predictor,Mean coreness,100,30,10.023942307692307,0.09761415382063808,0.509615384615385,0.08,usable
+WN,reciprocal,predictor,Innermost-core fraction,100,16,0.24115384615384614,0.03177855999351593,0.14423076923076922,0.13,usable
+WN,reciprocal,predictor,Degree assortativity,100,99,-0.5364540559245895,0.004220472036592029,0.024552592126813155,0.02,usable
+WN,reciprocal,AUC outcome,Betweenness | Efficiency retention | Early AUC,100,100,0.9584724569466276,0.006264839688560642,0.02806797499457281,0.01,usable
+WN,reciprocal,AUC outcome,Betweenness | Efficiency retention | Full AUC,100,100,0.5200055351387678,0.01019742198302988,0.04859443452162676,0.01,usable
+WN,reciprocal,AUC outcome,Betweenness | Reachability retention | Early AUC,100,8,0.972562621365998,0.007699210971064746,0.03251684016731504,0.32,usable
+WN,reciprocal,AUC outcome,Betweenness | Reachability retention | Full AUC,100,100,0.6115556336456439,0.016353605863112613,0.07522903773414569,0.01,usable
+WN,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Early AUC,100,8,0.9861882291782961,0.00391265666434426,0.016599272915038488,0.32,usable
+WN,reciprocal,AUC outcome,Betweenness | Largest SCC retention | Full AUC,100,100,0.7622300280905595,0.012159709561209136,0.05627163112649314,0.01,usable
+WN,reciprocal,AUC outcome,Degree | Efficiency retention | Early AUC,100,100,0.9596916770926722,0.006802508980086399,0.0285481479975892,0.01,usable
+WN,reciprocal,AUC outcome,Degree | Efficiency retention | Full AUC,100,100,0.5210959548819336,0.009243688516176594,0.04719305509707883,0.01,usable
+WN,reciprocal,AUC outcome,Degree | Reachability retention | Early AUC,100,8,0.9741163173349261,0.008383833712399312,0.03251684016731504,0.5,usable
+WN,reciprocal,AUC outcome,Degree | Reachability retention | Full AUC,100,100,0.6162426721345127,0.01632660146165686,0.07368985725501787,0.01,usable
+WN,reciprocal,AUC outcome,Degree | Largest SCC retention | Early AUC,100,8,0.9869822572429382,0.004259742908481343,0.016599272915038488,0.5,usable
+WN,reciprocal,AUC outcome,Degree | Largest SCC retention | Full AUC,100,99,0.7654585639324389,0.01185488342810793,0.054004300307819886,0.02,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,100,100,0.9810276963034871,0.00019826202858201815,0.000822589106337257,0.01,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,100,100,0.8106177326804029,0.0006188803381718309,0.0027477144051756275,0.01,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,100,24,0.9808913811731691,0.0002542046864187245,0.0010188158960122706,0.15,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,100,100,0.8114630665853123,0.0007920495590267666,0.003349356283896099,0.01,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,100,22,0.9904215903064633,0.00012888937134577645,0.0005170711454728361,0.15,usable
+WN,reciprocal,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,100,100,0.8991697794655156,0.00045331736272194743,0.00191751446726951,0.01,usable
+WN,directed,predictor,Modularity,200,200,0.09627065649848714,0.00399811232122403,0.022540994447768123,0.005,usable
+WN,directed,predictor,Average clustering,200,200,0.8154923646434846,0.006078349663766809,0.035051555208410745,0.005,usable
+WN,directed,predictor,Transitivity,200,200,0.42358026038846824,0.0027406222965050985,0.014496924056764282,0.005,usable
+WN,directed,predictor,Maximum coreness,200,3,20.01,0.5208226967088082,2.0,0.73,usable
+WN,directed,predictor,Mean coreness,200,65,13.982644230769232,0.1625386001940199,0.865384615384615,0.055,usable
+WN,directed,predictor,Innermost-core fraction,200,17,0.2876923076923077,0.027760460309790607,0.1730769230769231,0.17,usable
+WN,directed,predictor,Degree assortativity,200,200,-0.5439698992385739,0.00532594532140861,0.030099540572880112,0.005,usable
+WN,directed,AUC outcome,Betweenness | Efficiency retention | Early AUC,200,200,0.9582912891071868,0.004073939125686247,0.018286034857513456,0.005,usable
+WN,directed,AUC outcome,Betweenness | Efficiency retention | Full AUC,200,200,0.5245833923935816,0.00801764468690562,0.0459906005270454,0.005,usable
+WN,directed,AUC outcome,Betweenness | Reachability retention | Early AUC,200,23,0.9721360144639274,0.005158485748002507,0.023354164611720907,0.165,usable
+WN,directed,AUC outcome,Betweenness | Reachability retention | Full AUC,200,200,0.6174050518279249,0.013185603419077083,0.07210058965135258,0.005,usable
+WN,directed,AUC outcome,Betweenness | Largest SCC retention | Early AUC,200,9,0.9826689146756727,0.004186303008360042,0.016599272915038488,0.305,usable
+WN,directed,AUC outcome,Betweenness | Largest SCC retention | Full AUC,200,197,0.7075887799911746,0.014523900684029553,0.07318811902901168,0.01,usable
+WN,directed,AUC outcome,Degree | Efficiency retention | Early AUC,200,200,0.9590791218042702,0.00422403479283285,0.019369488845472738,0.005,usable
+WN,directed,AUC outcome,Degree | Efficiency retention | Full AUC,200,200,0.5241239115477258,0.0072581216314820535,0.03875282932938995,0.005,usable
+WN,directed,AUC outcome,Degree | Reachability retention | Early AUC,200,20,0.9730444662677046,0.005326417992091655,0.023354164611720907,0.265,usable
+WN,directed,AUC outcome,Degree | Reachability retention | Full AUC,200,200,0.6182498719497831,0.012840887351050616,0.06950084055345107,0.005,usable
+WN,directed,AUC outcome,Degree | Largest SCC retention | Early AUC,200,9,0.9832247343209221,0.00444769199542682,0.016599272915038488,0.34,usable
+WN,directed,AUC outcome,Degree | Largest SCC retention | Full AUC,200,197,0.706229466960531,0.013373781800150248,0.06588714865202538,0.01,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Early AUC,200,200,0.981040521359472,0.0001253592431429433,0.0005394398288258717,0.005,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Efficiency retention | Full AUC,200,200,0.8106516345225407,0.00038902358225028933,0.0018875105148495885,0.005,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Early AUC,200,64,0.980907218952355,0.00016284910211466166,0.0007438655127897098,0.055,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Reachability retention | Full AUC,200,200,0.8114812021302972,0.000505638470929146,0.0024621791739372068,0.005,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Early AUC,200,49,0.9903050460271985,0.00015341862126494943,0.0006902509908452981,0.055,usable
+WN,directed,AUC outcome,Random (mean of matched orders) | Largest SCC retention | Full AUC,200,200,0.8977634494776967,0.0005860677311844977,0.002912101701515679,0.005,usable

@@ -1,0 +1,231 @@
+airport_id,code,city,state
+10135,ABE,"Allentown/Bethlehem/Easton, PA",PA
+10136,ABI,"Abilene, TX",TX
+10140,ABQ,"Albuquerque, NM",NM
+10154,ACK,"Nantucket, MA",MA
+10155,ACT,"Waco, TX",TX
+10185,AEX,"Alexandria, LA",LA
+10208,AGS,"Augusta, GA",GA
+10257,ALB,"Albany, NY",NY
+10268,ALO,"Waterloo, IA",IA
+10279,AMA,"Amarillo, TX",TX
+10299,ANC,"Anchorage, AK",AK
+10361,ART,"Watertown, NY",NY
+10372,ASE,"Aspen, CO",CO
+10397,ATL,"Atlanta, GA",GA
+10408,ATW,"Appleton, WI",WI
+10423,AUS,"Austin, TX",TX
+10431,AVL,"Asheville, NC",NC
+10434,AVP,"Scranton/Wilkes-Barre, PA",PA
+10469,AZO,"Kalamazoo, MI",MI
+10529,BDL,"Hartford, CT",CT
+10561,BFL,"Bakersfield, CA",CA
+10581,BGR,"Bangor, ME",ME
+10599,BHM,"Birmingham, AL",AL
+10620,BIL,"Billings, MT",MT
+10627,BIS,"Bismarck/Mandan, ND",ND
+10685,BMI,"Bloomington/Normal, IL",IL
+10693,BNA,"Nashville, TN",TN
+10713,BOI,"Boise, ID",ID
+10721,BOS,"Boston, MA",MA
+10728,BPT,"Beaumont/Port Arthur, TX",TX
+10747,BRO,"Brownsville, TX",TX
+10781,BTR,"Baton Rouge, LA",LA
+10785,BTV,"Burlington, VT",VT
+10792,BUF,"Buffalo, NY",NY
+10800,BUR,"Burbank, CA",CA
+10821,BWI,"Baltimore, MD",MD
+10849,BZN,"Bozeman, MT",MT
+10868,CAE,"Columbia, SC",SC
+10874,CAK,"Akron, OH",OH
+10980,CHA,"Chattanooga, TN",TN
+10990,CHO,"Charlottesville, VA",VA
+10994,CHS,"Charleston, SC",SC
+11003,CID,"Cedar Rapids/Iowa City, IA",IA
+11041,CLD,"Carlsbad, CA",CA
+11042,CLE,"Cleveland, OH",OH
+11049,CLL,"College Station/Bryan, TX",TX
+11057,CLT,"Charlotte, NC",NC
+11066,CMH,"Columbus, OH",OH
+11067,CMI,"Champaign/Urbana, IL",IL
+11109,COS,"Colorado Springs, CO",CO
+11111,COU,"Columbia, MO",MO
+11140,CRP,"Corpus Christi, TX",TX
+11146,CRW,"Charleston/Dunbar, WV",WV
+11193,CVG,"Cincinnati, OH",KY
+11203,CWA,"Mosinee, WI",WI
+11252,DAB,"Daytona Beach, FL",FL
+11267,DAY,"Dayton, OH",OH
+11278,DCA,"Washington, DC",VA
+11292,DEN,"Denver, CO",CO
+11298,DFW,"Dallas/Fort Worth, TX",TX
+11413,DRO,"Durango, CO",CO
+11423,DSM,"Des Moines, IA",IA
+11433,DTW,"Detroit, MI",MI
+11481,ECP,"Panama City, FL",FL
+11503,EGE,"Eagle, CO",CO
+11540,ELP,"El Paso, TX",TX
+11577,ERI,"Erie, PA",PA
+11603,EUG,"Eugene, OR",OR
+11612,EVV,"Evansville, IN",IN
+11617,EWN,"New Bern/Morehead/Beaufort, NC",NC
+11618,EWR,"Newark, NJ",NJ
+11624,EYW,"Key West, FL",FL
+11637,FAR,"Fargo, ND",ND
+11638,FAT,"Fresno, CA",CA
+11641,FAY,"Fayetteville, NC",NC
+11648,FCA,"Kalispell, MT",MT
+11695,FLG,"Flagstaff, AZ",AZ
+11697,FLL,"Fort Lauderdale, FL",FL
+11699,FLO,"Florence, SC",SC
+11721,FNT,"Flint, MI",MI
+11775,FSD,"Sioux Falls, SD",SD
+11778,FSM,"Fort Smith, AR",AR
+11823,FWA,"Fort Wayne, IN",IN
+11867,GCK,"Garden City, KS",KS
+11884,GEG,"Spokane, WA",WA
+11905,GGG,"Longview, TX",TX
+11921,GJT,"Grand Junction, CO",CO
+11953,GNV,"Gainesville, FL",FL
+11973,GPT,"Gulfport/Biloxi, MS",MS
+11977,GRB,"Green Bay, WI",WI
+11980,GRI,"Grand Island, NE",NE
+11982,GRK,"Killeen, TX",TX
+11986,GRR,"Grand Rapids, MI",MI
+11995,GSO,"Greensboro/High Point, NC",NC
+11996,GSP,"Greer, SC",SC
+12007,GTR,"Columbus, MS",MS
+12012,GUC,"Gunnison, CO",CO
+12094,HDN,"Hayden, CO",CO
+12124,HHH,"Hilton Head, SC",SC
+12173,HNL,"Honolulu, HI",HI
+12191,HOU,"Houston, TX",TX
+12197,HPN,"White Plains, NY",NY
+12206,HRL,"Harlingen/San Benito, TX",TX
+12217,HSV,"Huntsville, AL",AL
+12223,HTS,"Ashland, WV",WV
+12250,HYA,"Hyannis, MA",MA
+12264,IAD,"Washington, DC",VA
+12266,IAH,"Houston, TX",TX
+12278,ICT,"Wichita, KS",KS
+12280,IDA,"Idaho Falls, ID",ID
+12323,ILM,"Wilmington, NC",NC
+12339,IND,"Indianapolis, IN",IN
+12441,JAC,"Jackson, WY",WY
+12448,JAN,"Jackson/Vicksburg, MS",MS
+12451,JAX,"Jacksonville, FL",FL
+12478,JFK,"New York, NY",NY
+12758,KOA,"Kona, HI",HI
+12884,LAN,"Lansing, MI",MI
+12889,LAS,"Las Vegas, NV",NV
+12891,LAW,"Lawton/Fort Sill, OK",OK
+12892,LAX,"Los Angeles, CA",CA
+12896,LBB,"Lubbock, TX",TX
+12915,LCH,"Lake Charles, LA",LA
+12945,LEX,"Lexington, KY",KY
+12951,LFT,"Lafayette, LA",LA
+12953,LGA,"New York, NY",NY
+12982,LIH,"Lihue, HI",HI
+12992,LIT,"Little Rock, AR",AR
+13061,LRD,"Laredo, TX",TX
+13076,LSE,"La Crosse, WI",WI
+13139,LYH,"Lynchburg, VA",VA
+13158,MAF,"Midland/Odessa, TX",TX
+13198,MCI,"Kansas City, MO",MO
+13204,MCO,"Orlando, FL",FL
+13230,MDT,"Harrisburg, PA",PA
+13244,MEM,"Memphis, TN",TN
+13256,MFE,"Mission/McAllen/Edinburg, TX",TX
+13264,MFR,"Medford, OR",OR
+13277,MGM,"Montgomery, AL",AL
+13290,MHK,"Manhattan/Ft. Riley, KS",KS
+13296,MHT,"Manchester, NH",NH
+13303,MIA,"Miami, FL",FL
+13342,MKE,"Milwaukee, WI",WI
+13360,MLB,"Melbourne, FL",FL
+13367,MLI,"Moline, IL",IL
+13377,MLU,"Monroe, LA",LA
+13422,MOB,"Mobile, AL",AL
+13459,MQT,"Marquette, MI",MI
+13476,MRY,"Monterey, CA",CA
+13485,MSN,"Madison, WI",WI
+13486,MSO,"Missoula, MT",MT
+13487,MSP,"Minneapolis, MN",MN
+13495,MSY,"New Orleans, LA",LA
+13502,MTJ,"Montrose/Delta, CO",CO
+13541,MVY,"Martha's Vineyard, MA",MA
+13577,MYR,"Myrtle Beach, SC",SC
+13795,OAJ,"Jacksonville/Camp Lejeune, NC",NC
+13830,OGG,"Kahului, HI",HI
+13851,OKC,"Oklahoma City, OK",OK
+13871,OMA,"Omaha, NE",NE
+13891,ONT,"Ontario, CA",CA
+13930,ORD,"Chicago, IL",IL
+13931,ORF,"Norfolk, VA",VA
+13933,ORH,"Worcester, MA",MA
+14027,PBI,"West Palm Beach/Palm Beach, FL",FL
+14057,PDX,"Portland, OR",OR
+14092,PGV,"Greenville, NC",NC
+14098,PHF,"Newport News/Williamsburg, VA",VA
+14100,PHL,"Philadelphia, PA",PA
+14107,PHX,"Phoenix, AZ",AZ
+14108,PIA,"Peoria, IL",IL
+14122,PIT,"Pittsburgh, PA",PA
+14193,PNS,"Pensacola, FL",FL
+14252,PSC,"Pasco/Kennewick/Richland, WA",WA
+14262,PSP,"Palm Springs, CA",CA
+14307,PVD,"Providence, RI",RI
+14314,PVU,"Provo, UT",UT
+14321,PWM,"Portland, ME",ME
+14457,RAP,"Rapid City, SD",SD
+14489,RDM,"Bend/Redmond, OR",OR
+14492,RDU,"Raleigh/Durham, NC",NC
+14524,RIC,"Richmond, VA",VA
+14570,RNO,"Reno, NV",NV
+14574,ROA,"Roanoke, VA",VA
+14576,ROC,"Rochester, NY",NY
+14588,ROW,"Roswell, NM",NM
+14633,RST,"Rochester, MN",MN
+14635,RSW,"Fort Myers, FL",FL
+14674,SAF,"Santa Fe, NM",NM
+14679,SAN,"San Diego, CA",CA
+14683,SAT,"San Antonio, TX",TX
+14685,SAV,"Savannah, GA",GA
+14689,SBA,"Santa Barbara, CA",CA
+14696,SBN,"South Bend, IN",IN
+14698,SBP,"San Luis Obispo, CA",CA
+14704,SBY,"Salisbury, MD",MD
+14711,SCE,"State College, PA",PA
+14730,SDF,"Louisville, KY",KY
+14747,SEA,"Seattle, WA",WA
+14771,SFO,"San Francisco, CA",CA
+14783,SGF,"Springfield, MO",MO
+14794,SGU,"St. George, UT",UT
+14814,SHV,"Shreveport, LA",LA
+14831,SJC,"San Jose, CA",CA
+14842,SJT,"San Angelo, TX",TX
+14843,SJU,"San Juan, PR",PR
+14869,SLC,"Salt Lake City, UT",UT
+14893,SMF,"Sacramento, CA",CA
+14908,SNA,"Santa Ana, CA",CA
+14952,SPI,"Springfield, IL",IL
+14960,SPS,"Wichita Falls, TX",TX
+14986,SRQ,"Sarasota/Bradenton, FL",FL
+15016,STL,"St. Louis, MO",MO
+15023,STS,"Santa Rosa, CA",CA
+15024,STT,"Charlotte Amalie, VI",VI
+15027,STX,"Christiansted, VI",VI
+15074,SWO,"Stillwater, OK",OK
+15096,SYR,"Syracuse, NY",NY
+15249,TLH,"Tallahassee, FL",FL
+15304,TPA,"Tampa, FL",FL
+15323,TRI,"Bristol/Johnson City/Kingsport, TN",TN
+15370,TUL,"Tulsa, OK",OK
+15376,TUS,"Tucson, AZ",AZ
+15380,TVC,"Traverse City, MI",MI
+15401,TXK,"Texarkana, AR",AR
+15411,TYR,"Tyler, TX",TX
+15412,TYS,"Knoxville, TN",TN
+15624,VPS,"Valparaiso, FL",FL
+15919,XNA,"Fayetteville, AR",AR
+16218,YUM,"Yuma, AZ",AZ

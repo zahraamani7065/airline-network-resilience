@@ -1,0 +1,2 @@
+Networks per airline,Cells,E1 flagged cells,E1 flagged share (%),E2 flagged cells,E2 flagged share (%),Flagged at 100: E1 cells,Flagged at 100: E2 cells,Trigger threshold (%),E1 above threshold,E2 above threshold,Further expansion performed
+200,144,11,7.638888888888889,6,4.166666666666666,12,8,5,True,False,False

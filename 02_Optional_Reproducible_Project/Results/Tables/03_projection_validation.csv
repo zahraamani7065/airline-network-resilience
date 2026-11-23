@@ -1,0 +1,4 @@
+Airline,Airports,Directed binary edges,Undirected edges,Reciprocity,Total scheduled flights,Sum of undirected weights,Pairs with unequal directional frequency,Undirected graph connected
+AA,230,1808,904,1.0,514206.0,514206.0,299,True
+DL,212,1506,753,1.0,418790.0,418790.0,104,True
+WN,104,1792,896,1.0,359789.0,359789.0,209,True

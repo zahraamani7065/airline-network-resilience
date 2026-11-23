@@ -1,0 +1,82 @@
+Check,Value
+AA/observed/Degree: identical full ranking,1.0
+AA/observed/Degree: identical removed sets at 5-20%,1.0
+AA/observed/Betweenness: identical full ranking,1.0
+AA/observed/Betweenness: identical removed sets at 5-20%,1.0
+AA/observed: targeted outcomes max abs diff,8.673617379884035e-17
+AA/observed: random trials max abs diff,1.6653345369377348e-16
+AA/observed: Exp A targeted 1-2% max abs diff,0.0
+AA/observed: Exp A random 1-2% max abs diff,1.6653345369377348e-16
+AA/directed/Degree: identical full ranking,1.0
+AA/directed/Degree: identical removed sets at 5-20%,1.0
+AA/directed/Betweenness: identical full ranking,1.0
+AA/directed/Betweenness: identical removed sets at 5-20%,1.0
+AA/directed: targeted outcomes max abs diff,9.8879238130678e-17
+AA/directed: random trials max abs diff,1.6653345369377348e-16
+AA/directed: Exp A targeted 1-2% max abs diff,1.1102230246251565e-16
+AA/directed: Exp A random 1-2% max abs diff,2.220446049250313e-16
+AA/reciprocal/Degree: identical full ranking,1.0
+AA/reciprocal/Degree: identical removed sets at 5-20%,1.0
+AA/reciprocal/Betweenness: identical full ranking,1.0
+AA/reciprocal/Betweenness: identical removed sets at 5-20%,1.0
+AA/reciprocal: targeted outcomes max abs diff,9.847266231599594e-17
+AA/reciprocal: random trials max abs diff,1.6653345369377348e-16
+AA/reciprocal: Exp A targeted 1-2% max abs diff,1.1102230246251565e-16
+AA/reciprocal: Exp A random 1-2% max abs diff,2.220446049250313e-16
+DL/observed/Degree: identical full ranking,1.0
+DL/observed/Degree: identical removed sets at 5-20%,1.0
+DL/observed/Betweenness: identical full ranking,1.0
+DL/observed/Betweenness: identical removed sets at 5-20%,1.0
+DL/observed: targeted outcomes max abs diff,7.112366251504909e-17
+DL/observed: random trials max abs diff,1.6653345369377348e-16
+DL/observed: Exp A targeted 1-2% max abs diff,0.0
+DL/observed: Exp A random 1-2% max abs diff,1.6653345369377348e-16
+DL/directed/Degree: identical full ranking,1.0
+DL/directed/Degree: identical removed sets at 5-20%,1.0
+DL/directed/Betweenness: identical full ranking,1.0
+DL/directed/Betweenness: identical removed sets at 5-20%,1.0
+DL/directed: targeted outcomes max abs diff,9.8879238130678e-17
+DL/directed: random trials max abs diff,1.6653345369377348e-16
+DL/directed: Exp A targeted 1-2% max abs diff,1.1102230246251565e-16
+DL/directed: Exp A random 1-2% max abs diff,1.6653345369377348e-16
+DL/reciprocal/Degree: identical full ranking,1.0
+DL/reciprocal/Degree: identical removed sets at 5-20%,1.0
+DL/reciprocal/Betweenness: identical full ranking,1.0
+DL/reciprocal/Betweenness: identical removed sets at 5-20%,1.0
+DL/reciprocal: targeted outcomes max abs diff,9.93129189996722e-17
+DL/reciprocal: random trials max abs diff,0.0
+DL/reciprocal: Exp A targeted 1-2% max abs diff,5.551115123125783e-17
+DL/reciprocal: Exp A random 1-2% max abs diff,1.6653345369377348e-16
+WN/observed/Degree: identical full ranking,1.0
+WN/observed/Degree: identical removed sets at 5-20%,1.0
+WN/observed/Betweenness: identical full ranking,1.0
+WN/observed/Betweenness: identical removed sets at 5-20%,1.0
+WN/observed: targeted outcomes max abs diff,1.1102230246251565e-16
+WN/observed: random trials max abs diff,0.0
+WN/observed: Exp A targeted 1-2% max abs diff,0.0
+WN/observed: Exp A random 1-2% max abs diff,2.220446049250313e-16
+WN/directed/Degree: identical full ranking,1.0
+WN/directed/Degree: identical removed sets at 5-20%,1.0
+WN/directed/Betweenness: identical full ranking,1.0
+WN/directed/Betweenness: identical removed sets at 5-20%,1.0
+WN/directed: targeted outcomes max abs diff,1.1102230246251565e-16
+WN/directed: random trials max abs diff,0.0
+WN/directed: Exp A targeted 1-2% max abs diff,2.220446049250313e-16
+WN/directed: Exp A random 1-2% max abs diff,2.220446049250313e-16
+WN/reciprocal/Degree: identical full ranking,1.0
+WN/reciprocal/Degree: identical removed sets at 5-20%,1.0
+WN/reciprocal/Betweenness: identical full ranking,1.0
+WN/reciprocal/Betweenness: identical removed sets at 5-20%,1.0
+WN/reciprocal: targeted outcomes max abs diff,1.1102230246251565e-16
+WN/reciprocal: random trials max abs diff,0.0
+WN/reciprocal: Exp A targeted 1-2% max abs diff,2.220446049250313e-16
+WN/reciprocal: Exp A random 1-2% max abs diff,2.220446049250313e-16
+H1 verdicts identical,True
+H2 144 cells: max abs diff in null limits,1.1102230246251565e-16
+H2 144 cells: positions identical,True
+H2 108 decision cells: within/above/below,"{'within': 77, 'above': 19, 'below': 12}"
+H2 108: zero-width (<=1e-12),20
+H2 108: width <= 0.001,38
+H2 144: zero-width (<=1e-12),24
+H2 144: width <= 0.001,51
+H2 verdicts identical,True

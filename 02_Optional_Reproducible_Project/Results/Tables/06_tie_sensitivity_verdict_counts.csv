@@ -1,0 +1,7 @@
+Airline,Strategy,Supported,"H1 verdict (official, ID ties)"
+AA,Betweenness,100,Supported
+AA,Degree,100,Supported
+DL,Betweenness,100,Supported
+DL,Degree,100,Supported
+WN,Betweenness,100,Supported
+WN,Degree,100,Supported

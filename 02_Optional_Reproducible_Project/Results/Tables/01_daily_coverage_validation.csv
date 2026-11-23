@@ -1,0 +1,4 @@
+Airline,Expected days,Days with records,Missing days,First date,Last date,Min records per day,Median records per day,Max records per day
+AA,91,91,0,2025-04-01,2025-06-30,5047,5726.0,5921
+DL,91,91,0,2025-04-01,2025-06-30,3757,4673.0,5021
+WN,91,91,0,2025-04-01,2025-06-30,3347,4086.0,4270

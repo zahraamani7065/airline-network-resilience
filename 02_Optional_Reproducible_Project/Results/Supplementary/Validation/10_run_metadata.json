@@ -1,0 +1,14 @@
+{
+  "stage": "10",
+  "seed": 20261118,
+  "Python": "3.13.5",
+  "NumPy": "2.5.5",
+  "pandas": "3.1.1",
+  "NetworkX": "3.7",
+  "SciPy": "1.18.1",
+  "Matplotlib": "3.11.2",
+  "input_root": "C:\\Users\\GigaTech\\Desktop\\Network_Analysis_Complete_Project_Package\\Network_Analysis_Complete_Project_Package\\02_Optional_Reproducible_Project",
+  "output_root": "C:\\Users\\GigaTech\\Desktop\\Network_Analysis_Complete_Project_Package\\Network_Analysis_Complete_Project_Package\\02_Optional_Reproducible_Project\\Results\\Supplementary",
+  "status": "passed",
+  "checks": 223
+}

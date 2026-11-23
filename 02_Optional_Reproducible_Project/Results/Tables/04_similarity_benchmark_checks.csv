@@ -1,0 +1,7 @@
+Airline,Model,Chains regenerated,Chain-checkpoints reproducing recorded results,Chain-checkpoints expected,Networks failing structural validation,Distinct 4T networks,Any 4T network equals observed
+AA,directed,300,600,600,0,300,False
+AA,reciprocal,300,600,600,0,300,False
+DL,directed,300,600,600,0,300,False
+DL,reciprocal,300,600,600,0,300,False
+WN,directed,300,600,600,0,300,False
+WN,reciprocal,300,600,600,0,300,False

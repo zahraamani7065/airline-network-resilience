@@ -1,0 +1,4 @@
+Airline,Spearman out-degree vs betweenness,Top-5 airport share of departures (%),Top-5 airports by out-strength
+AA,0.6447631013504385,41.219277876959815,"DFW, CLT, ORD, PHL, PHX"
+DL,0.6838699050951853,40.313044724086055,"ATL, DTW, MSP, SLC, LGA"
+WN,0.885104720756217,27.96750317547229,"DEN, LAS, BWI, DAL, PHX"

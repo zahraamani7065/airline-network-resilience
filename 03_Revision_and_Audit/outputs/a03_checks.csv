@@ -1,0 +1,13 @@
+Airline,Check,Max abs diff
+AA,Single-airport efficiency loss,0.0
+AA,Survivor damage,3.0357660829594124e-17
+AA,Mean participation,0.0
+AA,Louvain run modularity,0.0
+DL,Single-airport efficiency loss,0.0
+DL,Survivor damage,4.0793106739767104e-17
+DL,Mean participation,0.0
+DL,Louvain run modularity,0.0
+WN,Single-airport efficiency loss,0.0
+WN,Survivor damage,8.673617379884035e-17
+WN,Mean participation,0.0
+WN,Louvain run modularity,0.0

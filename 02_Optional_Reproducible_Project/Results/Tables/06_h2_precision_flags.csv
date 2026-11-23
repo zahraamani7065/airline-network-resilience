@@ -1,0 +1,145 @@
+Airline,Strategy,Level,Measure,E1,E2,Zero-width interval,Near-zero interval (width at or below 0.001)
+AA,Betweenness,5,Efficiency,False,False,False,False
+AA,Betweenness,5,Efficiency retention,False,False,False,False
+AA,Betweenness,5,Largest SCC,False,False,False,False
+AA,Betweenness,5,Reachability,False,False,False,False
+AA,Betweenness,10,Efficiency,False,False,False,True
+AA,Betweenness,10,Efficiency retention,False,False,False,True
+AA,Betweenness,10,Largest SCC,False,False,True,True
+AA,Betweenness,10,Reachability,False,False,False,True
+AA,Betweenness,15,Efficiency,False,False,True,True
+AA,Betweenness,15,Efficiency retention,False,False,True,True
+AA,Betweenness,15,Largest SCC,False,False,True,True
+AA,Betweenness,15,Reachability,False,False,True,True
+AA,Betweenness,20,Efficiency,False,False,True,True
+AA,Betweenness,20,Efficiency retention,False,False,True,True
+AA,Betweenness,20,Largest SCC,False,False,True,True
+AA,Betweenness,20,Reachability,False,False,True,True
+AA,Degree,5,Efficiency,False,False,False,True
+AA,Degree,5,Efficiency retention,False,False,False,True
+AA,Degree,5,Largest SCC,True,True,False,False
+AA,Degree,5,Reachability,False,False,False,True
+AA,Degree,10,Efficiency,True,False,False,True
+AA,Degree,10,Efficiency retention,True,False,False,True
+AA,Degree,10,Largest SCC,False,False,True,True
+AA,Degree,10,Reachability,True,False,False,True
+AA,Degree,15,Efficiency,False,False,False,True
+AA,Degree,15,Efficiency retention,False,False,False,True
+AA,Degree,15,Largest SCC,False,False,True,True
+AA,Degree,15,Reachability,False,False,False,True
+AA,Degree,20,Efficiency,False,False,False,True
+AA,Degree,20,Efficiency retention,False,False,False,True
+AA,Degree,20,Largest SCC,False,False,True,True
+AA,Degree,20,Reachability,False,True,False,True
+AA,Random (mean of matched orders),5,Efficiency,False,False,False,False
+AA,Random (mean of matched orders),5,Efficiency retention,False,False,False,False
+AA,Random (mean of matched orders),5,Largest SCC,False,False,False,False
+AA,Random (mean of matched orders),5,Reachability,False,False,False,False
+AA,Random (mean of matched orders),10,Efficiency,True,False,False,False
+AA,Random (mean of matched orders),10,Efficiency retention,True,False,False,False
+AA,Random (mean of matched orders),10,Largest SCC,False,False,False,False
+AA,Random (mean of matched orders),10,Reachability,False,False,False,False
+AA,Random (mean of matched orders),15,Efficiency,False,False,False,False
+AA,Random (mean of matched orders),15,Efficiency retention,False,False,False,False
+AA,Random (mean of matched orders),15,Largest SCC,False,False,False,False
+AA,Random (mean of matched orders),15,Reachability,False,False,False,False
+AA,Random (mean of matched orders),20,Efficiency,False,False,False,False
+AA,Random (mean of matched orders),20,Efficiency retention,False,False,False,False
+AA,Random (mean of matched orders),20,Largest SCC,False,False,False,False
+AA,Random (mean of matched orders),20,Reachability,False,False,False,False
+DL,Betweenness,5,Efficiency,False,False,False,False
+DL,Betweenness,5,Efficiency retention,False,False,False,False
+DL,Betweenness,5,Largest SCC,False,False,False,False
+DL,Betweenness,5,Reachability,False,False,False,False
+DL,Betweenness,10,Efficiency,False,False,False,True
+DL,Betweenness,10,Efficiency retention,False,False,False,True
+DL,Betweenness,10,Largest SCC,False,True,True,True
+DL,Betweenness,10,Reachability,True,False,False,True
+DL,Betweenness,15,Efficiency,False,False,True,True
+DL,Betweenness,15,Efficiency retention,False,False,True,True
+DL,Betweenness,15,Largest SCC,False,False,True,True
+DL,Betweenness,15,Reachability,False,False,True,True
+DL,Betweenness,20,Efficiency,False,False,True,True
+DL,Betweenness,20,Efficiency retention,False,False,True,True
+DL,Betweenness,20,Largest SCC,False,False,True,True
+DL,Betweenness,20,Reachability,False,False,True,True
+DL,Degree,5,Efficiency,False,False,False,False
+DL,Degree,5,Efficiency retention,False,False,False,False
+DL,Degree,5,Largest SCC,False,False,False,False
+DL,Degree,5,Reachability,False,False,False,False
+DL,Degree,10,Efficiency,False,False,False,True
+DL,Degree,10,Efficiency retention,False,False,False,True
+DL,Degree,10,Largest SCC,False,False,True,True
+DL,Degree,10,Reachability,True,False,False,True
+DL,Degree,15,Efficiency,False,False,False,True
+DL,Degree,15,Efficiency retention,False,False,False,True
+DL,Degree,15,Largest SCC,False,False,True,True
+DL,Degree,15,Reachability,False,False,False,True
+DL,Degree,20,Efficiency,True,True,False,True
+DL,Degree,20,Efficiency retention,True,True,False,True
+DL,Degree,20,Largest SCC,False,False,True,True
+DL,Degree,20,Reachability,True,True,False,True
+DL,Random (mean of matched orders),5,Efficiency,False,False,False,False
+DL,Random (mean of matched orders),5,Efficiency retention,False,False,False,False
+DL,Random (mean of matched orders),5,Largest SCC,False,False,False,False
+DL,Random (mean of matched orders),5,Reachability,False,False,False,False
+DL,Random (mean of matched orders),10,Efficiency,False,False,False,False
+DL,Random (mean of matched orders),10,Efficiency retention,False,False,False,False
+DL,Random (mean of matched orders),10,Largest SCC,False,False,False,False
+DL,Random (mean of matched orders),10,Reachability,False,False,False,False
+DL,Random (mean of matched orders),15,Efficiency,False,False,False,False
+DL,Random (mean of matched orders),15,Efficiency retention,False,False,False,False
+DL,Random (mean of matched orders),15,Largest SCC,False,False,False,False
+DL,Random (mean of matched orders),15,Reachability,False,False,False,False
+DL,Random (mean of matched orders),20,Efficiency,False,False,False,False
+DL,Random (mean of matched orders),20,Efficiency retention,False,False,False,False
+DL,Random (mean of matched orders),20,Largest SCC,False,False,False,False
+DL,Random (mean of matched orders),20,Reachability,False,False,False,False
+WN,Betweenness,5,Efficiency,False,False,False,False
+WN,Betweenness,5,Efficiency retention,False,False,False,False
+WN,Betweenness,5,Largest SCC,False,False,False,False
+WN,Betweenness,5,Reachability,False,False,False,False
+WN,Betweenness,10,Efficiency,False,False,False,False
+WN,Betweenness,10,Efficiency retention,False,False,False,False
+WN,Betweenness,10,Largest SCC,False,False,False,False
+WN,Betweenness,10,Reachability,False,False,False,False
+WN,Betweenness,15,Efficiency,False,False,False,False
+WN,Betweenness,15,Efficiency retention,False,False,False,False
+WN,Betweenness,15,Largest SCC,False,False,False,False
+WN,Betweenness,15,Reachability,False,False,False,False
+WN,Betweenness,20,Efficiency,False,False,False,False
+WN,Betweenness,20,Efficiency retention,False,False,False,False
+WN,Betweenness,20,Largest SCC,False,False,False,False
+WN,Betweenness,20,Reachability,False,False,False,False
+WN,Degree,5,Efficiency,False,False,False,False
+WN,Degree,5,Efficiency retention,False,False,False,False
+WN,Degree,5,Largest SCC,False,False,False,False
+WN,Degree,5,Reachability,False,False,False,False
+WN,Degree,10,Efficiency,False,False,False,False
+WN,Degree,10,Efficiency retention,False,False,False,False
+WN,Degree,10,Largest SCC,False,False,False,False
+WN,Degree,10,Reachability,False,False,False,False
+WN,Degree,15,Efficiency,False,False,False,False
+WN,Degree,15,Efficiency retention,False,False,False,False
+WN,Degree,15,Largest SCC,False,False,False,False
+WN,Degree,15,Reachability,False,False,False,False
+WN,Degree,20,Efficiency,False,False,False,False
+WN,Degree,20,Efficiency retention,False,False,False,False
+WN,Degree,20,Largest SCC,False,False,False,False
+WN,Degree,20,Reachability,False,False,False,False
+WN,Random (mean of matched orders),5,Efficiency,False,False,False,False
+WN,Random (mean of matched orders),5,Efficiency retention,False,False,False,False
+WN,Random (mean of matched orders),5,Largest SCC,False,False,False,False
+WN,Random (mean of matched orders),5,Reachability,False,False,False,False
+WN,Random (mean of matched orders),10,Efficiency,False,False,False,False
+WN,Random (mean of matched orders),10,Efficiency retention,False,False,False,False
+WN,Random (mean of matched orders),10,Largest SCC,False,False,False,False
+WN,Random (mean of matched orders),10,Reachability,False,False,False,False
+WN,Random (mean of matched orders),15,Efficiency,False,False,False,False
+WN,Random (mean of matched orders),15,Efficiency retention,False,False,False,False
+WN,Random (mean of matched orders),15,Largest SCC,False,False,False,False
+WN,Random (mean of matched orders),15,Reachability,False,False,False,False
+WN,Random (mean of matched orders),20,Efficiency,False,False,False,False
+WN,Random (mean of matched orders),20,Efficiency retention,False,False,False,False
+WN,Random (mean of matched orders),20,Largest SCC,False,False,False,False
+WN,Random (mean of matched orders),20,Reachability,False,False,False,False

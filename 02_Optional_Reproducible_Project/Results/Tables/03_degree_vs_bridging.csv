@@ -1,0 +1,4 @@
+Airline,Eligible airports,Spearman degree vs mean participation,"Spearman degree vs mean participation (all airports, for reference)",Spearman betweenness vs degree,"Partial rank correlation participation vs betweenness, controlling degree",Share of mean participation variance between degree bins,Airports in assessable bins
+AA,175,0.7233972216232976,0.8586004638484005,0.7145338986065338,-0.05214744903359863,0.5430495485529597,170
+DL,142,0.8418099082754492,0.9416836352780542,0.7182344707400571,-0.08909232337339688,0.6059666821312433,138
+WN,102,0.6113564380610387,0.6317607168960037,0.8835764492581599,-0.5338429147317257,0.3747388399186417,101

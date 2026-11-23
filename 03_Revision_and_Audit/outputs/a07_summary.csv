@@ -1,0 +1,8 @@
+,Value
+Tests per family,"{'directed': 378, 'reciprocal': 378}"
+Max |rho audit - project|,0.0
+Significant (q<0.05) audit,"{'directed': 37, 'reciprocal': 33}"
+Significant (q<0.05) project,"{'directed': 42, 'reciprocal': 33}"
+Agreement of significance calls,0.9900793650793651
+Reciprocal significant predictors (audit),"{'Degree assortativity': 29, 'Transitivity': 4}"
+Directed significant predictors (audit),"{'Degree assortativity': 15, 'Average clustering': 12, 'Transitivity': 6, 'Modularity': 4}"

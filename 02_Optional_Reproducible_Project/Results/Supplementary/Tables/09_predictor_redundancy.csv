@@ -1,0 +1,295 @@
+Airline,Null model,Predictor 1,Predictor 2,Spearman rho
+AA,reciprocal,Modularity,Modularity,1.0
+AA,reciprocal,Modularity,Average clustering,0.10672699288074708
+AA,reciprocal,Modularity,Transitivity,0.1732999557548857
+AA,reciprocal,Modularity,Maximum coreness,0.1385834694906251
+AA,reciprocal,Modularity,Mean coreness,0.12812881170729493
+AA,reciprocal,Modularity,Innermost-core fraction,-0.03947099749278124
+AA,reciprocal,Modularity,Degree assortativity,-0.25309482805177347
+AA,reciprocal,Average clustering,Modularity,0.10672699288074708
+AA,reciprocal,Average clustering,Average clustering,1.0
+AA,reciprocal,Average clustering,Transitivity,-0.17153046024062038
+AA,reciprocal,Average clustering,Maximum coreness,-0.2442572028239397
+AA,reciprocal,Average clustering,Mean coreness,-0.19537133548385285
+AA,reciprocal,Average clustering,Innermost-core fraction,0.16737073664130847
+AA,reciprocal,Average clustering,Degree assortativity,-0.1781823527831386
+AA,reciprocal,Transitivity,Modularity,0.1732999557548857
+AA,reciprocal,Transitivity,Average clustering,-0.17153046024062038
+AA,reciprocal,Transitivity,Transitivity,0.9999999999999992
+AA,reciprocal,Transitivity,Maximum coreness,0.4520784593362609
+AA,reciprocal,Transitivity,Mean coreness,0.230640392574396
+AA,reciprocal,Transitivity,Innermost-core fraction,-0.31616848911498485
+AA,reciprocal,Transitivity,Degree assortativity,0.1367199584973401
+AA,reciprocal,Maximum coreness,Modularity,0.1385834694906251
+AA,reciprocal,Maximum coreness,Average clustering,-0.2442572028239397
+AA,reciprocal,Maximum coreness,Transitivity,0.4520784593362609
+AA,reciprocal,Maximum coreness,Maximum coreness,0.9999999999999992
+AA,reciprocal,Maximum coreness,Mean coreness,0.8354794985200915
+AA,reciprocal,Maximum coreness,Innermost-core fraction,-0.8177229434021721
+AA,reciprocal,Maximum coreness,Degree assortativity,0.017551468431530364
+AA,reciprocal,Mean coreness,Modularity,0.12812881170729493
+AA,reciprocal,Mean coreness,Average clustering,-0.19537133548385285
+AA,reciprocal,Mean coreness,Transitivity,0.230640392574396
+AA,reciprocal,Mean coreness,Maximum coreness,0.8354794985200915
+AA,reciprocal,Mean coreness,Mean coreness,1.0000000000000004
+AA,reciprocal,Mean coreness,Innermost-core fraction,-0.5088165265518149
+AA,reciprocal,Mean coreness,Degree assortativity,-0.0223257756361773
+AA,reciprocal,Innermost-core fraction,Modularity,-0.03947099749278124
+AA,reciprocal,Innermost-core fraction,Average clustering,0.16737073664130847
+AA,reciprocal,Innermost-core fraction,Transitivity,-0.31616848911498485
+AA,reciprocal,Innermost-core fraction,Maximum coreness,-0.8177229434021721
+AA,reciprocal,Innermost-core fraction,Mean coreness,-0.5088165265518149
+AA,reciprocal,Innermost-core fraction,Innermost-core fraction,0.9999999999999993
+AA,reciprocal,Innermost-core fraction,Degree assortativity,-0.03501829904026331
+AA,reciprocal,Degree assortativity,Modularity,-0.2530948280517735
+AA,reciprocal,Degree assortativity,Average clustering,-0.17818235278313863
+AA,reciprocal,Degree assortativity,Transitivity,0.1367199584973401
+AA,reciprocal,Degree assortativity,Maximum coreness,0.01755146843153036
+AA,reciprocal,Degree assortativity,Mean coreness,-0.0223257756361773
+AA,reciprocal,Degree assortativity,Innermost-core fraction,-0.03501829904026331
+AA,reciprocal,Degree assortativity,Degree assortativity,1.0000000000000004
+AA,directed,Modularity,Modularity,1.0000000000000002
+AA,directed,Modularity,Average clustering,-0.09928598214955378
+AA,directed,Modularity,Transitivity,0.07583289582239557
+AA,directed,Modularity,Maximum coreness,0.23217327164605084
+AA,directed,Modularity,Mean coreness,-0.0496152765491529
+AA,directed,Modularity,Innermost-core fraction,-0.19910509652601033
+AA,directed,Modularity,Degree assortativity,0.03510237755943898
+AA,directed,Average clustering,Modularity,-0.09928598214955378
+AA,directed,Average clustering,Average clustering,1.0000000000000002
+AA,directed,Average clustering,Transitivity,-0.4678946973674343
+AA,directed,Average clustering,Maximum coreness,0.004538457973916651
+AA,directed,Average clustering,Mean coreness,0.20797017550558727
+AA,directed,Average clustering,Innermost-core fraction,-0.03876832960000494
+AA,directed,Average clustering,Degree assortativity,0.17393984849621238
+AA,directed,Transitivity,Modularity,0.07583289582239557
+AA,directed,Transitivity,Average clustering,-0.4678946973674343
+AA,directed,Transitivity,Transitivity,1.0000000000000002
+AA,directed,Transitivity,Maximum coreness,0.1349968773810116
+AA,directed,Transitivity,Mean coreness,0.06530411513122303
+AA,directed,Transitivity,Innermost-core fraction,0.07099926947824374
+AA,directed,Transitivity,Degree assortativity,-0.4762769069226731
+AA,directed,Maximum coreness,Modularity,0.23217327164605084
+AA,directed,Maximum coreness,Average clustering,0.004538457973916651
+AA,directed,Maximum coreness,Transitivity,0.1349968773810116
+AA,directed,Maximum coreness,Maximum coreness,0.9999999999999997
+AA,directed,Maximum coreness,Mean coreness,0.6804208590368193
+AA,directed,Maximum coreness,Innermost-core fraction,-0.7735876336819707
+AA,directed,Maximum coreness,Degree assortativity,0.0015128193246389393
+AA,directed,Mean coreness,Modularity,-0.0496152765491529
+AA,directed,Mean coreness,Average clustering,0.20797017550558727
+AA,directed,Mean coreness,Transitivity,0.06530411513122303
+AA,directed,Mean coreness,Maximum coreness,0.6804208590368193
+AA,directed,Mean coreness,Mean coreness,1.0
+AA,directed,Mean coreness,Innermost-core fraction,-0.45947221428044305
+AA,directed,Mean coreness,Degree assortativity,-0.11070748189647914
+AA,directed,Innermost-core fraction,Modularity,-0.19910509652601033
+AA,directed,Innermost-core fraction,Average clustering,-0.03876832960000494
+AA,directed,Innermost-core fraction,Transitivity,0.07099926947824374
+AA,directed,Innermost-core fraction,Maximum coreness,-0.7735876336819707
+AA,directed,Innermost-core fraction,Mean coreness,-0.45947221428044305
+AA,directed,Innermost-core fraction,Innermost-core fraction,1.0000000000000004
+AA,directed,Innermost-core fraction,Degree assortativity,-0.029548758742393426
+AA,directed,Degree assortativity,Modularity,0.035102377559439
+AA,directed,Degree assortativity,Average clustering,0.1739398484962124
+AA,directed,Degree assortativity,Transitivity,-0.4762769069226731
+AA,directed,Degree assortativity,Maximum coreness,0.0015128193246389116
+AA,directed,Degree assortativity,Mean coreness,-0.11070748189647914
+AA,directed,Degree assortativity,Innermost-core fraction,-0.029548758742393426
+AA,directed,Degree assortativity,Degree assortativity,0.9999999999999998
+DL,reciprocal,Modularity,Modularity,1.0000000000000004
+DL,reciprocal,Modularity,Average clustering,0.10036603660366036
+DL,reciprocal,Modularity,Transitivity,0.29798469249241455
+DL,reciprocal,Modularity,Maximum coreness,0.2949820734630983
+DL,reciprocal,Modularity,Mean coreness,0.1055658901474984
+DL,reciprocal,Modularity,Innermost-core fraction,-0.1476137987185842
+DL,reciprocal,Modularity,Degree assortativity,-0.08016873839573237
+DL,reciprocal,Average clustering,Modularity,0.10036603660366036
+DL,reciprocal,Average clustering,Average clustering,1.0000000000000004
+DL,reciprocal,Average clustering,Transitivity,-0.042596714673810786
+DL,reciprocal,Average clustering,Maximum coreness,-0.007750963573328186
+DL,reciprocal,Average clustering,Mean coreness,-0.02093137824179766
+DL,reciprocal,Average clustering,Innermost-core fraction,-0.1074301453090997
+DL,reciprocal,Average clustering,Degree assortativity,-0.23034710784408508
+DL,reciprocal,Transitivity,Modularity,0.29798469249241455
+DL,reciprocal,Transitivity,Average clustering,-0.042596714673810786
+DL,reciprocal,Transitivity,Transitivity,1.0000000000000002
+DL,reciprocal,Transitivity,Maximum coreness,0.4598736982102036
+DL,reciprocal,Transitivity,Mean coreness,0.21132651630685778
+DL,reciprocal,Transitivity,Innermost-core fraction,-0.04075781565348216
+DL,reciprocal,Transitivity,Degree assortativity,0.41313716273900125
+DL,reciprocal,Maximum coreness,Modularity,0.2949820734630983
+DL,reciprocal,Maximum coreness,Average clustering,-0.007750963573328186
+DL,reciprocal,Maximum coreness,Transitivity,0.4598736982102036
+DL,reciprocal,Maximum coreness,Maximum coreness,1.0000000000000004
+DL,reciprocal,Maximum coreness,Mean coreness,0.7532399564115673
+DL,reciprocal,Maximum coreness,Innermost-core fraction,-0.5346396349735896
+DL,reciprocal,Maximum coreness,Degree assortativity,0.16228169228347297
+DL,reciprocal,Mean coreness,Modularity,0.1055658901474984
+DL,reciprocal,Mean coreness,Average clustering,-0.02093137824179766
+DL,reciprocal,Mean coreness,Transitivity,0.21132651630685778
+DL,reciprocal,Mean coreness,Maximum coreness,0.7532399564115673
+DL,reciprocal,Mean coreness,Mean coreness,1.0000000000000002
+DL,reciprocal,Mean coreness,Innermost-core fraction,-0.12174201767805035
+DL,reciprocal,Mean coreness,Degree assortativity,0.04619159337133543
+DL,reciprocal,Innermost-core fraction,Modularity,-0.1476137987185842
+DL,reciprocal,Innermost-core fraction,Average clustering,-0.1074301453090997
+DL,reciprocal,Innermost-core fraction,Transitivity,-0.04075781565348216
+DL,reciprocal,Innermost-core fraction,Maximum coreness,-0.5346396349735896
+DL,reciprocal,Innermost-core fraction,Mean coreness,-0.12174201767805035
+DL,reciprocal,Innermost-core fraction,Innermost-core fraction,1.0000000000000002
+DL,reciprocal,Innermost-core fraction,Degree assortativity,-0.023821439807772647
+DL,reciprocal,Degree assortativity,Modularity,-0.08016873839573231
+DL,reciprocal,Degree assortativity,Average clustering,-0.23034710784408508
+DL,reciprocal,Degree assortativity,Transitivity,0.4131371627390013
+DL,reciprocal,Degree assortativity,Maximum coreness,0.16228169228347303
+DL,reciprocal,Degree assortativity,Mean coreness,0.04619159337133543
+DL,reciprocal,Degree assortativity,Innermost-core fraction,-0.023821439807772647
+DL,reciprocal,Degree assortativity,Degree assortativity,1.0000000000000004
+DL,directed,Modularity,Modularity,1.0
+DL,directed,Modularity,Average clustering,0.0227465686642166
+DL,directed,Modularity,Transitivity,0.13445886147153685
+DL,directed,Modularity,Maximum coreness,0.342557226233599
+DL,directed,Modularity,Mean coreness,0.12489739643026807
+DL,directed,Modularity,Innermost-core fraction,-0.05901571171209037
+DL,directed,Modularity,Degree assortativity,0.11022575564389113
+DL,directed,Average clustering,Modularity,0.0227465686642166
+DL,directed,Average clustering,Average clustering,0.9999999999999998
+DL,directed,Average clustering,Transitivity,-0.5297202430060752
+DL,directed,Average clustering,Maximum coreness,0.030539673252574534
+DL,directed,Average clustering,Mean coreness,0.2690484541984938
+DL,directed,Average clustering,Innermost-core fraction,-0.009883676871488029
+DL,directed,Average clustering,Degree assortativity,0.17664441611040277
+DL,directed,Transitivity,Modularity,0.13445886147153685
+DL,directed,Transitivity,Average clustering,-0.5297202430060752
+DL,directed,Transitivity,Transitivity,1.0
+DL,directed,Transitivity,Maximum coreness,0.19699977928057677
+DL,directed,Transitivity,Mean coreness,0.09956805524384986
+DL,directed,Transitivity,Innermost-core fraction,0.09080512662164719
+DL,directed,Transitivity,Degree assortativity,-0.41274581864546606
+DL,directed,Maximum coreness,Modularity,0.342557226233599
+DL,directed,Maximum coreness,Average clustering,0.030539673252574534
+DL,directed,Maximum coreness,Transitivity,0.19699977928057677
+DL,directed,Maximum coreness,Maximum coreness,1.0000000000000002
+DL,directed,Maximum coreness,Mean coreness,0.6802249395302978
+DL,directed,Maximum coreness,Innermost-core fraction,-0.5142970994544613
+DL,directed,Maximum coreness,Degree assortativity,-0.04004191728902111
+DL,directed,Mean coreness,Modularity,0.12489739643026807
+DL,directed,Mean coreness,Average clustering,0.2690484541984938
+DL,directed,Mean coreness,Transitivity,0.09956805524384986
+DL,directed,Mean coreness,Maximum coreness,0.6802249395302978
+DL,directed,Mean coreness,Mean coreness,1.0000000000000004
+DL,directed,Mean coreness,Innermost-core fraction,-0.2371065343211659
+DL,directed,Mean coreness,Degree assortativity,-0.09832004936588665
+DL,directed,Innermost-core fraction,Modularity,-0.05901571171209037
+DL,directed,Innermost-core fraction,Average clustering,-0.009883676871488029
+DL,directed,Innermost-core fraction,Transitivity,0.09080512662164719
+DL,directed,Innermost-core fraction,Maximum coreness,-0.5142970994544613
+DL,directed,Innermost-core fraction,Mean coreness,-0.2371065343211659
+DL,directed,Innermost-core fraction,Innermost-core fraction,1.0000000000000007
+DL,directed,Innermost-core fraction,Degree assortativity,-0.05021585236669698
+DL,directed,Degree assortativity,Modularity,0.11022575564389109
+DL,directed,Degree assortativity,Average clustering,0.17664441611040277
+DL,directed,Degree assortativity,Transitivity,-0.4127458186454662
+DL,directed,Degree assortativity,Maximum coreness,-0.04004191728902111
+DL,directed,Degree assortativity,Mean coreness,-0.09832004936588665
+DL,directed,Degree assortativity,Innermost-core fraction,-0.05021585236669698
+DL,directed,Degree assortativity,Degree assortativity,1.0000000000000002
+WN,reciprocal,Modularity,Modularity,1.0000000000000002
+WN,reciprocal,Modularity,Average clustering,-0.03050714223578757
+WN,reciprocal,Modularity,Transitivity,0.04030261558241104
+WN,reciprocal,Modularity,Maximum coreness,0.13212573889582965
+WN,reciprocal,Modularity,Mean coreness,0.04470131807262149
+WN,reciprocal,Modularity,Innermost-core fraction,-0.06267388112620574
+WN,reciprocal,Modularity,Degree assortativity,-0.09715029793158078
+WN,reciprocal,Average clustering,Modularity,-0.03050714223578757
+WN,reciprocal,Average clustering,Average clustering,1.0000000000000007
+WN,reciprocal,Average clustering,Transitivity,0.21649911950233164
+WN,reciprocal,Average clustering,Maximum coreness,-0.22513009251310737
+WN,reciprocal,Average clustering,Mean coreness,-0.09967318309956659
+WN,reciprocal,Average clustering,Innermost-core fraction,0.11283013311929546
+WN,reciprocal,Average clustering,Degree assortativity,0.21452809639489412
+WN,reciprocal,Transitivity,Modularity,0.04030261558241104
+WN,reciprocal,Transitivity,Average clustering,0.21649911950233164
+WN,reciprocal,Transitivity,Transitivity,1.0
+WN,reciprocal,Transitivity,Maximum coreness,0.05936542742528979
+WN,reciprocal,Transitivity,Mean coreness,-0.3040505451031194
+WN,reciprocal,Transitivity,Innermost-core fraction,-0.14474455986058135
+WN,reciprocal,Transitivity,Degree assortativity,0.9320407487291119
+WN,reciprocal,Maximum coreness,Modularity,0.13212573889582965
+WN,reciprocal,Maximum coreness,Average clustering,-0.22513009251310737
+WN,reciprocal,Maximum coreness,Transitivity,0.05936542742528979
+WN,reciprocal,Maximum coreness,Maximum coreness,0.9999999999999981
+WN,reciprocal,Maximum coreness,Mean coreness,0.684085088625456
+WN,reciprocal,Maximum coreness,Innermost-core fraction,-0.538431431669339
+WN,reciprocal,Maximum coreness,Degree assortativity,-0.043355199404961596
+WN,reciprocal,Mean coreness,Modularity,0.04470131807262149
+WN,reciprocal,Mean coreness,Average clustering,-0.09967318309956659
+WN,reciprocal,Mean coreness,Transitivity,-0.3040505451031194
+WN,reciprocal,Mean coreness,Maximum coreness,0.684085088625456
+WN,reciprocal,Mean coreness,Mean coreness,1.0000000000000002
+WN,reciprocal,Mean coreness,Innermost-core fraction,-0.017572875894187986
+WN,reciprocal,Mean coreness,Degree assortativity,-0.34131481670332836
+WN,reciprocal,Innermost-core fraction,Modularity,-0.06267388112620574
+WN,reciprocal,Innermost-core fraction,Average clustering,0.11283013311929546
+WN,reciprocal,Innermost-core fraction,Transitivity,-0.14474455986058135
+WN,reciprocal,Innermost-core fraction,Maximum coreness,-0.538431431669339
+WN,reciprocal,Innermost-core fraction,Mean coreness,-0.017572875894187986
+WN,reciprocal,Innermost-core fraction,Innermost-core fraction,0.9999999999999999
+WN,reciprocal,Innermost-core fraction,Degree assortativity,-0.05262869511858069
+WN,reciprocal,Degree assortativity,Modularity,-0.09715029793158075
+WN,reciprocal,Degree assortativity,Average clustering,0.21452809639489423
+WN,reciprocal,Degree assortativity,Transitivity,0.9320407487291118
+WN,reciprocal,Degree assortativity,Maximum coreness,-0.04335519940496155
+WN,reciprocal,Degree assortativity,Mean coreness,-0.34131481670332836
+WN,reciprocal,Degree assortativity,Innermost-core fraction,-0.05262869511858069
+WN,reciprocal,Degree assortativity,Degree assortativity,1.0
+WN,directed,Modularity,Modularity,1.0000000000000002
+WN,directed,Modularity,Average clustering,0.04033900847521189
+WN,directed,Modularity,Transitivity,0.18004950123753094
+WN,directed,Modularity,Maximum coreness,0.21208326544008088
+WN,directed,Modularity,Mean coreness,0.08387356350585816
+WN,directed,Modularity,Innermost-core fraction,-0.09349034991785948
+WN,directed,Modularity,Degree assortativity,-0.016434410860271503
+WN,directed,Average clustering,Modularity,0.04033900847521189
+WN,directed,Average clustering,Average clustering,1.0000000000000004
+WN,directed,Average clustering,Transitivity,0.2007350183754594
+WN,directed,Average clustering,Maximum coreness,0.1072497604904272
+WN,directed,Average clustering,Mean coreness,0.21008872351080915
+WN,directed,Average clustering,Innermost-core fraction,0.056243869415826125
+WN,directed,Average clustering,Degree assortativity,-0.5080072001800047
+WN,directed,Transitivity,Modularity,0.18004950123753094
+WN,directed,Transitivity,Average clustering,0.2007350183754594
+WN,directed,Transitivity,Transitivity,1.0000000000000002
+WN,directed,Transitivity,Maximum coreness,0.3895894131136696
+WN,directed,Transitivity,Mean coreness,0.3689396806791251
+WN,directed,Transitivity,Innermost-core fraction,-0.03295075549187529
+WN,directed,Transitivity,Degree assortativity,-0.031521788044701085
+WN,directed,Maximum coreness,Modularity,0.21208326544008088
+WN,directed,Maximum coreness,Average clustering,0.1072497604904272
+WN,directed,Maximum coreness,Transitivity,0.3895894131136696
+WN,directed,Maximum coreness,Maximum coreness,0.9999999999999996
+WN,directed,Maximum coreness,Mean coreness,0.7670438739015171
+WN,directed,Maximum coreness,Innermost-core fraction,-0.4560510312335476
+WN,directed,Maximum coreness,Degree assortativity,-0.17335381059993094
+WN,directed,Mean coreness,Modularity,0.08387356350585816
+WN,directed,Mean coreness,Average clustering,0.21008872351080915
+WN,directed,Mean coreness,Transitivity,0.3689396806791251
+WN,directed,Mean coreness,Maximum coreness,0.7670438739015171
+WN,directed,Mean coreness,Mean coreness,1.0
+WN,directed,Mean coreness,Innermost-core fraction,-0.1869715442020678
+WN,directed,Mean coreness,Degree assortativity,-0.3532880944136485
+WN,directed,Innermost-core fraction,Modularity,-0.09349034991785948
+WN,directed,Innermost-core fraction,Average clustering,0.056243869415826125
+WN,directed,Innermost-core fraction,Transitivity,-0.03295075549187529
+WN,directed,Innermost-core fraction,Maximum coreness,-0.4560510312335476
+WN,directed,Innermost-core fraction,Mean coreness,-0.1869715442020678
+WN,directed,Innermost-core fraction,Innermost-core fraction,0.9999999999999998
+WN,directed,Innermost-core fraction,Degree assortativity,-0.10022955640681375
+WN,directed,Degree assortativity,Modularity,-0.01643441086027152
+WN,directed,Degree assortativity,Average clustering,-0.5080072001800046
+WN,directed,Degree assortativity,Transitivity,-0.03152178804470112
+WN,directed,Degree assortativity,Maximum coreness,-0.1733538105999309
+WN,directed,Degree assortativity,Mean coreness,-0.3532880944136485
+WN,directed,Degree assortativity,Innermost-core fraction,-0.10022955640681375
+WN,directed,Degree assortativity,Degree assortativity,1.0000000000000002

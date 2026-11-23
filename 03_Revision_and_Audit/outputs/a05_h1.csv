@@ -1,0 +1,7 @@
+Airline,Strategy,Eff met,Reach met,SCC met,Contrary,Verdict
+AA,Degree,4,4,4,False,Supported
+AA,Betweenness,4,4,4,False,Supported
+DL,Degree,4,4,4,False,Supported
+DL,Betweenness,4,4,4,False,Supported
+WN,Degree,4,4,4,False,Supported
+WN,Betweenness,4,4,4,False,Supported

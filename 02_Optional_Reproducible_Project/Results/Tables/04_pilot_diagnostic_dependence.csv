@@ -1,0 +1,97 @@
+Airline,Model,Set,Diagnostic A,Diagnostic B,Pearson correlation
+AA,directed,Values at 200 x U,Edge overlap,Reciprocity,-0.0005790818917508075
+AA,directed,Values at 200 x U,Edge overlap,Out-in assortativity,0.13586041108453947
+AA,directed,Values at 200 x U,Edge overlap,Transitivity,-0.021862598142608207
+AA,directed,Values at 200 x U,Edge overlap,Intact efficiency,-0.12207728176071062
+AA,directed,Values at 200 x U,Reciprocity,Out-in assortativity,0.03177657727844217
+AA,directed,Values at 200 x U,Reciprocity,Transitivity,0.023447554694358795
+AA,directed,Values at 200 x U,Reciprocity,Intact efficiency,-0.03201565728521294
+AA,directed,Values at 200 x U,Out-in assortativity,Transitivity,-0.11774059239542456
+AA,directed,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.589560839544649
+AA,directed,Values at 200 x U,Transitivity,Intact efficiency,-0.04458515424388603
+AA,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Reciprocity,0.0009938372144821922
+AA,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.11454942879992305
+AA,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,-0.04980717668705837
+AA,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.11989207499879624
+AA,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Out-in assortativity,-0.0009602510156483332
+AA,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Transitivity,0.05696886533268331
+AA,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Intact efficiency,-0.030749467192171327
+AA,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,-0.10507511585606795
+AA,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.6131125707460466
+AA,directed,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,-0.0052712152287741065
+AA,reciprocal,Values at 200 x U,Edge overlap,Out-in assortativity,0.05834362508692384
+AA,reciprocal,Values at 200 x U,Edge overlap,Transitivity,0.1598971003136567
+AA,reciprocal,Values at 200 x U,Edge overlap,Intact efficiency,-0.008219444276456028
+AA,reciprocal,Values at 200 x U,Out-in assortativity,Transitivity,0.34627107677161534
+AA,reciprocal,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.6256475826942133
+AA,reciprocal,Values at 200 x U,Transitivity,Intact efficiency,-0.011075972214462155
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.08100875540759489
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,0.14298234269310528
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.08064150229816008
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,0.42767714746106317
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.6178378916818749
+AA,reciprocal,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,-0.050816866897917395
+DL,directed,Values at 200 x U,Edge overlap,Reciprocity,0.06468694982774982
+DL,directed,Values at 200 x U,Edge overlap,Out-in assortativity,0.1130149312796318
+DL,directed,Values at 200 x U,Edge overlap,Transitivity,-0.020793491322550442
+DL,directed,Values at 200 x U,Edge overlap,Intact efficiency,-0.1749404956890397
+DL,directed,Values at 200 x U,Reciprocity,Out-in assortativity,0.11827715646400407
+DL,directed,Values at 200 x U,Reciprocity,Transitivity,0.036960345910682105
+DL,directed,Values at 200 x U,Reciprocity,Intact efficiency,-0.17467806832093397
+DL,directed,Values at 200 x U,Out-in assortativity,Transitivity,0.027334011544274315
+DL,directed,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.6143492707817861
+DL,directed,Values at 200 x U,Transitivity,Intact efficiency,-0.15376947637540245
+DL,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Reciprocity,0.12215673256959725
+DL,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.13477664057404218
+DL,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,-0.0736729367194761
+DL,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.1328381529177566
+DL,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Out-in assortativity,0.08144116410538593
+DL,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Transitivity,0.05640995353471186
+DL,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Intact efficiency,-0.12852835075197688
+DL,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,-0.03666510638113318
+DL,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.6047486388395582
+DL,directed,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,-0.05951381174017515
+DL,reciprocal,Values at 200 x U,Edge overlap,Out-in assortativity,0.09370445927909284
+DL,reciprocal,Values at 200 x U,Edge overlap,Transitivity,0.09317074488518731
+DL,reciprocal,Values at 200 x U,Edge overlap,Intact efficiency,-0.10455790636896489
+DL,reciprocal,Values at 200 x U,Out-in assortativity,Transitivity,0.4884390724670397
+DL,reciprocal,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.6573102139434566
+DL,reciprocal,Values at 200 x U,Transitivity,Intact efficiency,-0.129695839045619
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.02866478029938775
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,0.07738341168056705
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.05137475500491061
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,0.37432311344336955
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.6424381755740397
+DL,reciprocal,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,-0.014313074094258034
+WN,directed,Values at 200 x U,Edge overlap,Reciprocity,0.10376291313579299
+WN,directed,Values at 200 x U,Edge overlap,Out-in assortativity,0.009493304569055767
+WN,directed,Values at 200 x U,Edge overlap,Transitivity,0.07678098571216542
+WN,directed,Values at 200 x U,Edge overlap,Intact efficiency,-0.12178576342779866
+WN,directed,Values at 200 x U,Reciprocity,Out-in assortativity,0.0026614575781843185
+WN,directed,Values at 200 x U,Reciprocity,Transitivity,-0.35548586025584317
+WN,directed,Values at 200 x U,Reciprocity,Intact efficiency,-0.10075154914102462
+WN,directed,Values at 200 x U,Out-in assortativity,Transitivity,0.07136136039705898
+WN,directed,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.17695119948076538
+WN,directed,Values at 200 x U,Transitivity,Intact efficiency,-0.009950232338538917
+WN,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Reciprocity,0.04176184692596354
+WN,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.08896700272091082
+WN,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,0.011378803265520428
+WN,directed,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.15970342922011954
+WN,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Out-in assortativity,0.06831404422763973
+WN,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Transitivity,-0.3928048322914069
+WN,directed,Paired differences 100 x U minus 200 x U,Reciprocity,Intact efficiency,-0.07515476888897077
+WN,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,0.05452294709596399
+WN,directed,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.20432407767592134
+WN,directed,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,0.0323007644798627
+WN,reciprocal,Values at 200 x U,Edge overlap,Out-in assortativity,-0.005892925477443183
+WN,reciprocal,Values at 200 x U,Edge overlap,Transitivity,-0.021042830254963247
+WN,reciprocal,Values at 200 x U,Edge overlap,Intact efficiency,-0.13399893625390635
+WN,reciprocal,Values at 200 x U,Out-in assortativity,Transitivity,0.940164284822923
+WN,reciprocal,Values at 200 x U,Out-in assortativity,Intact efficiency,-0.24376314409961738
+WN,reciprocal,Values at 200 x U,Transitivity,Intact efficiency,-0.1386689303828415
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Out-in assortativity,0.030134812899795832
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Transitivity,0.05045818758798211
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Edge overlap,Intact efficiency,-0.08953766968376212
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Transitivity,0.9278346180946531
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Out-in assortativity,Intact efficiency,-0.280603331582295
+WN,reciprocal,Paired differences 100 x U minus 200 x U,Transitivity,Intact efficiency,-0.12907132785642936

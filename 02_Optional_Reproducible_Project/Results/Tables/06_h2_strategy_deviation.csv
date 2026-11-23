@@ -1,0 +1,10 @@
+Airline,Strategy,Systematic deviation,Retention levels above,Retention levels below,Reachability levels above,Reachability levels below,Largest SCC levels above,Largest SCC levels below
+AA,Degree,None,0,2,0,2,0,0
+AA,Betweenness,None,0,1,0,0,0,0
+AA,Random (mean of matched orders),None,0,0,1,0,4,0
+DL,Degree,None,0,0,0,0,4,0
+DL,Betweenness,None,0,0,0,0,1,0
+DL,Random (mean of matched orders),None,0,0,0,0,4,0
+WN,Degree,None,0,2,0,2,1,0
+WN,Betweenness,None,0,1,0,2,1,0
+WN,Random (mean of matched orders),None,0,0,0,0,3,0

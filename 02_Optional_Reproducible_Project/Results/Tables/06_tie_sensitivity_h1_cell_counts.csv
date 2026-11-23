@@ -1,0 +1,73 @@
+Airline,Strategy,Level,Metric,Tie orders meeting the H1 cell,ID-ranking cell met
+AA,Betweenness,5,Efficiency,100,True
+AA,Betweenness,5,Largest SCC,100,True
+AA,Betweenness,5,Reachability,100,True
+AA,Betweenness,10,Efficiency,100,True
+AA,Betweenness,10,Largest SCC,100,True
+AA,Betweenness,10,Reachability,100,True
+AA,Betweenness,15,Efficiency,100,True
+AA,Betweenness,15,Largest SCC,100,True
+AA,Betweenness,15,Reachability,100,True
+AA,Betweenness,20,Efficiency,100,True
+AA,Betweenness,20,Largest SCC,100,True
+AA,Betweenness,20,Reachability,100,True
+AA,Degree,5,Efficiency,100,True
+AA,Degree,5,Largest SCC,100,True
+AA,Degree,5,Reachability,100,True
+AA,Degree,10,Efficiency,100,True
+AA,Degree,10,Largest SCC,100,True
+AA,Degree,10,Reachability,100,True
+AA,Degree,15,Efficiency,100,True
+AA,Degree,15,Largest SCC,100,True
+AA,Degree,15,Reachability,100,True
+AA,Degree,20,Efficiency,100,True
+AA,Degree,20,Largest SCC,100,True
+AA,Degree,20,Reachability,100,True
+DL,Betweenness,5,Efficiency,100,True
+DL,Betweenness,5,Largest SCC,100,True
+DL,Betweenness,5,Reachability,100,True
+DL,Betweenness,10,Efficiency,100,True
+DL,Betweenness,10,Largest SCC,100,True
+DL,Betweenness,10,Reachability,100,True
+DL,Betweenness,15,Efficiency,100,True
+DL,Betweenness,15,Largest SCC,100,True
+DL,Betweenness,15,Reachability,100,True
+DL,Betweenness,20,Efficiency,100,True
+DL,Betweenness,20,Largest SCC,100,True
+DL,Betweenness,20,Reachability,100,True
+DL,Degree,5,Efficiency,100,True
+DL,Degree,5,Largest SCC,100,True
+DL,Degree,5,Reachability,100,True
+DL,Degree,10,Efficiency,100,True
+DL,Degree,10,Largest SCC,100,True
+DL,Degree,10,Reachability,100,True
+DL,Degree,15,Efficiency,100,True
+DL,Degree,15,Largest SCC,100,True
+DL,Degree,15,Reachability,100,True
+DL,Degree,20,Efficiency,100,True
+DL,Degree,20,Largest SCC,100,True
+DL,Degree,20,Reachability,100,True
+WN,Betweenness,5,Efficiency,100,True
+WN,Betweenness,5,Largest SCC,100,True
+WN,Betweenness,5,Reachability,100,True
+WN,Betweenness,10,Efficiency,100,True
+WN,Betweenness,10,Largest SCC,100,True
+WN,Betweenness,10,Reachability,100,True
+WN,Betweenness,15,Efficiency,100,True
+WN,Betweenness,15,Largest SCC,100,True
+WN,Betweenness,15,Reachability,100,True
+WN,Betweenness,20,Efficiency,100,True
+WN,Betweenness,20,Largest SCC,100,True
+WN,Betweenness,20,Reachability,100,True
+WN,Degree,5,Efficiency,100,True
+WN,Degree,5,Largest SCC,100,True
+WN,Degree,5,Reachability,100,True
+WN,Degree,10,Efficiency,100,True
+WN,Degree,10,Largest SCC,100,True
+WN,Degree,10,Reachability,100,True
+WN,Degree,15,Efficiency,100,True
+WN,Degree,15,Largest SCC,100,True
+WN,Degree,15,Reachability,100,True
+WN,Degree,20,Efficiency,100,True
+WN,Degree,20,Largest SCC,100,True
+WN,Degree,20,Reachability,100,True
