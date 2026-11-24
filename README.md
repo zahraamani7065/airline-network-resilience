@@ -17,8 +17,6 @@ Structural Resilience and Hub Dependence in US Airline Networks
   Zahra Amani Aghbolagh · Seyeddanial Azimi · Farzam Manafzadeh · Kianaz Narehei
 </p>
 
----
-
 ## Overview
 
 This repository contains our Network Analysis research project investigating structural resilience and hub dependence in the domestic route networks of three major US airlines.
