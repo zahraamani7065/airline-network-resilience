@@ -1,11 +1,26 @@
 
-# Structural Resilience and Hub Dependence in US Airline Networks
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Seal_of_the_University_of_Bologna.svg" alt="University of Bologna" width="150">
+</p>
 
-**Authors:** Zahra Amani Aghbolagh, Seyeddanial Azimi, Farzam Manafzadeh and Kianaz Narehei
+<h1 align="center">
+Structural Resilience and Hub Dependence in US Airline Networks
+</h1>
 
-**Programme:** MSc Artificial Intelligence — University of Bologna
+<p align="center">
+  <strong>University of Bologna</strong><br>
+  MSc Artificial Intelligence — Network Analysis<br>
+  Academic Year 2026/2027
+</p>
 
-**Course:** Network Analysis
+<p align="center">
+  Zahra Amani Aghbolagh · Seyeddanial Azimi · Farzam Manafzadeh · Kianaz Narehei
+</p>
+
+---
+
+## Overview
+
 
 ## Overview
 
