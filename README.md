@@ -19,7 +19,6 @@ Structural Resilience and Hub Dependence in US Airline Networks
 
 ---
 
-
 ## Overview
 
 This repository contains our Network Analysis research project investigating structural resilience and hub dependence in the domestic route networks of three major US airlines.
