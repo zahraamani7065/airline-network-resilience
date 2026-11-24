@@ -19,8 +19,6 @@ Structural Resilience and Hub Dependence in US Airline Networks
 
 ---
 
-## Overview
-
 
 ## Overview
 
