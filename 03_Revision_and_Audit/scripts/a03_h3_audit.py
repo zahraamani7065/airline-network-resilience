@@ -165,7 +165,7 @@ surv = single_all.groupby("Airline").apply(lambda g: pd.Series({
     "Airports": len(g), "Survivor damage > 1e-12": int((g["Survivor damage"] > 1e-12).sum()),
     "Share of summed loss from own pairs": g["Own-pair share of loss"].sum() / g["Efficiency loss"].sum(),
     "Top airport": g.loc[g["Efficiency loss"].idxmax(), "Code"],
-    "Top loss / intact": g["Efficiency loss"].max(),
+    "Top absolute efficiency loss": g["Efficiency loss"].max(),
     "Top-3 survivor damage share of all survivor damage": np.sort(g["Survivor damage"])[::-1][:3].sum() / g["Survivor damage"].sum()}))
 surv.to_csv(OUT / "a03_survivor_summary.csv")
 for name, rows in [("a03_checks", rows_cmp), ("a03_louvain_stability", rows_louv), ("a03_h3_recomputed", rows_h3), ("a03_bins", rows_bins)]:
