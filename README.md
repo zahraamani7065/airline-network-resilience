@@ -26,8 +26,6 @@ The repository includes the final research paper, analysis notebooks, raw and pr
 ## Project Documents
 
 - **Final research paper:** [Final Report](04_Final_Report/)
-- **Computational audit:** [Audit Report](03_Revision_and_Audit/Audit_Report.pdf)
-- **Reproducibility instructions:** [RUN_ORDER.md](02_Optional_Reproducible_Project/RUN_ORDER.md)
 
 The manuscript in `04_Final_Report/` is the authoritative final version. Earlier manuscript versions and computational audit materials are retained in `03_Revision_and_Audit/` for transparency and reproducibility.
 
