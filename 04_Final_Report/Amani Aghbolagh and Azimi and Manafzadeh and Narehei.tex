@@ -129,7 +129,7 @@ uniformly from all graphs with the same degrees \cite{fosdick2018}. Airport-leve
 
 Table~\ref{tab:struct} summarises the structural measures used to interpret resilience.
 
-\begin{table}[t]
+\begin{table}[!htb]
 \centering
 \caption{Structure of the three networks (April--June 2025). Arc counts, path length and efficiency use the directed graph; departure Gini uses flight counts; other structural measures use the binary undirected projection.}
 \label{tab:struct}
@@ -236,7 +236,7 @@ Participation is strongly correlated with degree (Spearman 0.72, 0.84 and 0.61).
 \subsection{H1: connectedness under targeted and random removal}
 \label{sec:h1}
 
-We remove airports by descending degree or directed hop-based betweenness, ranked separately on each intact graph, or in 100 paired random orders per airline. Ties use ascending BTS airport ID (betweenness rounded to 12 decimals). At nominal 5, 10, 15 and 20\% removal, counts are rounded to the nearest integer (AA: 12, 23, 35, 46; DL: 11, 21, 32, 42; WN: 5, 10, 16, 21). Directed global efficiency \cite{latora2001}, equivalent here to compactness, is
+We remove airports by descending degree or directed hop-based betweenness, ranked separately on each intact graph, or in 100 paired random orders per airline, and evaluate outcomes at 5, 10, 15 and 20\% removal. Directed global efficiency \cite{latora2001}, equivalent here to compactness, is
 \begin{equation}
 E = \frac{1}{N(N-1)} \sum_{i\neq j} \frac{1}{d_{ij}},
 \end{equation}
@@ -262,7 +262,7 @@ DL ($K_{50}=3$), whereas WN needs ten. Under random removal the median $K_{50}$ 
 
 \begin{figure}[t]
 \centering
-\includegraphics[width=0.6\textwidth]{figures/fig2_isolated_airports.png}
+\includegraphics[width=0.5\textwidth]{figures/fig2_isolated_airports.png}
 \caption{Share of original airports remaining but without any route after removing the $k$ highest-degree airports.}
 \label{fig:captive}
 \end{figure}
@@ -279,9 +279,9 @@ hardly changes the result ($K_{50}$ stays at 3, 3 and 10).
 \subsection{H2: comparison with degree-preserving null models}
 \label{sec:h2}
 
-We test whether resilience differs from degree-matched randomised networks. The primary null uses directed two-edge swaps (200 graphs per airline); the supplementary, more closely matched null swaps reciprocal route pairs (100 graphs), preserving full reciprocity as well as each node's in- and out-degree \cite{maslov2002,fosdick2018}. Independent seeded chains start at the observed graph. Self-loops and duplicate arcs are rejected; attempted swaps include rejections. Directed budgets are 452,000, 301,200 and 358,400 attempts for AA, DL and WN respectively; reciprocal budgets are half these. Pilot and longer-chain diagnostics guided the budgets, with all 900 chains meeting the minimum of ten successful swaps per arc (or reciprocal pair). All outputs are simple, degree-preserving and unique within each airline/family. Strong connectivity is not imposed. Two-edge swaps need not explore the entire directed fixed-degree space; a bounded NetworkX three-edge comparison failed from the reciprocal starting graphs. Uniform sampling is not claimed.
+We test whether resilience differs from degree-matched randomised networks. The primary null uses directed two-edge swaps (200 graphs per airline); the supplementary, more closely matched null swaps reciprocal route pairs (100 graphs), preserving full reciprocity as well as each node's in- and out-degree \cite{maslov2002,fosdick2018}. Each seeded chain starts at the observed graph, rejects self-loops and duplicate arcs, and runs for at least ten successful swaps per arc (or reciprocal pair); budgets and diagnostics are in the repository. All null graphs are simple and distinct. Strong connectivity is not imposed, and uniform sampling is not claimed.
 
-For H2 the random strategy uses the mean over the same 100 random orders within each graph. Each outcome is compared with the corresponding 2.5th--97.5th percentile interval across primary null graphs. A strategy deviates systematically if efficiency retention and either reachability or largest SCC fall outside their intervals in the same direction at three or more levels each. H2 is supported if at least two strategies deviate in the same direction; opposing deviations without two aligned strategies are mixed evidence. Supplementary comparisons use both null families and nominal 1 and 2\% removals. Early AUC is the normalised area under the retention curve from zero to the common minimum realised 2\% removal fraction (1.89\%), using linear interpolation; the longer AUC window ends at the corresponding 20\% limit (19.81\%).
+For H2 the random strategy uses the mean over the same 100 random orders within each graph. Each outcome is compared with the corresponding 2.5th--97.5th percentile interval across primary null graphs. A strategy deviates systematically if efficiency retention and either reachability or largest SCC fall outside their intervals in the same direction at three or more levels each. H2 is supported if at least two strategies deviate in the same direction; opposing deviations without two aligned strategies are mixed evidence. Supplementary comparisons use both null families and nominal 1 and 2\% removals. Early AUC is the normalised area under the retention curve up to 1.89\% removal (the smallest realised 2\% level); the longer window ends at 19.81\%.
 The separate exploratory full-sequence robustness score is adapted from \cite{schneider2011}, $R_E=N^{-1}\sum_{q=1}^{N} E(q)/E_0$, where $q$ counts removals and $E(N)=0$.
 
 \begin{figure}[t]
@@ -298,9 +298,9 @@ the null interval, 19 above it and 12 below it (Figure~\ref{fig:h2}). The
 null ensembles retain, on average, 62--70\% of the observed routes. In AA and DL, targeted removal drives observed and null networks
 alike to almost zero efficiency by the 5\% level. Of their 48 targeted cells, 38 have
 an interval no wider than 0.001, limiting discrimination at those levels. Eleven of the 19 above-interval cells concern SCC under random removal; all eleven fall within the reciprocal intervals, suggesting that lost reciprocity contributes to the primary-null differences. At nominal 1 and 2\% degree-targeted removal, observed retention is 0.598/0.264 (AA), 0.557/0.290 (DL) and 0.963/0.930 (WN). All six outcomes fall within both null intervals before the floor, supporting, but not proving, a degree-based explanation.
-Full-curve $R_E$ is inside both sampled min--max ranges for AA and DL under both targeted strategies. For WN, observed $R_E$ is 0.09357 (degree) and 0.09718 (betweenness), below every corresponding score in the 200 directed and 100 reciprocal nulls. The minimum null scores across both families are 0.09887 and 0.09760, respectively. This exploratory result indicates greater fragility relative to the sampled alternatives, despite WN being more resilient than AA and DL.
+Full-curve $R_E$ is inside both sampled min--max ranges for AA and DL under both targeted strategies. For WN, observed $R_E$ is 0.09357 (degree) and 0.09718 (betweenness), below every corresponding score in the 200 directed and 100 reciprocal nulls (minima 0.09887 and 0.09760). This exploratory result indicates greater fragility relative to the sampled alternatives, despite WN being more resilient than AA and DL.
 
-Within the reciprocal nulls, degree sequences are held fixed while route arrangements vary. We explore 378 candidate Spearman comparisons per null family, using 19,999 shared permutations and Benjamini--Yekutieli adjustment over valid tests \cite{by2001}. Less negative assortativity correlates with higher early degree-targeted efficiency AUC in AA ($\rho=0.524$) and DL ($\rho=0.510$); both adjusted $q$-values are 0.00425. Longer-window correlations are 0.594 and 0.554 (same adjusted $q$). At nominal 2\% targeting in the AA/DL reciprocal nulls, captive counts correlate with assortativity ($-0.55$ and $-0.50$) and retention (both $-0.99$). These additional descriptive associations support the isolation mechanism, not an independent causal effect. No modularity or core association survives adjustment in the reciprocal family; transitivity does in four tests.
+Within the reciprocal nulls, degree sequences are held fixed while route arrangements vary. We explore 378 Spearman correlations per null family between structural measures and resilience outcomes, with permutation $p$-values adjusted by Benjamini--Yekutieli \cite{by2001}. Less negative assortativity correlates with higher early degree-targeted efficiency AUC in AA ($\rho=0.524$) and DL ($\rho=0.510$; adjusted $q=0.004$ for both), and more strongly over the longer window (0.594 and 0.554). At nominal 2\% targeting in the AA/DL reciprocal nulls, captive counts correlate with assortativity ($-0.55$ and $-0.50$) and retention (both $-0.99$). These additional descriptive associations support the isolation mechanism, not an independent causal effect. No modularity or core association survives adjustment in the reciprocal family; transitivity does in four tests.
 
 \subsection{H3: critical single airports}
 
@@ -312,11 +312,11 @@ where $H_i$ is the sum of inverse distances to and from $i$ (twice unnormalised 
 \begin{equation*}
 D_i=\frac{\sum_{s\ne t;\,s,t\ne i}(d_G(s,t)^{-1}-d_{G-i}(s,t)^{-1})}{(N-1)(N-2)}.
 \end{equation*}
-Only this second term measures harm to other airports. Models use training-sample midranks and compare out-of-bag $R^2$ against the training-response mean. Full H3 support requires (i) a positive partial rank correlation of participation with loss controlling for degree, with its 95\% bootstrap percentile interval entirely above zero; (ii) median out-of-bag gain of at least 0.02 in rank-model $R^2$ from adding participation to degree, with the 95\% percentile interval entirely above zero (2,000 bootstrap samples); (iii) higher mean loss above than below median participation in at least two thirds of comparable degree bins (at least five airports and both groups nonempty; median ties excluded). One or two conditions give partial support unless the partial correlation interval is entirely negative (mixed evidence); zero conditions means not supported.
+Only this second term measures harm to other airports. Full H3 support requires (i) a positive partial rank correlation of participation with loss controlling for degree, with its 95\% bootstrap percentile interval entirely above zero; (ii) median out-of-bag gain of at least 0.02 in rank-model $R^2$ from adding participation to degree, with the 95\% percentile interval entirely above zero (2,000 bootstrap samples); (iii) higher mean loss above than below median participation in at least two thirds of comparable degree bins. One or two conditions give partial support unless the partial correlation interval is entirely negative (mixed evidence); zero conditions means not supported.
 
 \begin{figure}[t]
 \centering
-\includegraphics[width=0.85\textwidth]{figures/fig4_h3_loss_degree.png}
+\includegraphics[width=0.75\textwidth]{figures/fig4_h3_loss_degree.png}
 \caption{Absolute efficiency loss from removing each degree-at-least-two airport against degree (log axes). Colour:
 mean participation; rings: airports that also damage paths between other airports.}
 \label{fig:h3}
@@ -341,7 +341,7 @@ Conditions met / verdict & 2 of 3, partly & 2 of 3, partly & 1 of 3, partly \\
 \end{table}
 
 Single-airport losses are highly concentrated. DFW alone removes 26.1\% of AA's intact efficiency and ATL 29.5\% of DL's, while WN's most damaging airport, HOU, removes 4.2\%.
-Own access accounts for 82\%, 77\% and 98\% of summed single-airport losses. Of 419 eligible instances, only 10, 9 and 12 respectively cause survivor damage; the other 388 have loss proportional to harmonic centrality. Across all airports, top-ten overlaps with removal-loss rankings are 9/10/9 for degree, 10/10/9 for betweenness and 2/0/5 for participation (AA/DL/WN; ties by airport ID).
+Own access accounts for 82\%, 77\% and 98\% of summed single-airport losses. Of 419 eligible instances, only 10, 9 and 12 respectively cause survivor damage; the other 388 have loss proportional to harmonic centrality. Across all airports, top-ten overlaps with removal-loss rankings are 9/10/9 for degree, 10/10/9 for betweenness and 2/0/5 for participation (AA/DL/WN).
 \textbf{H3 is partly supported for all three airlines} (Table~\ref{tab:h3}). In AA and DL, participation
 has a clear positive partial correlation with loss and wins in most degree bins, but
 no airline meets the prediction condition. Loss is strongly associated with degree (Figure~\ref{fig:h3}), which leaves little for participation to explain. Adding mean neighbour degree as
@@ -353,23 +353,25 @@ causes WN's second-largest survivor damage because Hilo's only route goes there.
 \section{Conclusion}
 \label{conclusion}
 
-Targeted removal causes greater structural damage than random failure in all three cases (H1). AA and DL have small cores and many peripheral airports dependent on few hubs; WN has almost no single-partner airports and a larger relative core. The ordering revisits Wuellner et al.'s 2007 findings \cite{wuellner2010}. Hub-captive airport isolation explains part of the sharper AA/DL collapse, although density and network size also differ.
+Taken together, the measures give a consistent answer to RQ1. AA and DL are each built around one dominant hub (centralisation 0.77 and 0.70), are strongly disassortative and have small innermost cores, while a quarter to a third of their airports have a single route partner. Their hubs are therefore both the main transfer junctions and the only access point for many spokes. Targeted removal harms all three networks far more than random failure (H1), but in AA and DL the damage is immediate: three hub removals halve efficiency, largely because hub-captive airports lose every route at once. WN is also hub-concentrated, but its core holds 27\% of its airports and almost every airport has at least two partners, so it degrades gradually and needs ten removals to reach the same point. This confirms for 2025 the contrast that Wuellner et al.\ \cite{wuellner2010} reported for 2007 networks. Because WN is also smaller and denser, network design is not the only explanation.
 
-H2 is not supported under the primary rule. Degree-preserving networks reproduce much of the observed resilience, even before the floor, but this does not exclude higher-order effects. Observed modularity exceeds reciprocal-null intervals; assortativity is associated with resilience at fixed degree, and WN's full-sequence targeted robustness is below both sampled null families. These exploratory results indicate that route arrangement matters without isolating causal effects.
+Whether resilience goes beyond degree is answered mostly in favour of degree. Degree-preserving networks reproduce the observed clustering, path lengths and most removal outcomes, including the early AA/DL collapse (H2 not supported). Route arrangement still leaves traces: observed modularity exceeds the reciprocal-null intervals, less disassortative AA and DL nulls resist targeted removal longer, and WN's full-sequence robustness is lower than in any sampled null.
 
-For RQ2, degree and betweenness identify most of the top-ten airports under total efficiency loss. Own access dominates the loss, while survivor damage concentrates in relatively few airports. Participation adds limited reliable predictive information (H3 partial support). Additional routes to captive spokes might reduce exposure, but intervention effects and feasibility remain untested.
+For RQ2, the simplest measures work best. Degree and betweenness recover nine or ten of the ten most damaging airports in every airline, participation at most five. Most of an airport's loss is its own lost access; only 31 of 419 eligible airport instances also harm paths between others, among them sole partners such as Honolulu for Hilo. Participation adds signal beyond degree in AA and DL but does not improve prediction (H3 partly supported). For an airline, protecting a few hubs or giving captive spokes a second partner appears to matter more than community position, although we did not test such interventions.
 
 %=====================================================================
 \section{Critique}
 \label{critique}
 
-The primary H2 test cannot establish that degree alone determines resilience: AA and DL approach the efficiency floor before the first primary removal level. Early and full-sequence comparisons improve coverage but remain exploratory. A pre-specified early AUC or collapse-sensitive outcome could improve future tests. Two-edge randomisation, residual overlap and finite ensembles limit inference; reciprocal nulls do not control geography or frequency.
+We solved the first part of RQ1: the structural measures explain why AA and DL collapse faster than WN, and the hub-captive mechanism is directly visible in the data. The second part we answered only partly. The primary H2 test was too coarse for AA and DL, whose observed and null networks alike fall to almost zero efficiency before the first 5\% level; 38 of their 48 targeted cells had intervals no wider than 0.001. ``Not supported'' there means that the test could not discriminate, not that degree is proven sufficient. The early-AUC and 1--2\% comparisons fill this gap but were added afterwards, so we would pre-specify them in a repeat study. RQ2 was answered more clearly, but Louvain-based participation proved a weak and unstable predictor.
 
-For RQ2, survivor damage better isolates harm to other airports than total efficiency loss. A consensus or statistical community model could address Louvain partition variability. Node-level resampling is descriptive given network dependence. More airlines and quarters would strengthen generalisability. Frequency-weighted accessibility, seat capacity, time-feasible itineraries and rerouting would help extend the structural model toward operational impact.
+Other limits come from the design. Three carriers in one quarter form a case study, and they differ in size and density as well as in design. The nulls preserve degree but not geography or frequency, two-edge swaps may not sample uniformly, and part of the primary-null difference reflects lost reciprocity. Airport-level bootstrap results describe stability within one network, not a population, and efficiency counts possible connections rather than bookable itineraries or passengers.
+
+Done again, we would add airlines and quarters to separate design from size, weight routes by frequency or seats, model time-feasible itineraries with rerouting, use consensus communities instead of single Louvain partitions, and report survivor damage alongside total loss from the start.
 
 %=====================================================================
 \small
-\begin{thebibliography}{99}
+\begin{thebibliography}{99}\setlength\itemsep{1pt}\setlength\parskip{0pt}
 \bibitem{albert2000} Albert, R., Jeong, H.\ and Barab\'asi, A.-L. (2000). Error and attack tolerance of complex networks. \href{https://doi.org/10.1038/35019019}{\emph{Nature}}, 406, 378--382.
 \bibitem{holme2002} Holme, P., Kim, B.\ J., Yoon, C.\ N.\ and Han, S.\ K. (2002). Attack vulnerability of complex networks. \href{https://doi.org/10.1103/PhysRevE.65.056109}{\emph{Physical Review E}}, 65, 056109.
 \bibitem{wuellner2010} Wuellner, D.\ R., Roy, S.\ and D'Souza, R.\ M. (2010). Resilience and rewiring of the passenger airline networks in the United States. \href{https://doi.org/10.1103/PhysRevE.82.056101}{\emph{Physical Review E}}, 82, 056101.
@@ -381,7 +383,7 @@ For RQ2, survivor damage better isolates harm to other airports than total effic
 \bibitem{fosdick2018} Fosdick, B.\ K., Larremore, D.\ B., Nishimura, J.\ and Ugander, J. (2018). Configuring random graph models with fixed degree sequences. \href{https://doi.org/10.1137/16M1087175}{\emph{SIAM Review}}, 60(2), 315--355.
 \bibitem{guimera2005b} Guimer\`a, R.\ and Amaral, L.\ A.\ N. (2005). Functional cartography of complex metabolic networks. \href{https://doi.org/10.1038/nature03288}{\emph{Nature}}, 433, 895--900.
 \bibitem{bts} US Bureau of Transportation Statistics. Marketing Carrier On-Time Performance (Beginning January 2018), April--June 2025 (monthly files \texttt{April 2025.csv}, \texttt{May 2025.csv}, \texttt{June 2025.csv}). \href{https://www.transtats.bts.gov/TableInfo.asp?QO_fu146_anzr=b0-gvzr&V0s1_b0yB=D&gnoyr_VQ=FGK}{BTS dataset table (FGK)}.
-\bibitem{networkx} Hagberg, A.\ A., Schult, D.\ A.\ and Swart, P.\ J. (2008). Exploring network structure, dynamics, and function using NetworkX. \emph{Proc.\ SciPy 2008}, 11--15.
+\bibitem{networkx} Hagberg, A.\ A., Schult, D.\ A.\ and Swart, P.\ J. (2008). Exploring network structure, dynamics, and function using NetworkX. \href{https://conference.scipy.org/proceedings/SciPy2008/paper_2/}{\emph{Proc.\ SciPy 2008}}, 11--15.
 \bibitem{repo} Project repository (notebooks, data, results, verification scripts). \url{https://github.com/zahraamani7065/airline-network-resilience}
 \bibitem{freeman1978} Freeman, L.\ C. (1978--1979). Centrality in social networks: conceptual clarification. \href{https://doi.org/10.1016/0378-8733(78)90021-7}{\emph{Social Networks}}, 1(3), 215--239.
 \bibitem{blondel2008} Blondel, V.\ D., Guillaume, J.-L., Lambiotte, R.\ and Lefebvre, E. (2008). Fast unfolding of communities in large networks. \href{https://doi.org/10.1088/1742-5468/2008/10/P10008}{\emph{J.\ Stat.\ Mech.}}, P10008.
