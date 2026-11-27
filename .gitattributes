@@ -1,3 +1,4 @@
 # Store every file byte for byte: no line-ending conversion.
-# The data manifests record SHA-256 hashes of the saved files, so they must not be altered.
+# The data manifests record SHA-256 hashes of the saved files,
+# so they must not be altered.
 * -text

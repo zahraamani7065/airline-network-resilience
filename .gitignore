@@ -1,9 +1,14 @@
+
 # Python and Jupyter caches
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Node.js dependencies for the document builder (install with npm install)
+# Python virtual environments
+.venv/
+venv/
+
+# Node.js dependencies for the document builder
 node_modules/
 
 # Office lock files and operating-system files
@@ -11,3 +16,14 @@ node_modules/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# LaTeX compilation files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
